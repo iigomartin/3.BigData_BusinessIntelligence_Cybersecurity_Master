@@ -1,0 +1,9 @@
+AV, Ávila ,157664
+BU, Burgos ,357650
+LE, León ,456439
+PA, Palencia ,160321
+SA, Salamanca ,329245
+SG, Segovia ,153478
+SO, Soria ,88884
+VA, Valladolid ,520649
+ZA, Zamora ,170588

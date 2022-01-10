@@ -1,0 +1,2878 @@
+PADILLA DE ABAJO,A-231,Pontón,Marco / Cajón / Pórtico,11500
+PUENTE ALMUHEY,CL-626,Paso Superior,Convencional vigas,10800
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,59400
+LA CISTERNIGA,A-601,Paso Superior,Convencional losa/cajón,57000
+VILLASANA DE MENA,CL-629,Paso Superior,Convencional vigas,21000
+PADILLA DE ABAJO,A-231,Paso Superior,Convencional losa/cajón,78000
+VILLANUEVA DE LAS MANZANAS,A-231,Paso Superior,Convencional losa/cajón,60600
+OLMILLOS DE SASAMÓN,A-231,Paso Superior,Convencional losa/cajón,78400
+VEGA DE INFANZONES,A-231,Paso Superior,Convencional losa/cajón,61000
+BURGO RANERO,A-231,Paso Superior,Convencional losa/cajón,59500
+BURGO RANERO,A-231,Paso Superior,Convencional losa/cajón,59600
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Paso Superior,Convencional losa/cajón,45500
+VILLOTILLA,A-231,Paso Superior,Convencional losa/cajón,77600
+SAN MAMES DE CAMPOS,A-231,Paso Superior,Convencional losa/cajón,74000
+VILLAHERREROS,A-231,Paso Superior,Convencional losa/cajón,81100
+ARRABAL DEL PORTILLO,A-601,Paso Superior,Convencional vigas,34000
+CITORES DEL PÁRAMO,A-231,Paso Superior,Convencional vigas,92000
+FRESNEDO,CL-631,Paso Superior,Convencional losa/cajón,57000
+PADILLA DE ABAJO,A-231,Paso Superior,Convencional losa/cajón,70700
+OLMILLOS DE SASAMÓN,A-231,Paso Superior,Convencional losa/cajón,85000
+BERCIANOS DEL CAMINO,A-231,Paso Superior,Convencional losa/cajón,60300
+SAN MIGUEL DEL ARROYO,A-601,Paso Superior,Convencional vigas,34000
+LA CISTERNIGA,A-601,Paso Superior,Convencional losa/cajón,63100
+FRESNEDO,CL-631,Paso Superior,Convencional losa/cajón,52070
+ARRABAL DEL PORTILLO,A-601,Paso Superior,Convencional vigas,34300
+VEGA DE INFANZONES,A-231,Paso Superior,Convencional losa/cajón,81700
+LAS QUINTANILLAS,A-231,Paso Superior,Convencional losa/cajón,74400
+ARRABAL DE PORTILLO,A-601,Paso Superior,Convencional vigas,34000
+CABAÑAS DE LA DORNILLA,CL-631,Paso Superior,Convencional losa/cajón,54900
+VALLE DE LAS CASA,CL-626,Paso Superior,Convencional losa/cajón,7000
+VILLANUEVA DE GUMIEL,BU-912,Paso Superior,Boveda,7600
+SAHAGÚN,A-231,Paso Superior,Convencional vigas,42000
+VEGA DE INFANZONES,A-231,Paso Superior,Convencional losa/cajón,61000
+BURGO RANERO,A-231,Paso Superior,Convencional losa/cajón,64300
+SAHAGUN,A-231,Paso Superior,Convencional losa/cajón,64500
+MELGAR DE FERNAMENTAL,A-231,Paso Superior,Convencional losa/cajón,81000
+PAREDES DE NAVA,CL-613,Paso Superior,Convencional vigas,18800
+CUELLAR,A-601,Paso Superior,Convencional vigas,38600
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,60300
+OSORNO,A-231,Paso Superior,Convencional losa/cajón,58000
+MAGAZ,A-610,Paso Superior,Convencional losa/cajón,63400
+CARBONERO EL MAYOR,A-601,Paso Superior,Convencional vigas,83000
+SAHAGUN,A-231,Paso Superior,Convencional losa/cajón,60300
+CALZADILLA DE LA CUEZA,A-231,Paso Superior,Convencional losa/cajón,72972
+GOMEZSERRACÍN,A-601,Paso Superior,Convencional vigas,62000
+PINAREJOS,A-601,Paso Superior,Convencional vigas,62000
+CARBONERO EL MAYOR,A-601,Paso Superior,Convencional vigas,62000
+YANGUAS DE ERESMA,A-601,Paso Superior,Convencional vigas,62000
+CUELLAR,A-601,Paso Superior,Convencional vigas,62000
+SANCHONUÑO,A-601,Paso Superior,Convencional vigas,62000
+YANGUAS DE ERESMA,A-601,Paso Superior,Convencional vigas,62000
+LEDIGOS,A-231,Paso Superior,Convencional losa/cajón,47200
+SORIA,CL-117,Paso Superior,Convencional vigas,22000
+PALAZUELO DE BOÑAR,CL-624,Viaducto,Convencional vigas,100000
+VEGUELLINA DE ORBIGO,LE-420,Pontón,Convencional losa/cajón,4500
+CASAVIEJA,CL-501,Pontón,Marco / Cajón / Pórtico,4000
+QUINTANAR DE LA SIERRA,BU-822,Pontón,Boveda,5000
+CUELLAR,A-601,Pontón,Marco / Cajón / Pórtico,6150
+CUELLAR,SG-342,Pontón,Convencional losa/cajón,7000
+MOTA DEL MARQUÉS,SC-VA-14,Pontón,Boveda,4000
+ZALAMILLAS,CL-621,Pontón,Boveda,6800
+ALDEANUEVA DE LA SIERRA,SA-215,Pontón,Boveda,7300
+RAMACASTAÑAS,CL-501,Pontón,Marco / Cajón / Pórtico,8450
+ARENAS DE SAN PEDRO,AV-925,Pontón,Boveda,7950
+CAMPOHERMOSO,CL-626,Pontón,Convencional losa/cajón,5000
+POBLACION DE CERRATO,P-103,Pontón,Tubo,5320
+ALAEJOS,VA-602,Pontón,Boveda,8000
+SANTA EUFEMIA DEL ARROYO,CL-612,Pontón,Boveda,5500
+VILLAMOR DE LOS ESCUDEROS,ZA-602,Pontón,Boveda,7000
+MENESES DE CAMPOS,P-912,Pontón,Convencional losa/cajón,5650
+MATILLA DE LOS CAÑOS DEL RÍO,SA-211,Pontón,Tubo,5200
+BURON,CL-635,Pontón,Boveda,4000
+VEGA DE ESPINAREDA,LE-711,Pontón,Convencional vigas,9300
+PUEBLA DE SANABRIA,ZA-925,Pontón,Boveda,7400
+PUENTE DE DOMINGO FLÓREZ,LE-164,Pontón,Boveda,5000
+PERALES,CL-615,Pontón,Marco / Cajón / Pórtico,4300
+BARCEBALEJO,SO-920,Pontón,Boveda,4000
+ÁVILA,AV-900,Pontón,Convencional vigas,6600
+ALMUZARA,LE-315,Pontón,Boveda,6000
+MARAÑA,CL-635,Pontón,Boveda,4000
+PEDRO BERNARDO,CL-501,Pontón,Boveda,4600
+SAN EMILIANO,LE-482,Pontón,Boveda,5000
+NAVARREDONDILLA,AV-905,Pontón,Boveda,8550
+PEDRO BERNARDO,AV-922,Pontón,Boveda,4120
+ARENAS DE SAN PEDRO,AV-924,Pontón,Boveda,4000
+VESCOLIDES,BU-552,Pontón,Tubo,5000
+QUINTANILLA DE LOS OTEROS,LE-521,Pontón,Convencional losa/cajón,6000
+ZAPARDIEL DE LA CAÃ‘ADA,AV-105,Pontón,Convencional losa/cajón,5000
+TEJEDA,SA-212,Pontón,Marco / Cajón / Pórtico,4550
+FUENTES DE NAVA,P-940,Pontón,Boveda,7100
+ABEJAR,CL-117,Pontón,Marco / Cajón / Pórtico,4000
+OBÉCURI,CL-127,Pontón,Boveda,5000
+VALVERDE DE MAJANO,CL-605,Pontón,Marco / Cajón / Pórtico,5000
+ASTUDILLO,P-431,Pontón,Boveda,8300
+MEDINA DEL CAMPO,CL-602,Pontón,Tubo,4000
+ENDRINAL,SA-212,Pontón,Tubo,4000
+VECINOS,SA-205,Pontón,Tubo,7600
+HIGUERA DE LAS DUEÑAS,AV-915,Pontón,Boveda,7000
+VILLARODRIGO DE LA VEGA,P-235,Pontón,Marco / Cajón / Pórtico,7200
+PAJARES DE LAMPREANA,ZA-714,Pontón,Tubo,5700
+MAZARIEGOS,P-940,Pontón,Boveda,7000
+FUENTES DE ROPEL,ZA-510,Pontón,Boveda,6950
+VILLARRATEL,LE-213,Pontón,Boveda,4000
+BOCA DE HUÉRGANO,LE-234,Pontón,Convencional losa/cajón,9500
+LA MATA DEL PARAMO,LE-413,Pontón,Convencional vigas,5200
+ASTORGA,LE-451,Pontón,Marco / Cajón / Pórtico,5000
+CARNEROS,LE-451,Pontón,Marco / Cajón / Pórtico,5000
+VEGA DE INFANZONES,A-231,Pontón,Boveda,9600
+CASTRONUÑO,VA-610,Pontón,Boveda,5500
+ABIA DE LAS TORRES,P-245,Pontón,Boveda,5600
+DEHESA DE REBOLLO,P-121,Pontón,Marco / Cajón / Pórtico,4800
+TAMAMES,SA-210,Pontón,Tubo,14000
+CUBO DE BENAVENTE,ZA-111,Pontón,Convencional losa/cajón,4800
+PONFERRADA,CL-631,Pontón,Convencional vigas,6000
+FUENTELMONGE,SO-340,Pontón,Convencional losa/cajón,6000
+MUELAS DE LOS CABALLEROS,ZA-125,Pontón,Boveda,5800
+EXTRAMIANA,BU-532,Pontón,Boveda,4000
+MOZUELOS DE SEDANO,BU-514,Pontón,Boveda,5500
+VILLADEPERA,ZA-321,Pontón,Boveda,4050
+VILLALCAMPO,ZA-324,Pontón,Marco / Cajón / Pórtico,6400
+JUZBADO,SA-300,Pontón,Convencional losa/cajón,4750
+ALDEARRUBIA,SA-804,Pontón,Tubo,4300
+ALARAZ,SA-105,Pontón,Marco / Cajón / Pórtico,5400
+RIOSMENUDOS,P-214,Pontón,Boveda,4000
+VALENCIA DE DON JUAN,LE-512,Pontón,Marco / Cajón / Pórtico,4000
+ARCONADA,P-981,Pontón,Boveda,5000
+POBLACION DE CERRATO,P-103,Pontón,Boveda,4600
+RIOFRIO DE RIAZA,SG-112,Pontón,Boveda,5000
+EL OLMO,SG-234,Pontón,Marco / Cajón / Pórtico,5600
+VALDEPRADOS,SG-723,Pontón,Tubo,4000
+VALDEPRADOS,SG-723,Pontón,Marco / Cajón / Pórtico,5600
+AYLLON,SG-945,Pontón,Boveda,6000
+MAZAGATOS,SG-945,Pontón,Boveda,5800
+SAN PEDRO MANRIQUE,SO-630,Pontón,Boveda,6400
+CANDELEDA,CL-501,Pontón,Convencional vigas,9320
+REGUMIEL DE LA SIERRA,CL-117,Pontón,Boveda,4000
+FUENTEPINILLA,SO-100,Pontón,Boveda,4000
+VALDERRUEDA,SO-100,Pontón,Boveda,6000
+FUENTEPINILLA,SO-110,Pontón,Tubo,8000
+CASILLAS DE BERLANGA,SO-152,Pontón,Convencional losa/cajón,6000
+BARCONES,SO-152,Pontón,Convencional losa/cajón,4200
+VOZMEDIANO,SO-382,Pontón,Boveda,5000
+VILLASECA SOMERA,SO-615,Pontón,Marco / Cajón / Pórtico,4000
+ALDEALCARDO,SO-630,Pontón,Boveda,4000
+ALMENAR DE SORIA,SO-340,Pontón,Boveda,6300
+RIOCAVADO DE LA SIERRA,BU-820,Pontón,Boveda,5000
+HONTALBILLA,SG-205,Pontón,Tubo,4300
+OLMILLOS DE SASAMÓN,A-231,Pontón,Marco / Cajón / Pórtico,6000
+MONFARRACINOS,CL-612,Pontón,Marco / Cajón / Pórtico,7700
+CABAÑAS RARAS,LE-711,Pontón,Marco / Cajón / Pórtico,5800
+CABAÑAS RARAS,SC-LE-12,Pontón,Boveda,4200
+BOADILLA DEL CAMINO,P-403,Pontón,Boveda,6700
+BOGAJO,SA-325,Pontón,Marco / Cajón / Pórtico,9020
+ALBA DE TORMES,SA-114,Pontón,Boveda,5350
+CASTRONUÑO,VA-610,Pontón,Convencional vigas,7100
+VILLALON DE CAMPOS,VA-905,Pontón,Boveda,5250
+NAVA DE SOTROBAL,SA-114,Pontón,Marco / Cajón / Pórtico,4300
+VALDEZATE,BU-210,Pontón,Marco / Cajón / Pórtico,5800
+CEREZO DE ABAJO,SG-205,Pontón,Boveda,8600
+MALPARTIDA DE CORNEJA,CL-510,Pontón,Marco / Cajón / Pórtico,5000
+CASTRO DE FUENTIDUEÃ‘A,SG-241,Pontón,Boveda,4600
+AHIGAL DE VILLARINO,SA-315,Pontón,Tubo,7530
+EL ROYO,SO-820,Pontón,Boveda,6100
+VILLASRRUBIAS,CL-526,Pontón,Boveda,5600
+BARCA,CL-116,Pontón,Convencional vigas,8800
+CUEVAS DE SIL,CL-631,Pontón,Boveda,6000
+SAN ESTEBAN DEL VALLE,AV-922,Pontón,Boveda,4000
+SAN ESTEBAN DEL VALLE,AV-922,Pontón,Boveda,4000
+EL ROYO,SO-820,Pontón,Marco / Cajón / Pórtico,4000
+SAN CRISTOBAL DE CUELLAR,CL-602,Pontón,Boveda,4850
+TORREGUTIERREZ,CL-602,Pontón,Tubo,4200
+SAN MIGUEL DE LA RIVERA,CL-605,Pontón,Boveda,7500
+ESPINOSA DE LOS MONTEROS,BU-570,Pontón,Boveda,5000
+CANTALPINO,SA-801,Pontón,Tubo,4250
+ENCINILLAS,CL-603,Pontón,Marco / Cajón / Pórtico,5600
+CISNEROS,P-970,Pontón,Boveda,5000
+ARDONCILLO,CL-622,Pontón,Boveda,5000
+LA SERNA,P-241,Pontón,Boveda,6700
+VILLARDEFRADES,VA-705,Pontón,Marco / Cajón / Pórtico,8000
+CUBILLAS DE CERRATO,P-101,Pontón,Boveda,7200
+PIEDRAHITA,AV-932,Pontón,Convencional losa/cajón,9000
+GALLEGO DE SOBRINOS,AV-110,Pontón,Boveda,4900
+ZAMORA,CL-527,Pontón,Tubo,8200
+MASUECO,SA-314,Pontón,Marco / Cajón / Pórtico,4000
+PALLIDE,LE-331,Pontón,Tubo,6000
+ESPINOSA DE CERVERA,BU-910,Pontón,Boveda,8500
+ARDONCINO,CL-622,Pontón,Boveda,4000
+CASTRONUÑO,VA-610,Pontón,Boveda,8400
+OLMILLOS DE SASAMÓN,A-231,Pontón,Marco / Cajón / Pórtico,6000
+LA GRANJA DE SAN IDELFONSO,CL-601,Pontón,Boveda,4000
+MUELAS DE LOS CABALLEROS,ZA-125,Pontón,Boveda,8500
+MORAL DEL CONDADO,CL-624,Pontón,Boveda,6000
+CANDELEDA,CL-501,Pontón,Marco / Cajón / Pórtico,4330
+HERGUIJUELA,AV-932,Pontón,Boveda,5000
+MATANZA DE LOS OTEROS,CL-621-a,Pontón,Boveda,6750
+CORUÑA DEL CONDE,BU-925,Pontón,Boveda,4000
+MANSILLA DEL PARAMO,CL-621,Pontón,Convencional losa/cajón,4950
+BURGO RANERO,A-231,Pontón,Boveda,5850
+SAHAGUN,A-231,Pontón,Boveda,6000
+MORA DE LUNA,CL-626,Pontón,Boveda,8000
+VILLANUEVA DE ODRA,BU-610,Pontón,Boveda,4000
+TEJEDA,SA-212,Pontón,Tubo,5650
+SOTOBAÑADO,P-233,Pontón,Marco / Cajón / Pórtico,4350
+MOLEZUELAS DE LA CARBALLEDA,ZA-111,Pontón,Convencional losa/cajón,4800
+PUENTE ALMUHEY,LE-232,Pontón,Marco / Cajón / Pórtico,4000
+BURON,CL-635,Pontón,Boveda,7000
+PADILLA DE ABAJO,A-231,Pontón,Marco / Cajón / Pórtico,4900
+PEDRAZA DE CAMPOS,CL-612,Pontón,Boveda,5600
+TUREGANO,SG-222,Pontón,Boveda,4000
+CANTIMPALOS,CL-603,Pontón,Boveda,6100
+FUENTES DE ROPEL,ZA-510,Pontón,Marco / Cajón / Pórtico,4000
+BRETÓ,ZA-100,Pontón,Marco / Cajón / Pórtico,5000
+BOADA DE CAMPOS,P-922,Pontón,Boveda,5750
+CALLEJO DE ORDÁS,LE-460,Pontón,Convencional losa/cajón,4000
+CANTALPINO,SA-801,Pontón,Boveda,5050
+LA VID DE OJEDA,P-227,Pontón,Boveda,6000
+HUMADA,BU-621,Pontón,Convencional losa/cajón,9050
+FUENTESAÚCO,ZA-602,Pontón,Marco / Cajón / Pórtico,6400
+ARRABAL DE PORTILLO,VA-301,Pontón,Boveda,5100
+CAÑIZAR DE AMAYA,BU-627,Pontón,Marco / Cajón / Pórtico,7000
+SASAMÓN,BU-610,Pontón,Convencional vigas,5000
+TORNADIZOS DE AVILA,CL-505,Pontón,Boveda,4000
+VALENCIA DE DON JUAN,LE-512,Pontón,Boveda,6000
+CAZANUECOS,LE-412,Pontón,Boveda,8700
+CASTILLEJO DE MESLEON,SG-911,Pontón,Boveda,5000
+GARCIRREY,SA-305,Pontón,Tubo,5600
+VALENCIA DE DON JUAN,LE-510,Pontón,Boveda,8700
+CASTROCALBÓN,LE-110,Pontón,Boveda,7300
+PUEBLA DE AZABA,SA-200,Pontón,Tubo,4500
+VECINOS,SA-211,Pontón,Marco / Cajón / Pórtico,6700
+CIADUEÑA,CL-116,Pontón,Convencional losa/cajón,5150
+DUEÑAS,P-903,Pontón,Convencional losa/cajón,5000
+MAHIDE,ZA-912,Pontón,Boveda,4000
+SANTOVENIA,ZA-100,Pontón,Marco / Cajón / Pórtico,6300
+PADILLA DE ABAJO,A-231,Pontón,Marco / Cajón / Pórtico,5000
+TAMAMES,SA-213,Pontón,Boveda,7000
+PAREDES DE NAVA,P-961,Pontón,Boveda,6000
+VEGA DE RUIPONCE,VA-931,Pontón,Boveda,5300
+VILLADIEGO,BU-621,Pontón,Boveda,6000
+VILLAVICENCIO DE LOS CABALLEROS,VA-504,Pontón,Convencional vigas,4000
+VIÑUELA DE SAYAGO,ZA-306,Pontón,Marco / Cajón / Pórtico,7000
+EL CABACO,SA-220,Pontón,Boveda,6100
+FUENTENEBRO,BU-202,Pontón,Convencional losa/cajón,4000
+ARLANZÓN,BU-820,Pontón,Boveda,5000
+MUÑICO,AV-110,Pontón,Boveda,5720
+CESPEDOSA DE TORMES,SA-104,Pontón,Marco / Cajón / Pórtico,7800
+COFINAL,LE-333,Pontón,Boveda,6000
+GALLEGOS DE ALTAMIROS,AV-110,Pontón,Marco / Cajón / Pórtico,5350
+CASTRILLEJO DE LA OLMA,P-963,Pontón,Boveda,8500
+HERGUIJUELA DEL CAMPO,SA-205,Pontón,Marco / Cajón / Pórtico,4400
+EL PIÑERO,CL-605,Pontón,Convencional vigas,9400
+CUELGAMURES,ZA-611,Pontón,Boveda,4650
+GUISANDO,AV-924,Pontón,Boveda,5000
+PALACIOS DE SIL,CL-631,Pontón,Boveda,6000
+PUEBLA DE SANABRIA,ZA-104,Pontón,Marco / Cajón / Pórtico,6000
+PAREDES DE NAVA,CL-613,Pontón,Boveda,7400
+CAÑIZAL,CL-605,Pontón,Marco / Cajón / Pórtico,6800
+JIMÉNEZ DE JAMUZ,LE-110,Pontón,Boveda,6700
+RIOFRIO,AV-900,Pontón,Convencional losa/cajón,9500
+SANTA MARIA DEL BERROCAL,AV-104,Pontón,Boveda,6000
+ENCINEDO,LE-126,Pontón,Boveda,5700
+OSONILLA,SO-100,Pontón,Boveda,6000
+VOZMEDIANO,SO-382,Pontón,Boveda,5000
+VALDESAMARIO,LE-460,Pontón,Boveda,6000
+EL MAÍLLO,SA-220,Pontón,Boveda,8000
+CIMANES DEL TEJAR,LE-420,Pontón,Boveda,6500
+VALDENOCEDA,CL-629,Pontón,Boveda,5600
+CUELLAR,A-601,Pontón,Marco / Cajón / Pórtico,8000
+OSORNO,A-231,Pontón,Marco / Cajón / Pórtico,6000
+VILLANUEVA DE ARGAÑO,A-231,Pontón,Convencional vigas,9000
+VILLANUEVA DE ARGAÑO,A-231,Pontón,Convencional vigas,8900
+VILLANUEVA DE ARGAÑO,A-231,Pontón,Boveda,8950
+TARDAJOS,A-231,Pontón,Boveda,8500
+VILLOTILLA,A-231,Pontón,Marco / Cajón / Pórtico,6000
+SAN MAMÉS DE CAMPOS,A-231,Pontón,Convencional vigas,13200
+VILLAHERREROS,A-231,Pontón,Marco / Cajón / Pórtico,6000
+VILLAHERREROS,A-231,Pontón,Convencional vigas,12100
+CANTIMPALOS,A-601,Pontón,Marco / Cajón / Pórtico,6000
+QUINTANADUEÑAS,BU-622,Pontón,Marco / Cajón / Pórtico,6000
+ÁGREDA,CL-101,Pontón,Marco / Cajón / Pórtico,8000
+AGREDA,CL-101,Pontón,Marco / Cajón / Pórtico,8500
+JARAY,CL-101,Pontón,Boveda,7000
+CANDELEDA,CL-501,Pontón,Marco / Cajón / Pórtico,4000
+FUENTESAÚCO,CL-605,Pontón,Marco / Cajón / Pórtico,6010
+VALVERDE DE MAJANO,CL-605,Pontón,Marco / Cajón / Pórtico,8000
+VALVERDE DE MAJANO,CL-605,Pontón,Marco / Cajón / Pórtico,8000
+SALINAS DE PISUERGA,CL-626,Pontón,Convencional vigas,6000
+CEREZO,CL-629,Pontón,Marco / Cajón / Pórtico,6000
+CEREZO,CL-629,Pontón,Marco / Cajón / Pórtico,6000
+GIJANO,CL-629,Pontón,Marco / Cajón / Pórtico,4500
+VILLANUEVA DE MENA,CL-629,Pontón,Marco / Cajón / Pórtico,6000
+PARDAVE,LE-311,Pontón,Marco / Cajón / Pórtico,5000
+JUZBADO,SA-300,Pontón,Marco / Cajón / Pórtico,5000
+BRETOCINO,ZA-100,Pontón,Marco / Cajón / Pórtico,6900
+FUENTESAÚCO,ZA-605,Pontón,Marco / Cajón / Pórtico,8500
+EL PEGO,ZA-610,Pontón,Marco / Cajón / Pórtico,6000
+LAGUNA DE DUERO,A-601,Pontón,Marco / Cajón / Pórtico,6000
+CUELLAR,A-601,Pontón,Boveda,8000
+SANTOVENIA DE PISUERGA,VA-113,Pontón,Marco / Cajón / Pórtico,4000
+CABAÑAS DE LA DORNILLA,CL-631,Pontón,Convencional vigas,7000
+LEON,CL-623,Pontón,Marco / Cajón / Pórtico,6000
+GRIJOTA,CL-613,Pontón,Marco / Cajón / Pórtico,4000
+LA VELLÉS,SA-601,Pontón,Boveda,4800
+TORO,CL-602,Pontón,Marco / Cajón / Pórtico,5000
+TORO,CL-602,Pontón,Marco / Cajón / Pórtico,5000
+LUGAN,CL-624,Pontón,Convencional vigas,5400
+MELGAR DE TERA,ZA-105,Pontón,Convencional losa/cajón,6800
+TORO,CL-602,Pontón,Boveda,6100
+CORESES,ZA-711,Pontón,Convencional losa/cajón,4350
+TORENO,LE-463,Pontón,Marco / Cajón / Pórtico,6000
+ANAYA,CL-605,Pontón,Marco / Cajón / Pórtico,6000
+VILLASANA DE MENA,CL-629,Pontón,Marco / Cajón / Pórtico,10710
+GRIJOTA,CL-613,Pontón,Convencional losa/cajón,8450
+VILLANUEVA DE ARGAÑO,A-231,Pontón,Boveda,7500
+LAS QUINTANILLAS,A-231,Pontón,Boveda,5400
+ARRABAL DEL PORTILLO,A-601,Pontón,Marco / Cajón / Pórtico,4000
+GALLEGOS DE ALTAMIROS,AV-110,Pontón,Marco / Cajón / Pórtico,5350
+PAMPLIEGA,BU-101,Pontón,Boveda,7500
+CASTROJERIZ,BU-400,Pontón,Boveda,5000
+SANTILLÁN,BU-904,Pontón,Boveda,4000
+VILLALBILLA DE GUMIEL,BU-920,Pontón,Convencional vigas,4000
+MOLINOS DE DUERO,CL-117,Pontón,Boveda,4700
+CANDELEDA,CL-501,Pontón,Marco / Cajón / Pórtico,5000
+ZAFRÓN,CL-517,Pontón,Marco / Cajón / Pórtico,8150
+VILLAR DE PERALONSO,CL-517,Pontón,Marco / Cajón / Pórtico,5450
+PERALEJOS DE ABAJO,CL-517,Pontón,Boveda,4000
+CERRALBO,CL-517,Pontón,Boveda,4000
+EL BODÓN,CL-526,Pontón,Tubo,5050
+EL BODÓN,CL-526,Pontón,Marco / Cajón / Pórtico,5500
+VILLASRRUBIAS,CL-526,Pontón,Boveda,5550
+CIUDAD RODRIGO,CL-526,Pontón,Boveda,5050
+EL BODÓN,CL-526,Pontón,Marco / Cajón / Pórtico,6210
+VIANA DE CEGA,CL-600,Pontón,Tubo,5250
+TORREGUTIERREZ,CL-602,Pontón,Boveda,9400
+POZAL DE GALLINAS,CL-602,Pontón,Tubo,4100
+SAN MIGUEL DE BERNUY,CL-603,Pontón,Boveda,5000
+SAN MIGUEL DE BERNUY,CL-603,Pontón,Tubo,8200
+VILLAESCUSA,CL-605,Pontón,Marco / Cajón / Pórtico,4100
+VILLAFRECHOS,CL-612,Pontón,Boveda,5600
+VILLÁRDIGA,CL-612,Pontón,Boveda,9500
+CASTRONUEVO DE LOS ARCOS,CL-612,Pontón,Tubo,4000
+CASTRONUEVO DE LOS ARCOS,CL-612,Pontón,Boveda,9900
+RENEDO DE LA VEGA,CL-615,Pontón,Tubo,6800
+MANSILLA DEL PARAMO,CL-621,Pontón,Convencional losa/cajón,4100
+FONTECHA,CL-622,Pontón,Tubo,8000
+SANTA MARIA DEL PARAMO,CL-622,Pontón,Convencional vigas,6000
+ONZONILLA,CL-622,Pontón,Boveda,9800
+AZADINOS,CL-623,Pontón,Tubo,5000
+PUENTE VILLARENTE,CL-624,Pontón,Boveda,6000
+ROBLEDO DE FENAR,CL-626,Pontón,Boveda,5000
+OLLEROS DE SABERO,CL-626,Pontón,Marco / Cajón / Pórtico,4000
+CERVERA DE PISUERGA,CL-626,Pontón,Boveda,6800
+BOCOS,CL-629,Pontón,Boveda,4500
+MATARROSA DE SIL,CL-631,Pontón,Boveda,7000
+JIMÉNEZ DE JAMUZ,LE-110,Pontón,Marco / Cajón / Pórtico,4600
+ALIJA DEL INFANTADO,LE-114,Pontón,Convencional losa/cajón,7000
+ALIJA DEL INFANTADO,LE-114,Pontón,Convencional losa/cajón,9900
+ALIJA DEL INFANTADO,LE-114,Pontón,Boveda,5200
+NOGAREJAS,LE-125,Pontón,Marco / Cajón / Pórtico,4300
+TRUCHAS,LE-126,Pontón,Tubo,4500
+CASTROCONTRIGO DE LA VALDERÍA,LE-126,Pontón,Boveda,4000
+ASTORGA,LE-142,Pontón,Marco / Cajón / Pórtico,4200
+SIERO DE LA REINA,LE-215,Pontón,Boveda,4700
+MATALLANA DE TORIO,LE-315,Pontón,Boveda,5000
+PARDESIVIL,LE-321,Pontón,Convencional losa/cajón,5500
+FUENTES DE CARBAJALS,LE-512,Pontón,Boveda,4300
+VILLAQUEJIDA,LE-524,Pontón,Convencional celosía,4900
+VILLAFER,LE-524,Pontón,Convencional celosía,7000
+CACABELOS,LE-713,Pontón,Convencional vigas,6000
+BUENAVISTA DE VALDAVIA,P-225,Pontón,Tubo,5150
+QUINTANILLA DE ONSOÑA,P-240,Pontón,Boveda,6000
+ITERO DE LA VEGA,P-403,Pontón,Boveda,6800
+FROMISTA,P-431,Pontón,Boveda,7000
+BOADILLA DE RIOSECO,P-934,Pontón,Convencional losa/cajón,8200
+VILLALCAZAR DE SIRGA,P-981,Pontón,Boveda,4600
+SAN CEBRIÁN DE CAMPOS,P-984,Pontón,Boveda,4000
+CESPEDOSA DE TORMES,SA-104,Pontón,Tubo,6900
+ALARAZ,SA-105,Pontón,Marco / Cajón / Pórtico,5350
+COCA DE ALBA,SA-114,Pontón,Marco / Cajón / Pórtico,4000
+EL CABACO,SA-201,Pontón,Tubo,4850
+COTOS DE LA SIERRA,SA-205,Pontón,Tubo,7600
+NARROS DE MATALAYEGUA,SA-210,Pontón,Tubo,4250
+VALDELACASA,SA-214,Pontón,Marco / Cajón / Pórtico,8500
+CILLEROS DE LA BASTIDA,SA-215,Pontón,Tubo,4000
+TENEBRÓN,SA-220,Pontón,Boveda,8000
+CIUDAD RODRIGO,SA-220,Pontón,Marco / Cajón / Pórtico,5530
+CEPEDA,SA-225,Pontón,Marco / Cajón / Pórtico,4900
+CASTELLANOS DE VILLIQUERA,SA-300,Pontón,Tubo,4100
+SARDÓN DE LOS FRAILES,SA-302,Pontón,Boveda,5000
+ALMENDRA,SA-302,Pontón,Boveda,4000
+PELARRODRÍGUEZ,SA-305,Pontón,Marco / Cajón / Pórtico,6900
+SANDO,SA-305,Pontón,Tubo,7500
+VALSALABROSO,SA-314,Pontón,Marco / Cajón / Pórtico,5900
+SANCHÓN DE LA RIBERA,SA-315,Pontón,Marco / Cajón / Pórtico,7910
+VILLARES DE LA REINA,SA-605,Pontón,Tubo,5600
+PEÑARANDA DE BRACAMONTE,SA-801,Pontón,Tubo,4000
+VALLESA DE LA GUAREÑA,SA-801,Pontón,Tubo,4100
+VILLORIA,SA-810,Pontón,Marco / Cajón / Pórtico,6600
+NIEVA,SG-342,Pontón,Boveda,7000
+MADERUELO,SG-945,Pontón,Marco / Cajón / Pórtico,6500
+VINUESA,SO-820,Pontón,Convencional losa/cajón,4000
+LANGAYO,VA-210,Pontón,Boveda,4700
+BOLAÑOS DE CAMPOS,VA-504,Pontón,Convencional vigas,4000
+MEDINA DE RIOSECO,VA-515,Pontón,Boveda,5950
+CASTRONUÑO,VA-610,Pontón,Boveda,7500
+BOBADILLA DEL CAMPO,VA-801,Pontón,Boveda,7250
+FUENTE EL SOL,VA-801,Pontón,Convencional losa/cajón,4000
+TÁBARA,ZA-100,Pontón,Tubo,4000
+TÁBARA,ZA-100,Pontón,Tubo,4500
+GALENDE,ZA-104,Pontón,Convencional vigas,8000
+MOLEZUELAS DE LA CARBALLEDA,ZA-111,Pontón,Convencional losa/cajón,5000
+FARAMONTANOS DE TÁBARA,ZA-123,Pontón,Convencional losa/cajón,5000
+ASTURIANOS,ZA-125,Pontón,Tubo,5100
+EL CUBO DE TIERRA DEL VINO,ZA-302,Pontón,Marco / Cajón / Pórtico,4150
+PEÑAUSENDE,ZA-302,Pontón,Tubo,4900
+MAYALDE,ZA-302,Pontón,Marco / Cajón / Pórtico,4000
+PERERUELA,ZA-320,Pontón,Marco / Cajón / Pórtico,5400
+BÓVEDA DE TORO,ZA-610,Pontón,Boveda,7400
+VALLADOLID,A-601,Pasarela,Convencional celosía,49200
+RIEGO DEL CAMINO,ZA-714,Pontón,Marco / Cajón / Pórtico,5500
+VALLADOLID,A-601,Pasarela,Convencional celosía,44000
+MANGANESES DE LA LAMPREANA,ZA-714,Pontón,Marco / Cajón / Pórtico,4550
+BERNUY-SALINERO,AV-500,Pasarela,Convencional celosía,24000
+VILLAFÁFILA,ZA-715,Pontón,Convencional losa/cajón,5500
+LAS HERAS DE LA PEÃ‘A,SC-P-9,Paso Inferior,Marco / Cajón / Pórtico,7000
+FIGUERUELA DE ARRIBA,ZA-912,Pontón,Boveda,5000
+SOTOBAÑADO Y PRIORATO,SC-P-8,Paso Inferior,Convencional losa/cajón,4000
+ALCAÑICES,ZA-912,Pontón,Boveda,8350
+SANCHONUÑO,A-601,Paso Superior,Convencional vigas,62000
+HONTANGAS,BU-202,Pontón,Boveda,5500
+VILLAHERREROS,A-231,Paso Superior,Convencional losa/cajón,78000
+CUBO DE BENAVENTE,ZA-111,Pontón,Marco / Cajón / Pórtico,4800
+VILLADIEZMA,A-231,Paso Superior,Convencional losa/cajón,78000
+ONZONILLA,CL-622,Pontón,Boveda,7000
+MELGAR DE FERNAMENTAL,A-231,Paso Superior,Convencional losa/cajón,79000
+ALPARRACHE,CL-101,Pontón,Convencional losa/cajón,6000
+VILLANUEVA DE LAS MANZANAS,A-231,Paso Superior,Convencional losa/cajón,78000
+MATANZA DE LOS OTEROS,CL-621,Pontón,Marco / Cajón / Pórtico,8200
+PADILLA DE ABAJO,A-231,Paso Superior,Convencional losa/cajón,78300
+NEILA,BU-822,Pontón,Boveda,4000
+VILLASANDINO,A-231,Paso Superior,Convencional losa/cajón,77600
+VALCUENDE,CL-626,Pontón,Boveda,4100
+VILLASANDINO,A-231,Paso Superior,Convencional losa/cajón,78300
+MADERUELO,SG-945,Pontón,Boveda,9700
+VILLANUEVA DE ARGAÑO,A-231,Paso Superior,Convencional losa/cajón,75900
+FROMISTA,P-431,Pontón,Boveda,5700
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,60600
+AGUILAREJO,VA-113,Pontón,Boveda,7300
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,60000
+OSORNO,A-231,Pontón,Convencional vigas,7480
+VEGA DE INFANZONES,A-231,Paso Superior,Convencional losa/cajón,61000
+OSORNO,A-231,Pontón,Convencional vigas,7600
+SAN NICOLÁS DEL REAL CAMINO,A-231,Paso Superior,Convencional losa/cajón,69700
+VALDERAS,LE-524,Pontón,Convencional celosía,7000
+BUSTILLO DEL PÁRAMO,A-231,Paso Superior,Convencional losa/cajón,79000
+LOMAS,P-981,Pontón,Convencional losa/cajón,5000
+BUSTILLO DEL PÁRAMO,A-231,Paso Superior,Convencional losa/cajón,78600
+ACEBES DEL PARAMO,CL-621,Pontón,Convencional losa/cajón,6500
+BUSTILLO DEL PÁRAMO,A-231,Paso Superior,Convencional losa/cajón,78600
+RIO SECO DE TAPIA,LE-420,Puente,Boveda,6000
+CARRIÓN DE LOS CONDES,A-231,Paso Superior,Convencional losa/cajón,78600
+VILLAMAÑÁN,CL-621,Pontón,Marco / Cajón / Pórtico,7000
+VILLAHERREROS,A-231,Paso Superior,Convencional losa/cajón,83800
+SOGUILLO DE PARAMO,LE-413,Pontón,Convencional vigas,6500
+NOVIERCAS,CL-101,Paso Superior,Convencional vigas,42800
+ROPERUELOS DEL PARAMO,LE-413,Pontón,Boveda,5000
+OLMEDO,CL-602,Paso Superior,Convencional vigas,23000
+CIMANES DEL TEJAR,LE-420,Pontón,Convencional vigas,7000
+SAHAGÚN,CL-613,Paso Superior,Convencional vigas,24700
+VILLADANGOS DEL PARAMO,LE-443,Pontón,Convencional losa/cajón,5750
+TORENO,LE-715,Paso Superior,Convencional vigas,32400
+VILLORIA,SA-810,Pontón,Convencional vigas,7350
+ONCALA,SO-650,Paso Superior,Convencional vigas,27000
+LA BAÑEZA,CL-622,Pontón,Convencional losa/cajón,5850
+CASTRONUÑO,CL-602,Paso Superior,Convencional vigas,24000
+MENESES DE CAMPOS,P-912,Pontón,Convencional vigas,6400
+SANCHONUÑO,A-601,Paso Superior,Convencional vigas,62000
+ARAUZO DE MIEL,BU-921,Pontón,Boveda,6000
+LAGUNA DE DUERO,A-601,Paso Superior,Convencional losa/cajón,64000
+BUENAVISTA DE VALDAVIA,P-225,Pontón,Boveda,4000
+ENTRAMBASAGUAS,CL-629,Paso Superior,Convencional vigas,30600
+BAÑUELOS DE BUREBA,BU-710,Pontón,Boveda,8000
+ALDEA DE SAN MIGUEL,A-601,Paso Superior,Convencional vigas,35000
+TARANCUEÑA,SO-135,Pontón,Boveda,8000
+HERRERA DE DUERO,A-601,Paso Superior,Convencional losa/cajón,28000
+LA POLA DE GORDÓN,LE-473,Pontón,Boveda,8000
+GOMEZSERRACÍN,A-601,Paso Superior,Convencional vigas,62000
+PIEDRAHITA DE JUARROS,BU-702,Pontón,Boveda,8000
+ARRABAL DE PORTILLO,A-601,Paso Superior,Convencional vigas,55100
+COGOLLOS,SC-BU-18,Pontón,Boveda,6400
+ARANDA DE DUERO,BU-950,Paso Superior,Convencional losa/cajón,27000
+PRIORO,LE-234,Pontón,Boveda,4000
+VILLASANA DE MENA,CL-629,Paso Superior,Convencional vigas,25840
+SAN BARTOLOME DE CORNEJA,AV-104,Pontón,Boveda,12000
+VILLASANA DE MENA,CL-629,Paso Superior,Convencional vigas,20362
+SAN BARTOLOME DE CORNEJA,AV-104,Pontón,Boveda,5000
+VILORIA DE LA JURIDISCCIÓN,A-231,Paso Superior,Convencional losa/cajón,80200
+SAN BARTOLOME DE CORNEJA,AV-104,Pontón,Boveda,5000
+VILLANUEVA DE LAS MANZANAS,A-231,Paso Superior,Convencional losa/cajón,65200
+ARZA,CL-620,Pontón,Boveda,6150
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,94000
+MURIAS DE PONJOS,LE-460,Pontón,Boveda,6000
+BURGO RANERO,A-231,Paso Superior,Convencional losa/cajón,63000
+CUEVAS DE SAN CLEMENTE,BU-901,Pontón,Boveda,4000
+SAHAGUN,A-231,Paso Superior,Convencional losa/cajón,60900
+MAHIDE,ZA-912,Pontón,Boveda,9000
+SAHAGÚN,CL-613,Paso Superior,Convencional vigas,24100
+MOMBELTRAN,AV-922,Pontón,Convencional losa/cajón,4000
+VILLAHERREROS,A-231,Paso Superior,Convencional losa/cajón,80000
+SALDAÑA DE BURGOS,SC-BU-17,Pontón,Boveda,5800
+CARRIÓN DE LOS CONDES,A-231,Paso Superior,Convencional losa/cajón,78800
+CABRILLANES,LE-491,Pontón,Boveda,6950
+SAN MAMÉS DE CAMPOS,A-231,Paso Superior,Convencional losa/cajón,71500
+FUENTES DE NAVA,P-940,Pontón,Convencional losa/cajón,6000
+BUSTILLO DEL PÁRAMO DE CARRIÓN,A-231,Paso Superior,Convencional losa/cajón,80000
+ARMENTIA DE GOVELOSTE,CL-127,Pontón,Boveda,6000
+MELGAR DE FERNAMENTAL,A-231,Paso Superior,Convencional losa/cajón,78800
+ALMAZUL,SO-350,Pontón,Boveda,7200
+CARBONERO EL MAYOR,A-601,Paso Superior,Convencional vigas,62000
+CHAMARTIN,AV-110,Pontón,Boveda,5100
+CUELLAR,A-601,Paso Superior,Convencional vigas,35000
+SABERO,CL-626,Pontón,Boveda,8000
+LAYNA,SO-411,Paso Superior,Marco / Cajón / Pórtico,10000
+PINILLA DE LOS BARRUECOS,BU-925,Pontón,Boveda,6300
+FUENTESAÚCO,CL-605,Paso Superior,Convencional vigas,32800
+CABEZAS DEL VILLAR,AV-110,Pontón,Boveda,7000
+CARBONERO EL MAYOR,A-601,Paso Superior,Convencional vigas,68750
+HINOJAR DE CERVERA,BU-910,Pontón,Tubo,7000
+YANGUAS DE ERESMA,A-601,Paso Superior,Convencional vigas,62000
+SANTO DOMINGO DE SILOS,BU-910,Pontón,Boveda,6000
+SAHAGUN,A-231,Paso Superior,Convencional losa/cajón,64300
+MONTENEGRO DE CAMEROS,SO-830,Pontón,Boveda,17000
+MAGAZ,A-610,Paso Superior,Convencional losa/cajón,92900
+MORÓN DE ALMAZÁN,CL-116,Pontón,Boveda,6000
+RODA DE ERESMA,A-601,Paso Superior,Convencional vigas,62000
+VILLABLINO,CL-626,Pontón,Boveda,7000
+MORATINOS,A-231,Paso Superior,Convencional losa/cajón,77800
+VILLAR DEL RÍO,SO-615,Pontón,Marco / Cajón / Pórtico,4000
+CUELLAR,A-601,Paso Superior,Convencional vigas,34000
+PEDRAJAS,SO-800,Pontón,Boveda,7600
+PINAREJOS,A-601,Paso Superior,Convencional vigas,62000
+ARENAS DE SAN PEDRO,AV-924,Pontón,Boveda,6060
+PINAREJOS,A-601,Paso Superior,Convencional vigas,62000
+BUENAVISTA DE VALDAVIA,P-225,Pontón,Boveda,6000
+PINAREJOS,A-601,Paso Superior,Convencional vigas,62000
+ALCUBILLA DE AVELLANEDA,SO-934,Pontón,Marco / Cajón / Pórtico,8000
+NAVALMANZANO,A-601,Paso Superior,Convencional vigas,62000
+SAN SALVADOR DE CANTAMUDA,CL-627,Pontón,Boveda,8000
+CUELLAR,A-601,Paso Superior,Convencional vigas,34000
+COFIÑAL,LE-333,Pontón,Boveda,6600
+PINAREJOS,A-601,Paso Superior,Convencional vigas,62000
+PIEDRAHITA,AV-102,Pontón,Boveda,6050
+PINAREJOS,A-601,Paso Superior,Convencional vigas,62000
+VOZMEDIANO,SO-382,Pontón,Boveda,7000
+CARBONERO EL MAYOR,A-601,Paso Superior,Convencional vigas,62000
+LA UÑA,CL-635,Pontón,Boveda,7000
+ALMAGARINOS,LE-460,Pontón,Marco / Cajón / Pórtico,4000
+CALZADILLA DE LA CUEZA,A-231,Pontón,Marco / Cajón / Pórtico,6180
+SACRAMENIA,SG-241,Pontón,Convencional losa/cajón,4500
+CALZADILLA DE LA CUEZA,A-231,Pontón,Marco / Cajón / Pórtico,6180
+RIELLO,LE-493,Pontón,Boveda,9000
+RIOSECO DE TAPIA,LE-460,Pontón,Marco / Cajón / Pórtico,5000
+VILLABLINO,CL-631,Pontón,Convencional vigas,9000
+GÓMARA,SO-340,Pontón,Boveda,8000
+GUIJOSA,SO-934,Pontón,Boveda,7000
+TORRE DEL BIERZO,LE-114,Pontón,Convencional vigas,7000
+PUEBLA DE LILLO,LE-331,Pontón,Boveda,4000
+TRUCHAS,LE-126,Pontón,Boveda,5000
+PERAZANCAS,P-227,Pontón,Boveda,5500
+VEGA DE ESPINAREDA,LE-711,Pontón,Marco / Cajón / Pórtico,4750
+LUBIÁN,ZA-106,Pontón,Boveda,7900
+LA ALBERCA,SA-201,Pontón,Boveda,7700
+CARMENES,LE-315,Pontón,Boveda,7600
+CASAVIEJA,SC-AV-1,Pontón,Boveda,6100
+LEDIGOS,P-970,Pontón,Boveda,7250
+EL HERRADON,AV-503,Pontón,Boveda,6000
+VILLASARRACINO,P-236,Pontón,Boveda,5600
+LEDIGOS,P-970,Pontón,Boveda,6500
+MIRANDA DE EBRO,BU-733,Pontón,Boveda,6400
+TAMAMES,SA-201,Pontón,Boveda,6000
+MIRANDA DE EBRO,BU-740,Pontón,Marco / Cajón / Pórtico,4600
+PALLIDE,LE-331,Pontón,Boveda,9200
+LUMBRALES,CL-517,Pontón,Boveda,6000
+ARENAS DE SAN PEDRO,AV-924,Pontón,Boveda,4000
+CISTIERNA,CL-626,Pontón,Convencional vigas,8500
+ARENAS DE SAN PEDRO,AV-923,Pontón,Convencional vigas,6000
+ANDALUZ,SO-100,Pontón,Convencional losa/cajón,8000
+BENAVIDES DE ORBIGO,LE-420,Pontón,Boveda,6000
+ARGUJILLO,CL-605,Pontón,Marco / Cajón / Pórtico,4100
+CASTROVERDE DE CAMPOS,ZA-504,Pontón,Boveda,9700
+RIBAS DE CAMPOS,P-984,Pontón,Convencional vigas,7100
+BENUZA,LE-164,Pontón,Convencional losa/cajón,4800
+VILLANUEVA DE ARRIBA,CL-626,Pontón,Marco / Cajón / Pórtico,4500
+MAZATERÓN,SO-350,Pontón,Convencional losa/cajón,5800
+SANTIBAÑEZ DE LA PEÑA,CL-626,Pontón,Marco / Cajón / Pórtico,4500
+VEGA DE ESPINAREDA,LE-711,Pontón,Marco / Cajón / Pórtico,6000
+TAMARIZ DE CAMPOS,VA-920,Pontón,Convencional vigas,8800
+RIELLO,LE-493,Pontón,Convencional losa/cajón,5000
+PEDRO BERNARDO,AV-922,Pontón,Boveda,6020
+CERECEDA DE LA SIERRA,SA-215,Pontón,Boveda,5000
+HOSPITAL DE ÓRBIGO,LE-420,Pontón,Marco / Cajón / Pórtico,5750
+DEHESA MAYOR,SG-205,Pontón,Tubo,4000
+VELILLA DE RIO CARRION,P-210,Pontón,Convencional losa/cajón,6600
+EL BODÓN,SA-200,Pontón,Boveda,5100
+MALVA,ZA-713,Pontón,Boveda,6000
+AGUILAR DE CAMPOO,CL-626,Pontón,Boveda,5900
+SAN MARTÍN DE VALDERADUEY,CL-612,Pontón,Boveda,6600
+QUINTANILLA DEL AGUA,BU-904,Pontón,Boveda,5000
+VILLAR DE FALLAVES,ZA-504,Pontón,Boveda,5400
+LUGÁN,CL-624,Pontón,Boveda,5100
+CORRALES DEL VINO,ZA-611,Pontón,Boveda,4700
+PUEBLA DE SANABRIA,SC-ZA-1,Pontón,Boveda,5550
+CANTALPINO,SA-801,Pontón,Boveda,4800
+LA POLA DE GORDÓN,LE-473,Pontón,Marco / Cajón / Pórtico,5000
+CASTRONUEVO DE LOS ARCOS,ZA-713,Pontón,Boveda,7300
+FRESNO DE SAYAGO,ZA-302,Pontón,Marco / Cajón / Pórtico,6500
+PERALEJOS DE ABAJO,CL-517,Pontón,Marco / Cajón / Pórtico,5000
+PIORNEDO,LE-315,Pontón,Boveda,5000
+PEÑAPARDA,CL-526,Pontón,Boveda,4000
+POBLACION DE SOTO,P-241,Pontón,Boveda,7600
+MALVA,ZA-713,Pontón,Boveda,4000
+VILLASECO DE LOS REYES,SA-302,Pontón,Boveda,9000
+POZOANTIGUO,ZA-713,Pontón,Marco / Cajón / Pórtico,5850
+SANTA GADEA DEL CID,BU-525,Pontón,Boveda,4180
+CAMPO DE PEÑARANDA,SA-801,Pontón,Tubo,5000
+MONTE ALTO,VA-101,Pontón,Boveda,4000
+ALMENDRA,SA-302,Pontón,Boveda,5000
+VILLAMUERA DE LA CIEZA,P-963,Pontón,Boveda,5000
+ALMENDRA,SA-302,Pontón,Boveda,4000
+VILLASECO DE LOS REYES,SA-302,Pontón,Marco / Cajón / Pórtico,7850
+TAMAMES,SA-210,Pontón,Tubo,4100
+SAN EMILIANO,LE-481,Pontón,Convencional vigas,6000
+PEÑARANDA DE BRACAMONTE,SA-801,Pontón,Tubo,7400
+CARDEÃÑOSA,AV-804,Pontón,Marco / Cajón / Pórtico,5000
+ALDEASECA DE LA FRONTERA,SA-801,Pontón,Tubo,5100
+MIJARES,AV-901,Pontón,Boveda,4060
+FRESNO DE SAYAGO,ZA-320,Pontón,Boveda,8500
+HERGUIJUELA,AV-932,Pontón,Boveda,4000
+PERERUELA,CL-527,Pontón,Boveda,5000
+QUINCOCES DE YUSO,BU-552,Pontón,Marco / Cajón / Pórtico,5200
+TRABANCA,SA-315,Pontón,Tubo,8000
+PAMPLIEGA,BU-101,Pontón,Boveda,4000
+TRABANCA,SA-315,Pontón,Tubo,5200
+PAMPLIEGA,BU-101,Pontón,Boveda,4500
+QUINTANA MARTÍN GALÍNDEZ,BU-530,Pontón,Boveda,6000
+BERMILLO DE SAYAGO,ZA-302,Pontón,Convencional losa/cajón,6400
+LAS HOYAS,BU-570,Pontón,Boveda,4030
+LA ALBERGUERÍA DE ARGAÑÁN,SA-200,Pontón,Boveda,9000
+ROBLADILLO DE UCIEZA,P-242,Pontón,Boveda,6600
+ITUERO DE AZABA,SA-200,Pontón,Boveda,9200
+SECAREJO,LE-420,Pontón,Marco / Cajón / Pórtico,5820
+PERALEJOS DE ABAJO,CL-517,Pontón,Boveda,6000
+RIHONOR DE CASTILLA,ZA-921,Pontón,Marco / Cajón / Pórtico,6200
+MUÑICO,AV-110,Pontón,Boveda,4000
+BECEDAS (PALACIOS DE BECEDAS,AV-100,Pontón,Boveda,4000
+LA SEQUERA DE HAZA,BU-202,Pontón,Marco / Cajón / Pórtico,4700
+ALMENAR DE SORIA,CL-101,Pontón,Marco / Cajón / Pórtico,6500
+VILLASANDINO,BU-404,Pontón,Convencional losa/cajón,9650
+BUBEROS,CL-101,Pontón,Boveda,6000
+PALACIOS DE RÍO PISUERGA,BU-434,Pontón,Boveda,4000
+BUBEROS,CL-101,Pontón,Boveda,6500
+PALACIOS DE RÍO PISUERGA,BU-434,Pontón,Boveda,4700
+GÓMARA,CL-101,Pontón,Marco / Cajón / Pórtico,6000
+SASAMÓN,BU-610,Pontón,Convencional vigas,5000
+BORJABAD,CL-101,Pontón,Convencional losa/cajón,6000
+BENAFARCES,VA-705,Pontón,Marco / Cajón / Pórtico,9800
+SORIA,CL-117,Pontón,Marco / Cajón / Pórtico,4000
+BENAFARCES,VA-705,Pontón,Marco / Cajón / Pórtico,5550
+ARGOTE DE TREVIÑO,CL-127,Pontón,Boveda,5100
+MEDINACELI,SO-411,Puente,Convencional vigas,71000
+LLAMA,CL-626,Pontón,Boveda,5000
+RABANAL DE ABAJO,CL-631,Puente,Convencional vigas,61000
+SANTA OLAJA DE PORMA,CL-624,Pontón,Convencional vigas,4200
+LINARES DE RIOFRÍO,SA-205,Puente,Convencional vigas,16700
+BUENAMADRE,SA-305,Pontón,Boveda,6800
+MATILLA DE LOS CAÑOS DEL RÍO,SA-211,Puente,Boveda,26600
+BOADILLA DEL CAMINO,P-403,Pontón,Boveda,7000
+DIEGO ÁLVARO,AV-105,Puente,Convencional vigas,16400
+QUINTANILLA DE ONSOÃ‘A,P-240,Pontón,Boveda,4500
+FUENTESAÚCO,ZA-602,Puente,Convencional losa/cajón,10800
+NAVARREVISCA,AV-913,Pontón,Marco / Cajón / Pórtico,6050
+MOLEZUELAS DE LA CARBALLEDA,ZA-111,Puente,Marco / Cajón / Pórtico,10300
+BLASCOSANCHO,CL-507,Pontón,Boveda,4700
+VILLAMBROZ,P-235,Puente,Boveda,10500
+GALLEGOS DE SOBRINOS,AV-110,Pontón,Boveda,4850
+RIOFRIO,AV-900,Puente,Boveda,10000
+EL HOYO DE PINARES,AV-561,Pontón,Boveda,6000
+NAVALUENGA,AV-902,Puente,Boveda,15000
+SORDILLOS,BU-610,Pontón,Boveda,4020
+NAVAS DE LA ASUNCION,SG-342,Puente,Boveda,19200
+SANTA MARIA DEL PARAMO,CL-622,Pontón,Convencional losa/cajón,6000
+CABOALLES DE ABAJO,CL-626,Puente,Boveda,41000
+SAN MIGUEL DEL VALLE,ZA-513,Pontón,Boveda,9350
+VILLOTILLA,A-231,Puente,Marco / Cajón / Pórtico,13000
+VILLEMAR,P-905,Pontón,Convencional losa/cajón,5100
+FUENTES DE ROPEL,ZA-510,Puente,Boveda,22800
+VILLABERMUDO,P-227,Pontón,Tubo,4150
+LA BÓVEDA DE TORO,ZA-604,Puente,Boveda,16900
+CIUDAD RODRIGO,SA-213,Pontón,Boveda,5400
+CEBREROS,AV-502,Puente,Boveda,17300
+ALBA DE YELTES,SA-213,Pontón,Boveda,6000
+ALAEJOS,VA-801,Puente,Boveda,13900
+COVALEDA,CL-117,Pontón,Boveda,6600
+SALDAÑA,P-235,Puente,Convencional vigas,12850
+CANDELEDA,CL-501,Pontón,Convencional vigas,9230
+NAVALES,CL-510,Puente,Convencional vigas,13750
+ROBLIZA DE COJOS,SA-211,Pontón,Tubo,6300
+CUBO DE DON SANCHO,SA-315,Puente,Boveda,25000
+PUENTE VILLARENTE,CL-624,Pontón,Convencional vigas,4750
+CIUDAD RODRIGO,SA-324,Puente,Boveda,16950
+VILLASARRACINO,P-236,Pontón,Boveda,4500
+EL ESPINAR,SG-500,Puente,Convencional losa/cajón,11000
+VALDERREDONDA DE GREDOS,AV-941,Pontón,Tubo,4250
+SAN MIGUEL DE BERNUY,CL-603,Puente,Boveda,12000
+VOZNUEVO,CL-626,Pontón,Boveda,5000
+COVALEDA,CL-117,Puente,Boveda,12950
+CASAVIEJA,AV-901,Pontón,Boveda,4070
+SAELICES DE MAYORGA,VA-932,Puente,Boveda,19500
+GAVILANES,CL-501,Pontón,Marco / Cajón / Pórtico,4000
+VILLÁRDIGA,CL-612,Puente,Boveda,29400
+CUENCA DE CAMPOS,VA-905,Pontón,Boveda,5800
+FUENTELAPEÑA,ZA-602,Puente,Marco / Cajón / Pórtico,17200
+PINEDA DE LA SIERRA,BU-820,Pontón,Boveda,6100
+CERECEDA DE LA SIERRA,SA-220,Puente,Convencional vigas,29400
+POZOS DE HINOJO,SA-315,Pontón,Boveda,6800
+HERNANSANCHO,CL-507,Puente,Boveda,27000
+HORNILLOS DE CERRATO,P-130,Pontón,Marco / Cajón / Pórtico,4190
+CASTILLEJO DE MARTÍN VIEJO,SA-324,Puente,Convencional vigas,66800
+GRANDES,AV-114,Pontón,Boveda,4000
+VILLAFÁFILA,ZA-715,Puente,Convencional losa/cajón,10500
+PEDRO BERNARDO,CL-501,Pontón,Boveda,4560
+ZAMORA,CL-527,Puente,Convencional vigas,38000
+VALENCIA DE DON JUAN,CL-621,Pontón,Boveda,5300
+MONTEJOS DEL CAMINO,LE-441,Puente,Convencional vigas,12000
+VALENCIA DE DON JUAN,LE-510,Pontón,Boveda,5600
+VILLANUEVA DEL CARRIZO,LE-441,Puente,Convencional vigas,12000
+SAN CRISTOBAL DE LA VEGA,SG-351,Pontón,Boveda,4500
+VILLARDECIERVOS,ZA-912,Puente,Boveda,11300
+EL ESPINAR,SG-500,Pontón,Convencional losa/cajón,4500
+MIJARALUENGA,BU-530,Puente,Convencional vigas,17700
+VEGA DE MATUTE,SG-722,Pontón,Marco / Cajón / Pórtico,4200
+ALBA DE TORMES,SA-114,Puente,Boveda,10950
+VALDEPRADOS,SG-723,Pontón,Tubo,4200
+LUBIÁN,ZA-106,Puente,Convencional losa/cajón,23900
+ALDEALENGUA DE SANTA MARIA,SG-945,Pontón,Boveda,5400
+FUENTEGUINALDO,CL-526,Puente,Convencional losa/cajón,97000
+MAZAGATOS,SG-945,Pontón,Boveda,6000
+FUENTE EL SOL,VA-801,Puente,Convencional losa/cajón,14450
+SAN MARTIN DEL PIMPOLLAR,AV-941,Pontón,Boveda,5000
+FUENTE ENCALADA,ZA-110,Puente,Marco / Cajón / Pórtico,11800
+LA REDONDA,SA-324,Pontón,Marco / Cajón / Pórtico,6180
+BENAVIDES DE ORBIGO,LE-420,Puente,Boveda,10000
+ESPADAÑEDO,ZA-125,Pontón,Boveda,6200
+RÍONEGRO DEL PUENTE,ZA-111,Puente,Convencional losa/cajón,10400
+CARDAÑO DE ARRIBA,P-217,Pontón,Boveda,8000
+MEDINA DEL CAMPO,CL-610,Puente,Marco / Cajón / Pórtico,24000
+NAVARREDONDA DE GREDOS,AV-941,Pontón,Marco / Cajón / Pórtico,7750
+CIUDAD RODRIGO,SA-213,Puente,Convencional losa/cajón,11050
+TEJEDA,SA-212,Pontón,Tubo,4550
+ARROYO DE CUELLAR,SG-342,Puente,Marco / Cajón / Pórtico,11000
+OSONILLA,SO-100,Pontón,Boveda,4000
+BECEDAS,AV-100,Puente,Convencional vigas,19500
+FUENTEPINILLA,SO-100,Pontón,Boveda,4000
+FERRERUELA DE TÁBARA,ZA-902,Puente,Boveda,14900
+YELO,SO-132,Pontón,Convencional losa/cajón,5500
+MAZARIEGOS,P-940,Puente,Convencional losa/cajón,10400
+BURGO DE OSMA,SO-160,Pontón,Convencional losa/cajón,5000
+ALMEIDA DE SAYAGO,ZA-320,Puente,Boveda,17400
+BURGO DE OSMA,SO-160,Pontón,Convencional losa/cajón,4500
+PARDILLA,BU-202,Puente,Boveda,18130
+DEZA,SO-350,Pontón,Tubo,6500
+MOZÁRBEZ,CL-512,Puente,Boveda,13500
+ALDEALCARDO,SO-630,Pontón,Boveda,4000
+SAELICES DE MAYORGA,VA-932,Puente,Boveda,12000
+ALDEALCARDO,SO-630,Pontón,Boveda,6000
+LA HORRA,BU-130,Puente,Boveda,16000
+MAZAGATOS,SG-945,Pontón,Boveda,7000
+SAN MARTÍN DE DON,BU-530,Puente,Convencional vigas,14700
+FUENTETOVAR,CL-116,Pontón,Convencional losa/cajón,5300
+SALUDES DE CASTROPONCE,LE-411,Puente,Convencional celosía,11200
+RIOFRIO DE RIAZA,SG-112,Pontón,Boveda,6800
+VILLANUEVA DE LAS MANZANAS,A-231,Puente,Convencional vigas,33500
+TIEDRA,VA-705,Pontón,Marco / Cajón / Pórtico,5150
+FRESNO DE LA VEGA,LE-512,Puente,Boveda,10500
+SAN VITERO,ZA-912,Pontón,Boveda,9000
+LARRODRIGO,SA-113,Puente,Boveda,19800
+MENESES DE CAMPOS,P-912,Pontón,Convencional losa/cajón,5650
+JUSTEL,ZA-125,Puente,Boveda,56800
+SANZOLES,ZA-610,Pontón,Boveda,7300
+POYALES DEL HOYO,CL-501,Puente,Convencional vigas,29000
+EL BODÓN,CL-526,Pontón,Marco / Cajón / Pórtico,4000
+VALENCIA DE DON JUAN,LE-512,Puente,Convencional vigas,10500
+NAVALMANZANO,SG-222,Pontón,Boveda,8400
+GORDONCILLO,LE-542,Puente,Boveda,19400
+CABRILLANES,LE-491,Pontón,Boveda,5000
+CAMASOBRES,CL-627,Puente,Boveda,13000
+VILLAESCUSA,CL-605,Pontón,Marco / Cajón / Pórtico,6550
+SANTIBÁÑEZ DE LA SIERRA,SA-205,Puente,Convencional vigas,28500
+NAVALUENGA,AV-902,Pontón,Boveda,6000
+ARQUILLINOS,ZA-714,Puente,Marco / Cajón / Pórtico,34500
+VELILLAS DEL DUQUE,P-240,Pontón,Boveda,5000
+VILLALMONDAR,BU-701,Puente,Boveda,11000
+MORAL DE LA REINA,VA-905,Pontón,Marco / Cajón / Pórtico,5200
+FRESNO ALHANAIGA,SA-114,Puente,Boveda,10900
+CEBREROS,AV-503,Pontón,Boveda,5000
+LAS QUINTANILLAS,A-231,Puente,Convencional vigas,11520
+CANTALAPIEDRA,SA-800,Pontón,Boveda,7500
+SANTAS MARTAS,A-231,Puente,Convencional losa/cajón,65100
+EL MAÍLLO,SA-220,Pontón,Boveda,5000
+CARRION DE LOS CONDES,A-231,Puente,Marco / Cajón / Pórtico,10800
+ZALAMILLAS,CL-621,Pontón,Boveda,6120
+BUBEROS,CL-101,Puente,Convencional vigas,11500
+CASTROVIDO,BU-825,Pontón,Boveda,9580
+BUBEROS,CL-101,Puente,Convencional vigas,10500
+CASTROVIDO,BU-825,Pontón,Boveda,6000
+OLVEGA,CL-101,Puente,Convencional vigas,11000
+VIANA DE CEGA,SC-VA-3,Pontón,Boveda,4000
+VILLAUMBRALES,CL-613,Puente,Convencional vigas,41800
+MIRANTES DE LUNA,CL-626,Pontón,Boveda,4000
+VILLANUEVA DE LAS MANZANAS,A-231,Puente,Convencional vigas,28150
+MIRANTES DE LUNA,CL-626,Pontón,Boveda,4000
+VILLARROQUEL,LE-420,Puente,Convencional losa/cajón,10000
+CANTIVEROS,AV-800,Pontón,Boveda,6000
+GAVILANES DE ORBIGO,LE-443,Puente,Convencional losa/cajón,10500
+RABANAL DE FENAR,CL-626,Pontón,Boveda,6000
+LAGUNA DE DUERO,A-601,Puente,Convencional vigas,14000
+FUENTERROBLE DE SALVATIERRA,SA-212,Pontón,Boveda,7300
+LAGUNA DE DUERO,A-601,Puente,Convencional vigas,13300
+MEDINA DE RIOSECO,VA-905,Pontón,Convencional losa/cajón,6700
+CASTRONUÑO,CL-602,Puente,Convencional vigas,12000
+SAN MARTIN DE LOS HERREROS,P-212,Pontón,Marco / Cajón / Pórtico,8000
+TORO,ZA-633,Puente,Convencional vigas,53900
+SAN MARCIAL,ZA-305,Pontón,Convencional losa/cajón,7600
+MELGAR DE FERNAMENTAL,A-231,Puente,Convencional vigas,14850
+HERRERA DE PISUERGA,P-231,Pontón,Marco / Cajón / Pórtico,5000
+OLMILLOS DE SASAMÓN,A-231,Puente,Convencional vigas,12000
+ISOBA,LE-331,Pontón,Convencional losa/cajón,6000
+VALSECA,A-601,Puente,Marco / Cajón / Pórtico,12000
+MATALEBRERAS,SO-380,Pontón,Boveda,8100
+VILLANUEVA DE LAS MANZANAS,A-231,Puente,Convencional vigas,15100
+CAÑIZAL,CL-605,Pontón,Marco / Cajón / Pórtico,5200
+CUELLAR,A-601,Puente,Convencional vigas,39100
+LOS ROBLES DE VALCUEVA,LE-311,Pontón,Boveda,4000
+NAVALMANZANO,A-601,Puente,Convencional vigas,21300
+VILLALON DE CAMPOS,VA-905,Pontón,Convencional vigas,8800
+VILLOTILLA,A-231,Puente,Marco / Cajón / Pórtico,11400
+VALDESPINA,P-430,Pontón,Boveda,4200
+CARRIÓN DE LOS CONDES,A-231,Puente,Convencional vigas,21600
+VILLALAZARA,CL-629,Pontón,Boveda,5600
+QUINTANILLA DEL AGUA,BU-904,Puente,Convencional vigas,12250
+CALTOJAR,SO-152,Pontón,Boveda,4100
+POYALES DEL HOYO,CL-501,Puente,Marco / Cajón / Pórtico,10530
+CITORES DEL PÁRAMO,A-231,Pontón,Boveda,7500
+POYALES DEL HOYO,CL-501,Puente,Marco / Cajón / Pórtico,14700
+QUINTANA ENTREPEÑAS,BU-550,Pontón,Convencional celosía,4400
+ALDEATEJADA,CL-512,Puente,Marco / Cajón / Pórtico,11000
+VILLAVICENCIO DE LOS CABALLEROS,VA-504,Pontón,Convencional vigas,4000
+TORO,CL-602,Puente,Boveda,13150
+FUENTELAPEÑA,ZA-604,Pontón,Boveda,4050
+RABANAL DE ABAJO,CL-631,Puente,Convencional vigas,11000
+SANTIBAÑEZ DEL VAL,BU-901,Pontón,Boveda,6400
+VALDERAS,LE-512,Puente,Boveda,90400
+VILLAMEDIANA,P-411,Pontón,Marco / Cajón / Pórtico,5440
+VALDERAS,LE-512,Puente,Tubo,10500
+NEILA,BU-822,Pontón,Boveda,4000
+VALDERAS,LE-513,Puente,Boveda,10600
+GARCILLAN,CL-605,Pontón,Marco / Cajón / Pórtico,6500
+VALDERAS,LE-524,Puente,Convencional celosía,29000
+CASTRONUÑO,CL-602,Pontón,Marco / Cajón / Pórtico,6000
+VILLAQUEJIDA,LE-524,Puente,Convencional losa/cajón,35000
+MEDINA DEL CAMPO,CL-610,Pontón,Marco / Cajón / Pórtico,7100
+VILLAQUEJIDA,LE-524,Puente,Convencional celosía,30000
+FUENTE EL SOL,CL-610,Pontón,Boveda,5000
+VILLAFER,LE-524,Puente,Convencional celosía,28350
+MATANZA DE LOS OTEROS,CL-621-a,Pontón,Boveda,6750
+ITERO DE LA VEGA,P-403,Puente,Boveda,27400
+ALENTISQUE,CL-116,Pontón,Boveda,7000
+MATILLA DE LOS CAÑOS DEL RÍO,SA-211,Puente,Boveda,13500
+TAÑINE,SO-630,Pontón,Boveda,4000
+MONLEÓN,SA-212,Puente,Boveda,16000
+HERGUIJUELA,AV-932,Pontón,Boveda,6000
+CRISTÓBAL,SA-214,Puente,Boveda,10600
+TRUCHAS,LE-126,Pontón,Boveda,5300
+GARCIRREY,SA-305,Puente,Tubo,10310
+FONTECHA,CL-622,Pontón,Convencional vigas,5000
+CASTROBOL,VA-542,Puente,Boveda,20850
+VEGA DE INFANZONES,A-231,Pontón,Boveda,5800
+TAMARIZ DE CAMPOS,VA-920,Puente,Convencional vigas,18000
+VEGA DE RIALOS,P-214,Pontón,Marco / Cajón / Pórtico,6400
+HERRIN DE CAMPOS,VA-924,Puente,Boveda,10700
+ARENILLAS DE NUÑO PEREZ,P-236,Pontón,Convencional losa/cajón,4000
+FARAMONTANOS DE TÁBARA,ZA-123,Puente,Convencional losa/cajón,16250
+VILLAMAYOR,SA-300,Pontón,Tubo,6700
+TORO,ZA-611,Puente,Marco / Cajón / Pórtico,21250
+ASTURIANOS,ZA-125,Pontón,Tubo,4100
+FRECHILLA,P-924,Puente,Convencional vigas,13400
+MOLEZUELAS DE LA CARBALLEDA,ZA-111,Pontón,Convencional losa/cajón,4750
+FRECHILLA,P-933,Puente,Convencional vigas,13200
+AUDANZAS DEL VALLE,LE-411,Pontón,Convencional celosía,5000
+MEDINA DE RIOSECO,VA-913,Puente,Boveda,19000
+CAMPONARAYA,LE-713,Pontón,Boveda,7200
+GRIJOTA,CL-613,Puente,Convencional vigas,37700
+PEDRO BERNARDO,CL-501,Pontón,Convencional losa/cajón,4330
+AMUSCO,P-983,Puente,Boveda,10370
+FUENTE DEL SOL,VA-801,Pontón,Convencional losa/cajón,6550
+RIBAS DE CAMPOS,P-984,Puente,Convencional vigas,21420
+ARRABAL DEL PORTILLO,A-601,Pontón,Marco / Cajón / Pórtico,4000
+BELMONTE DE CAMPOS,P-913,Puente,Boveda,10300
+VILLAMAYOR DE CAMPOS,CL-612,Pontón,Boveda,5600
+VILLAQUEJIDA,LE-412,Puente,Convencional vigas,10600
+VILLAMAYOR DE CAMPOS,CL-612,Pontón,Boveda,7500
+MELGAR DE FERNAMENTAL,A-231,Puente,Convencional vigas,13800
+PAREDES DE NAVA,CL-613,Pontón,Boveda,4200
+MONTEAGUDO DE LAS VICARIAS,CL-116,Puente,Convencional vigas,13000
+EL PIÑERO,ZA-611,Pontón,Marco / Cajón / Pórtico,7000
+OSORNO,A-231,Puente,Convencional vigas,56500
+SAN JUAN DE LA NAVA,AV-905,Pontón,Boveda,9000
+ALMAZAN,CL-101,Puente,Convencional vigas,36400
+VILLAFELIZ DE BABIA,CL-626,Pontón,Convencional vigas,5300
+LEON,LE-441,Puente,Convencional vigas,50000
+REMELLAN,LE-331,Pontón,Boveda,6000
+TORQUEMADA,P-130,Puente,Convencional vigas,78100
+SOTOSERRANO,SA-225,Pontón,Boveda,8500
+BURGO DE OSMA,CL-116,Puente,Boveda,20000
+LA GRANJA,CL-601,Pontón,Boveda,5400
+DIEGO ÁLVARO,AV-105,Puente,Convencional vigas,16300
+CASTRESANA DE LOSA,BU-552,Pontón,Tubo,4600
+SANTIBAÑEZ DE AYLLON,SG-145,Puente,Boveda,11400
+PINO DEL ORO,ZA-321,Pontón,Boveda,5000
+MONLEÓN,SA-212,Puente,Boveda,13200
+RETORTILLO DE SORIA,SO-160,Pontón,Boveda,5000
+BÓVEDA DEL RÍO ALMAR,SA-105,Puente,Convencional vigas,37500
+VILLALBA DE LA LAMPREANA,ZA-702,Pontón,Marco / Cajón / Pórtico,4400
+HUERTA DEL REY,BU-925,Puente,Boveda,14000
+ROBLEDO DE BABIA,CL-626,Pontón,Convencional losa/cajón,4200
+SAN JUAN DEL MONTE,BU-930,Puente,Boveda,20400
+CASAVIEJA,SC-AV-1,Pontón,Boveda,5950
+QUEMADA,BU-925,Puente,Boveda,20100
+SAN ANDRÉS DE ARROYO,P-222,Pontón,Marco / Cajón / Pórtico,6850
+NOVIERCAS,CL-101,Puente,Boveda,17000
+RIAZA,SG-114,Pontón,Tubo,4350
+GUISANDO,AV-924,Puente,Boveda,10000
+CIUDAD RODRIGO,SA-220,Pontón,Marco / Cajón / Pórtico,7550
+RIELLO,LE-493,Puente,Boveda,10800
+PESQUERA DE DUERO,VA-101,Pontón,Boveda,5100
+QUINTANAR DE LA SIERRA,CL-117,Puente,Boveda,15250
+VILLANUEVA DE ODRA,BU-610,Pontón,Convencional losa/cajón,6100
+POLVOROSA DE VALDAVIA,P-237,Puente,Boveda,16800
+GUARRATE,ZA-605,Pontón,Boveda,6000
+CUCHO,BU-744,Puente,Boveda,26900
+SANTIBAÑEZ DE LA PEÑA,P-214,Pontón,Marco / Cajón / Pórtico,5400
+VILLANUEVA DE GUMIEL,BU-912,Puente,Boveda,16700
+ARRABAL DE PORTILLO,VA-303,Pontón,Boveda,5000
+MIRANDA DE EBRO,BU-740,Puente,Boveda,35500
+VILLARCAYO,CL-629,Pontón,Boveda,4500
+PORTO,ZA-102,Puente,Convencional vigas,16000
+VALENCIA DE DON JUAN,LE-510,Pontón,Boveda,5640
+SANTA CRUZ DE BOEDO,P-232,Puente,Boveda,14800
+AUDANZAS DEL VALLE,LE-411,Pontón,Convencional celosía,5750
+VILLASANDINO,A-231,Puente,Convencional vigas,74500
+ALDEATEJADA,CL-512,Pontón,Marco / Cajón / Pórtico,6600
+VILLASANDINO,A-231,Puente,Convencional vigas,75000
+FRESNEDILLA,AV-915,Pontón,Boveda,4000
+BRULLÉS,BU-601,Puente,Convencional vigas,17000
+CASTROVERDE DE CAMPOS,ZA-524,Pontón,Convencional vigas,6000
+BENUZA,LE-164,Puente,Boveda,29000
+SAN ROMÁN DE LA CUBA,P-970,Pontón,Boveda,6400
+BENUZA,LE-164,Puente,Boveda,20000
+CABAÑES DE ESGUEVA,BU-113,Pontón,Boveda,6000
+PUENTE DE DOMINGO FLÓREZ,LE-164,Puente,Boveda,29800
+LOSACIO,ZA-902,Pontón,Boveda,8500
+PEDRALBA DE LA PRADERÍA,ZA-925,Puente,Boveda,24500
+ROBLADILLO DE UCIEZA,P-242,Pontón,Boveda,6250
+SAHAGUN,A-231,Puente,Convencional vigas,65200
+VALLESA DE GUAREÑA,CL-605,Pontón,Boveda,7250
+PUENTE ALMUHEY,CL-626,Puente,Boveda,16000
+SALDAÑA,P-225,Pontón,Boveda,5850
+VILLAVERDE DE ARCAYOS,LE-232,Puente,Convencional vigas,70900
+VILLALCAZAR DE SIRGA,P-981,Pontón,Boveda,4100
+CASTROBOL,VA-542,Puente,Boveda,28500
+CASAREJOS,SO-920,Pontón,Marco / Cajón / Pórtico,7000
+CASTROBOL,VA-542,Puente,Boveda,12450
+JUSTEL,ZA-125,Pontón,Marco / Cajón / Pórtico,9800
+SAELICES DE MAYORGA,VA-932,Puente,Boveda,39500
+PERAZANCAS,P-227,Pontón,Marco / Cajón / Pórtico,5000
+FUENTES DE ROPEL,ZA-510,Puente,Convencional vigas,46000
+MORALES DE VALVERDE,ZA-100,Pontón,Marco / Cajón / Pórtico,4600
+LASTRAS DE CUÉLLAR,SG-211,Puente,Boveda,20000
+ALARAZ,SA-105,Pontón,Marco / Cajón / Pórtico,5550
+FRUMALE,SG-205,Puente,Marco / Cajón / Pórtico,14000
+CANDANEDO DE BOÑAR,CL-624,Pontón,Boveda,5000
+VILLAR DEL RÍO,SO-630,Puente,Boveda,25100
+FUENTES DE AÑO,AV-800,Pontón,Marco / Cajón / Pórtico,4800
+NOGAREJAS,LE-111,Puente,Convencional losa/cajón,10000
+VILLADIEGO,BU-627,Pontón,Boveda,6800
+CEBREROS,AV-562,Puente,Boveda,20200
+RESPENDA DE LA PEÃ‘A,P-214,Pontón,Boveda,9200
+LLAMAS DE RUEDA,LE-231,Puente,Boveda,13500
+SANTIBAÑEZ DE PORMA,CL-624,Pontón,Convencional losa/cajón,7100
+BÉJAR,SA-220,Puente,Boveda,12000
+ROA DE DUERO,BU-130,Pontón,Boveda,5500
+MOLEZUELAS DE LA CARBALLEDA,ZA-111,Puente,Boveda,20600
+SAN BARTOLOMÉ DE PINARES,AV-503,Pontón,Boveda,6500
+EL HERRADON,AV-503,Puente,Convencional vigas,26000
+CARCEDO DE BURGOS,BU-800,Pontón,Boveda,5400
+SEPULVEDA,SG-232,Puente,Boveda,16600
+CARCEDO DE BURGOS,BU-800,Pontón,Boveda,4000
+CISNEROS,CL-613,Puente,Convencional vigas,20000
+SAN MAMÉS DE CAMPOS,A-231,Pontón,Boveda,6100
+ARENAS DE SAN PEDRO,AV-924,Puente,Boveda,30000
+SAN MAMÉS DE CAMPOS,P-244,Pontón,Boveda,6000
+DESTRIANA DE VALDUERNA,LE-133,Puente,Convencional vigas,19000
+VALDEAVELLANO DE TERA,SO-820,Pontón,Boveda,5000
+TERRADILLOS DE TEMPLARIOS,P-905,Puente,Boveda,10400
+VALDERAS,LE-512,Pontón,Boveda,5900
+VILLAFELIZ DE BABIA,CL-626,Puente,Convencional vigas,11000
+COVALEDA,CL-117,Pontón,Boveda,6500
+RIOSCURO,CL-626,Puente,Convencional vigas,15000
+LA ADRADA,CL-501,Pontón,Boveda,6000
+HERRERA DE DUERO,A-601,Puente,Convencional vigas,98000
+CRISTÓBAL,SA-214,Pontón,Boveda,4000
+ROA DE DUERO,BU-130,Puente,Convencional vigas,175000
+NAVALMANZANO,A-601,Pontón,Marco / Cajón / Pórtico,5000
+VADOCONDES,BU-930,Puente,Boveda,74300
+VILLAMAYOR DE TREVIÑO,BU-601,Pontón,Boveda,4000
+MOLINOS DE DUERO,CL-117,Puente,Boveda,80000
+SAN ESTEBAN DEL VALLE,AV-922,Pontón,Boveda,5150
+SANTELICES,BU-526,Puente,Boveda,52500
+VILLORIA,SA-810,Pontón,Tubo,5250
+LA GRANJA,CL-601,Puente,Boveda,11700
+LAS HOYAS,BU-570,Pontón,Boveda,8000
+SEGOVIA,CL-607,Puente,Boveda,26000
+BERMILLO DE SAYAGO,CL-527,Pontón,Marco / Cajón / Pórtico,6000
+MOJADOS,VA-404,Puente,Convencional vigas,70450
+PUEBLA DE SANABRIA,SC-ZA-10,Pontón,Marco / Cajón / Pórtico,6000
+CASTROCONTRIGO DE LA VALDERÍA,LE-125,Puente,Convencional vigas,80000
+MOLINASECA,LE-142,Pontón,Boveda,5000
+TRUCHAS,LE-126,Puente,Convencional vigas,52400
+QUINTANILLA DE SOTOSCUEVA,BU-526,Pontón,Boveda,4000
+BAHABÓN DE ESGUEVA,SC-BU-22,Puente,Boveda,40500
+VILLOTILLA,A-231,Pontón,Marco / Cajón / Pórtico,6200
+VILLAFUERTE,VA-101,Puente,Convencional vigas,15000
+RODA DE ERESMA,SC-SG-24,Pontón,Boveda,5000
+ACEBEDO,CL-635,Puente,Boveda,42000
+ROMANILLOS DE MEDINACELI,SO-132,Pontón,Boveda,8800
+MUELAS DE LOS CABALLEROS,ZA-125,Puente,Boveda,33700
+VEGA DE CABALLEROS,CL-626,Pontón,Boveda,9000
+MADRONA,SG-724,Puente,Boveda,10200
+CUEVAS DEL SIL,CL-631,Pontón,Boveda,8000
+FUENTEPINILLA,SO-110,Puente,Convencional losa/cajón,11500
+HERRADÓN DE PINARES,AV-502,Pontón,Boveda,5000
+CIUDAD RODRIGO,SA-213,Puente,Marco / Cajón / Pórtico,10200
+VALDETEJA,LE-321,Pontón,Boveda,6000
+VADILLO DE LA GUAREÑA,ZA-602,Puente,Convencional vigas,60500
+LA POLA DE GORDÓN,LE-473,Pontón,Convencional vigas,5900
+LECIÑANA,CL-629,Puente,Convencional vigas,33700
+MELGAR DE FERNAMENTAL,A-231,Pontón,Marco / Cajón / Pórtico,5020
+POZA DE LA SAL,CL-633,Puente,Boveda,23000
+ALCUBILLA DE AVELLANEDA,SO-934,Pontón,Marco / Cajón / Pórtico,27000
+PELARRODRÍGUEZ,SA-305,Puente,Boveda,42900
+ALCONADILLA,SG-945,Pontón,Boveda,6400
+SANTA ELENA DE JAMUZ,LE-114,Puente,Convencional vigas,56700
+MELGAR DE FERNAMENTAL,A-231,Pontón,Boveda,7670
+QUINTANA Y CONGOSTO,LE-133,Puente,Convencional vigas,37100
+LAS QUINTANILLAS,A-231,Pontón,Boveda,8500
+ASTORGA,SC-LE-5,Puente,Convencional celosía,11000
+TARDAJOS,A-231,Pontón,Boveda,8950
+VALSALABROSO,SC-SA-7,Puente,Boveda,10000
+SAN MAMÉS DE CAMPOS,A-231,Pontón,Convencional vigas,13200
+SAN PEDRO MANRIQUE,SO-630,Puente,Boveda,12500
+VILLAHERREROS,A-231,Pontón,Convencional vigas,18000
+UCERO,SO-920,Puente,Boveda,25000
+SANTIAGO DEL ARROYO,A-601,Pontón,Marco / Cajón / Pórtico,6000
+SANTIAGO DE LA PUEBLA,SA-105,Puente,Boveda,50000
+SANTIAGO DEL ARROYO,A-601,Pontón,Marco / Cajón / Pórtico,6000
+MOLINASECA,LE-142,Puente,Convencional vigas,22000
+CUELLAR,A-601,Pontón,Marco / Cajón / Pórtico,4650
+MADRONA,SG-724,Puente,Boveda,10100
+NAVALMANZANO,A-601,Pontón,Marco / Cajón / Pórtico,6000
+VILLARMUN,LE-213,Puente,Convencional vigas,13450
+CARBONERO EL MAYOR,A-601,Pontón,Marco / Cajón / Pórtico,4000
+MORÓN DE ALMAZÁN,CL-116,Puente,Boveda,9000
+ARANDA DE DUERO,BU-950,Pontón,Marco / Cajón / Pórtico,6000
+ROSINOS DE LA REQUEJADA,ZA-125,Puente,Arco,21600
+ARANDA DE DUERO,BU-950,Pontón,Marco / Cajón / Pórtico,6000
+MEDINA DE POMAR,CL-628,Puente,Boveda,38550
+ARANDA DE DUERO,BU-950,Pontón,Marco / Cajón / Pórtico,6000
+VILLARODRIGO DE LA VEGA,P-235,Puente,Boveda,10200
+AGREDA,CL-101,Pontón,Marco / Cajón / Pórtico,8000
+VILLALOMEZ,BU-704,Puente,Boveda,12400
+OLVEGA,CL-101,Pontón,Marco / Cajón / Pórtico,5000
+VILLANUEVA DE ODRA,BU-610,Puente,Boveda,30840
+RAMACASTAÑAS,CL-501,Pontón,Marco / Cajón / Pórtico,6010
+ALIJA DEL INFANTADO,LE-114,Puente,Convencional vigas,99400
+LUMBRALES,CL-517,Pontón,Boveda,4400
+CUEVAS DE AYLLÓN,SO-135,Puente,Convencional vigas,15300
+VIANA DE CEGA,CL-600,Pontón,Marco / Cajón / Pórtico,6000
+LUBIÁN,ZA-106,Puente,Convencional vigas,11900
+VILLOVELA DE PIRON,CL-603,Pontón,Convencional vigas,6000
+BARBADILLO DEL PEZ,BU-825,Puente,Boveda,26150
+ZAMARRAMALA,CL-607,Pontón,Tubo,8700
+ISCAR,SC-VA-7,Puente,Convencional vigas,60000
+ARDONCINO,CL-622,Pontón,Boveda,4800
+NAVALMANZANO,SG-332,Puente,Boveda,42000
+AMBASAGUAS DE CURUEÑO,CL-624,Pontón,Marco / Cajón / Pórtico,4000
+NAVAS DE ORO,SG-342,Puente,Convencional vigas,41200
+AMBASAGUAS DE CURUEÑO,CL-624,Pontón,Marco / Cajón / Pórtico,4000
+ALAR DEL REY,P-610,Puente,Boveda,78700
+AMBASAGUAS DE CURUEÑO,CL-624,Pontón,Marco / Cajón / Pórtico,4000
+POVEDA DE LAS CINTAS,SA-810,Puente,Convencional losa/cajón,25600
+BOÑAR,CL-626,Pontón,Boveda,8000
+BARCINA DEL BARCO,BU-530,Puente,Boveda,14000
+VILLANUEVA DE MENA,CL-629,Pontón,Marco / Cajón / Pórtico,6000
+RESOBA,P-211,Puente,Convencional losa/cajón,13200
+PONFERRADA,LE-142,Pontón,Boveda,5000
+PAREDES DE NAVA,P-924,Puente,Boveda,18700
+PAREDES DE NAVA,CL-613,Pontón,Marco / Cajón / Pórtico,5000
+PAREDES DE NAVA,P-952,Puente,Boveda,14300
+BRETÓ,ZA-100,Pontón,Marco / Cajón / Pórtico,7000
+ADRADA DE HAZA,BU-200,Puente,Boveda,58200
+BRETÓ,ZA-100,Pontón,Marco / Cajón / Pórtico,9800
+TORREGALINDO,CL-603,Puente,Convencional vigas,60500
+FUENTESAÚCO,CL-605,Pontón,Marco / Cajón / Pórtico,6000
+RIOFRIO DE RIAZA,SG-112,Puente,Boveda,10400
+CISNEROS,CL-613,Pontón,Marco / Cajón / Pórtico,5000
+SAN FELIZ DE TORIO,LE-311,Puente,Convencional vigas,22300
+CISNEROS,CL-613,Pontón,Marco / Cajón / Pórtico,5000
+VILLAFRANCA,SG-205,Puente,Boveda,22000
+TORNADIZOS DE ÁVILA,AV-503,Pontón,Marco / Cajón / Pórtico,6000
+ASTURIANOS,ZA-125,Puente,Boveda,20400
+LUELMO,ZA-311,Pontón,Boveda,6000
+COVANERA,BU-514,Puente,Boveda,16000
+CABAÑAS DE LA DORNILLA,CL-631,Pontón,Convencional vigas,5750
+VILLADA,P-905,Puente,Convencional vigas,12800
+GRADEFES,LE-213,Pontón,Convencional vigas,9700
+MEDINA DE RIOSECO,VA-505,Puente,Boveda,29600
+SAN CRISTÓBAL DE LA POLANTERA,LE-420,Pontón,Marco / Cajón / Pórtico,6700
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,60400
+TAMARIZ DE CAMPOS,VA-920,Puente,Convencional vigas,37300
+VILLAFRANCA DE DUERO,CL-602,Pontón,Boveda,4500
+LA ROBLA,CL-626,Paso Superior,Convencional vigas,18000
+HERRIN DE CAMPOS,VA-924,Puente,Boveda,28200
+TORO,ZA-605,Pontón,Marco / Cajón / Pórtico,5000
+CALZADA DEL COTO,A-231,Paso Superior,Convencional losa/cajón,57100
+CASTILLEJO DE MESLEON,SC-SG-14,Puente,Boveda,14200
+CASTROJERIZ,BU-400,Pontón,Marco / Cajón / Pórtico,8000
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Paso Superior,Convencional losa/cajón,73300
+TORENO,LE-463,Puente,Boveda,26000
+ALCONADILLA,SG-945,Pontón,Boveda,7000
+ARRABAL DEL PORTILLO,A-601,Paso Superior,Convencional vigas,34000
+PIEDRAFITA DE BABIA,CL-626,Puente,Convencional vigas,32000
+OLMILLOS DE SASAMÓN,A-231,Pontón,Marco / Cajón / Pórtico,6600
+SAN MIGUEL DEL ARROYO,A-601,Paso Superior,Convencional vigas,43000
+LA ADRADA,AV-930,Puente,Convencional vigas,15120
+SAHAGÚN,A-231,Pontón,Marco / Cajón / Pórtico,9800
+MAGAZ,A-610,Paso Superior,Convencional losa/cajón,63000
+FRESNEDA DE LA SIERRA,BU-811,Puente,Boveda,40000
+CARRIÓN DE LOS CONDES,A-231,Pontón,Marco / Cajón / Pórtico,8000
+BURGOS,BU-600,Paso Superior,Convencional losa/cajón,60600
+SAN MIGUEL DE PEDROSO,BU-814,Puente,Boveda,24700
+SANTIAGO DEL ARROYO,A-601,Pontón,Marco / Cajón / Pórtico,5000
+BURGOS,BU-600,Paso Superior,Convencional losa/cajón,62790
+PARDAVE,LE-311,Puente,Convencional vigas,67600
+EL BARCO DE ÁVILA,AV-100,Pontón,Boveda,4000
+ARANDA DE DUERO,BU-950,Paso Superior,Convencional vigas,26150
+PONTEDO,LE-315,Puente,Boveda,17200
+GALLEGOS DE SOBRINOS,AV-110,Pontón,Boveda,4000
+ARANDA DE DUERO,BU-950,Paso Superior,Convencional vigas,26000
+HOYOS DEL ESPINO,AV-931,Puente,Boveda,43600
+EL TIEMBLO,AV-512,Pontón,Boveda,6300
+VILLASANA DE MENA,CL-629,Paso Superior,Convencional vigas,20600
+VILLAFELIZ DE BABIA,CL-626,Puente,Convencional vigas,13200
+RETORTILLO,BU-143,Pontón,Boveda,5500
+VEGA DE INFANZONES,A-231,Paso Superior,Convencional losa/cajón,60500
+NAVA DEL REY,CL-602,Puente,Boveda,40800
+PALACIOS DE LA SIERRA,CL-117,Pontón,Boveda,8400
+POYALES DEL HOYO,CL-501,Paso Superior,Convencional vigas,13730
+RASUEROS,CL-610,Puente,Convencional vigas,29400
+RAMACASTAÑAS,CL-501,Pontón,Marco / Cajón / Pórtico,7360
+VALVERDE DEL MAJANO,CL-605,Paso Superior,Convencional losa/cajón,37200
+POLLOS,VA-610,Puente,Arco,35000
+RAMACASTAÑAS,CL-501,Pontón,Marco / Cajón / Pórtico,6000
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Paso Superior,Convencional losa/cajón,23200
+CASTREJON DE TRABANCOS,VA-800,Puente,Boveda,35800
+EL RASO,CL-501,Pontón,Marco / Cajón / Pórtico,4700
+OLMOS DE ATAPUERCA,BU-701,Paso Superior,Convencional vigas,9100
+TORRE DEL BIERZO,LE-106,Puente,Convencional vigas,21000
+ALBA DE TORMES,CL-510,Pontón,Boveda,7000
+ALDEA DE SAN MIGUEL,A-601,Paso Superior,Convencional vigas,36000
+POBLADURA DE REGUERAS,LE-460,Puente,Convencional vigas,14800
+DOÑINOS DE SALAMANCA,CL-517,Pontón,Tubo,7200
+ARRABAL DE PORTILLO,A-601,Paso Superior,Convencional vigas,34000
+CEREZAL DE TREMOR,LE-460,Puente,Convencional vigas,15700
+EL BODÓN,CL-526,Pontón,Boveda,7350
+HERRERA DE DUERO,A-601,Paso Superior,Convencional losa/cajón,26500
+TREMOR DE ABAJO,LE-460,Puente,Convencional vigas,20500
+VILLAFRANCA DE DUERO,CL-602,Pontón,Marco / Cajón / Pórtico,5000
+ARRABAL DE PORTILLO,A-601,Paso Superior,Convencional vigas,34000
+CEREZAL DE TREMOR,LE-465,Puente,Convencional vigas,23100
+CASTRONUÑO,CL-602,Pontón,Boveda,4000
+ARRABAL DEL PORTILLO,A-601,Paso Superior,Convencional vigas,34000
+TRUCHAS,LE-126,Puente,Boveda,20500
+CASTRONUÑO,CL-602,Pontón,Boveda,4000
+PUENTE ALMUHEY,CL-626,Paso Superior,Convencional losa/cajón,11000
+VILLALAZARA,CL-629,Puente,Boveda,29500
+SAN MIGUEL DE BERNUY,CL-603,Pontón,Boveda,5200
+NAVALMANZANO,A-601,Paso Superior,Convencional vigas,62000
+BURGO DE OSMA,S/C,Puente,Convencional vigas,48000
+CARRION DE LOS CONDES,CL-615,Pontón,Tubo,8500
+VILLASANA DE MENA,CL-629,Paso Superior,Convencional vigas,21500
+TARDAJOS,A-231,Puente,Convencional vigas,64300
+VILLANUEVA DE LOS NABOS,CL-615,Pontón,Tubo,9000
+OLMILLOS DE SASAMÓN,A-231,Paso Superior,Convencional losa/cajón,78200
+MELGAR DE FERNAMENTAL,A-231,Puente,Convencional vigas,88500
+LA BAÑEZA,CL-622,Pontón,Convencional losa/cajón,9800
+MELGAR DE FERNAMENTAL,A-231,Paso Superior,Convencional losa/cajón,68200
+BUENAVISTA DE VALDAVIA,P-225,Puente,Boveda,45430
+QUINTANA DE VALDIVIELSO,CL-629,Pontón,Boveda,8300
+SAHAGÚN,A-231,Paso Superior,Convencional losa/cajón,63900
+SAHAGUN,A-231,Puente,Convencional vigas,51000
+QUINTANA DEL MARCO,LE-114,Pontón,Marco / Cajón / Pórtico,4000
+VILLANUEVA DE LAS MANZANAS,A-231,Paso Superior,Convencional losa/cajón,87700
+VILLÁRDIGA,CL-612,Puente,Convencional vigas,33600
+QUINTANA DEL MARCO,LE-114,Pontón,Marco / Cajón / Pórtico,4000
+CAMPO DE VILLAVIDEL,A-231,Paso Superior,Convencional losa/cajón,65500
+VILLALPANDO,ZA-512,Puente,Boveda,45600
+ALIJA DE LOS INFANTES,LE-114,Pontón,Convencional losa/cajón,4600
+CODORNILLOS,A-231,Paso Superior,Convencional losa/cajón,63000
+CASTRONUEVO DE LOS ARCOS,ZA-714,Puente,Convencional vigas,35400
+SANTA ELENA DE JAMUZ,LE-114,Pontón,Convencional vigas,6040
+OSORNO,A-231,Paso Superior,Convencional losa/cajón,76000
+QUINTANA Y CONGOSTO,LE-125,Puente,Convencional vigas,17400
+CASTROCONTRIGO DE LA VALDERÍA,LE-125,Pontón,Marco / Cajón / Pórtico,6000
+CALZADA DE LOS MOLINOS,A-231,Paso Superior,Convencional losa/cajón,80800
+SANTIBAÑEZ DE BEJAR,SA-102,Puente,Boveda,57550
+ENCINEDO,LE-126,Pontón,Boveda,5000
+RODA DE ERESMA,A-601,Paso Superior,Convencional vigas,62000
+ALDEANUEVA DEL CODONAL,CL-605,Puente,Boveda,85200
+MONDREGANES,LE-211,Pontón,Boveda,4000
+SANTELICES,BU-526,Paso Superior,Boveda,9750
+ALDEHUELA DE YELTES,SA-213,Puente,Boveda,42150
+BESANDE,LE-215,Pontón,Boveda,4000
+CUELLAR,A-601,Paso Superior,Convencional vigas,36600
+FONTIVEROS,AV-800,Puente,Boveda,43800
+ALMANZA,LE-232,Pontón,Marco / Cajón / Pórtico,6330
+VILORIA DE LA JURIDISCCIÓN,A-231,Paso Superior,Convencional losa/cajón,82000
+MEDINA DEL CAMPO,CL-610,Puente,Boveda,40450
+FELMIN,LE-315,Pontón,Boveda,5000
+SANTAS MARTAS,A-231,Paso Superior,Convencional losa/cajón,60000
+ATAQUINES,VA-801,Puente,Boveda,20000
+LUGUEROS,LE-321,Pontón,Boveda,9800
+CUELLAR,A-601,Paso Superior,Convencional vigas,36600
+ATAQUINES,VA-801,Puente,Boveda,20700
+BOÑAR,LE-331,Pontón,Convencional losa/cajón,6000
+GOMEZSERRACÍN,A-601,Paso Superior,Convencional vigas,62000
+MARUGAN,SG-322,Puente,Boveda,14400
+VILLAQUEJIDA,LE-412,Pontón,Boveda,4650
+CARBONERO EL MAYOR,A-601,Paso Superior,Convencional vigas,62000
+SAN ILDEFONSO,CL-601,Puente,Boveda,28000
+GRAJAL DE RIBERA,LE-412,Pontón,Boveda,4000
+CUELLAR,A-601,Paso Superior,Convencional vigas,40250
+TARDAJOS,A-231,Puente,Convencional losa/cajón,25550
+VELILLA DE LA REINA,LE-413,Pontón,Boveda,6000
+SANCHONUÑO,A-601,Paso Superior,Convencional vigas,62000
+FINOLLEDO,CL-631,Puente,Convencional vigas,15000
+SANTA MARIA DEL PARAMO,LE-413,Pontón,Boveda,6000
+NAVALMANZANO,A-601,Paso Superior,Convencional vigas,62000
+FINOLLEDO,CL-631,Puente,Convencional vigas,15000
+MONTEJOS DEL CAMINO,LE-441,Pontón,Boveda,4000
+RAMACASTAÑAS,CL-501,Paso Superior,Convencional vigas,19160
+VALDELALOBA,CL-631,Puente,Convencional vigas,15000
+CANALES,LE-493,Pontón,Boveda,5800
+ARÉVALO,CL-605,Paso Superior,Marco / Cajón / Pórtico,66000
+TORENO,CL-631,Puente,Convencional vigas,14000
+TORAL DE LOS GUZMANES,LE-511,Pontón,Marco / Cajón / Pórtico,4000
+MOLINOS DE DUERO,CL-117,Paso Superior,Convencional vigas,20000
+SANTAS MARTAS,A-231,Puente,Convencional losa/cajón,96800
+VALENCIA DE DON JUAN,LE-512,Pontón,Boveda,4070
+LAGUNA DE DUERO,A-601,Puente,Convencional vigas,18000
+PALANQUINOS,LE-512,Pontón,Convencional losa/cajón,4000
+FUENTEMOLINOS,BU-200,Pontón,Boveda,6000
+NAVALPERAL DE PINARES,AV-501,Puente,Convencional vigas,12400
+SANCEDO,LE-711,Pontón,Boveda,4600
+HONTANGAS,BU-202,Pontón,Marco / Cajón / Pórtico,4270
+VILLAQUIRÁN DE LOS INFANTES,BU-400,Puente,Convencional losa/cajón,46300
+PÁRAMO DEL SIL,LE-711,Pontón,Convencional vigas,5000
+FUENTEMOLINOS,BU-200,Pontón,Boveda,9140
+VILLASANA DE MENA,BU-554,Puente,Convencional vigas,54000
+LANTADILLA,P-434,Pontón,Boveda,9350
+CASAVIEJA,SC-AV-1,Pontón,Boveda,4050
+BURGOS,BU-622,Puente,Convencional vigas,21000
+VILLEMAR,P-905,Pontón,Convencional losa/cajón,4730
+LUBIÁN,ZA-106,Pontón,Boveda,4000
+BURGOS,BU-622,Puente,Convencional vigas,21000
+FRECHILLA,P-924,Pontón,Convencional losa/cajón,4800
+CIUDAD RODRIGO,SA-220,Pontón,Marco / Cajón / Pórtico,7650
+AGREDA,CL-101,Puente,Convencional vigas,58000
+BOADILLA DE RIOSECO,P-934,Pontón,Convencional losa/cajón,8200
+VILLAESCUSA,CL-605,Pontón,Boveda,7600
+SAN PEDRO DEL ARROYO,CL-507,Puente,Boveda,17500
+POBLACION  DE CAMPOS,P-980,Pontón,Tubo,6000
+BERNUY-SALINERO,AV-500,Pontón,Marco / Cajón / Pórtico,5000
+BERCEDO,CL-629,Puente,Convencional vigas,10000
+AMUSCO,P-983,Pontón,Boveda,6000
+VILLANUEVA DE AVILA,AV-901,Pontón,Boveda,6200
+CANTALAPIEDRA,SA-800,Puente,Convencional vigas,56300
+AMUSCO,P-983,Pontón,Boveda,5000
+VILLANUEVA DE AVILA,AV-901,Pontón,Convencional losa/cajón,4800
+MAHIDE,ZA-912,Puente,Convencional vigas,15500
+MONZÓN DE CAMPOS,P-990,Pontón,Boveda,9400
+EL HERRADON,AV-503,Pontón,Boveda,5000
+PRADO DE GUZPEÑA,CL-626,Puente,Convencional vigas,11100
+VALDECARROS,SA-113,Pontón,Boveda,6250
+FRECHILLA,P-933,Pontón,Convencional losa/cajón,6150
+BOÑAR,CL-626,Puente,Convencional vigas,12000
+LA ALBERGUERÍA DE ARGAÑÁN,SA-200,Pontón,Marco / Cajón / Pórtico,5150
+SAN MARTÍN DE DON,BU-530,Pontón,Tubo,6500
+SAN FELIZ DE TORIO,LE-311,Puente,Convencional vigas,14700
+TAMAMES,SA-201,Pontón,Tubo,7500
+VILLASINTA DE TORIO,LE-311,Pontón,Convencional vigas,8800
+LA ROBLA,CL-626,Puente,Convencional losa/cajón,42300
+SAN MIGUEL DE VALERO,SA-205,Pontón,Marco / Cajón / Pórtico,7800
+MEDINA DE RIOSECO,VA-913,Pontón,Tubo,4000
+BARRIOS DE COLINA,BU-701,Puente,Convencional vigas,11100
+BERROCAL DE HUEBRA,SA-210,Pontón,Marco / Cajón / Pórtico,5350
+NAVALUENGA,AV-902,Pontón,Boveda,8820
+CABEZÓN DE PISUERGA,VA-113,Puente,Convencional vigas,62500
+ROBLIZA DE COJOS,SA-211,Pontón,Tubo,4200
+LA VECILLA DE CURUEÑO,LE-321,Pontón,Marco / Cajón / Pórtico,8350
+CISTIERNA,CL-626,Puente,Convencional vigas,48000
+ESCURIAL DE LA SIERRA,SA-212,Pontón,Marco / Cajón / Pórtico,6550
+SAN PEDRO DE ROZADOS,CL-512,Pontón,Convencional vigas,7200
+MEDINA DEL CAMPO,CL-602,Puente,Convencional vigas,35000
+VALDEFUENTES DE SANGUSÍN,SA-214,Pontón,Tubo,7650
+TAPIA DE LA RIBERA,LE-420,Pontón,Marco / Cajón / Pórtico,6400
+CANTALAPIEDRA,SA-800,Puente,Convencional vigas,51400
+JUZBADO,SA-300,Pontón,Boveda,5350
+PUENTE DEL CONGOSTO,SA-104,Pontón,Tubo,5250
+CARPIO DEL CAMPO,VA-801,Puente,Convencional vigas,12000
+LEDESMA,SA-302,Pontón,Boveda,7150
+LA RIBA DE ESCALOTE,SO-132,Pontón,Marco / Cajón / Pórtico,5000
+SAHAGUN,LE-941,Puente,Convencional vigas,47000
+ALMENDRA,SA-302,Pontón,Marco / Cajón / Pórtico,5750
+CASTILLEJO DE MARTÍN VIEJO,SA-324,Pontón,Marco / Cajón / Pórtico,6450
+BÉJAR,SA-220,Puente,Convencional vigas,17900
+SANDO,SA-305,Pontón,Marco / Cajón / Pórtico,4000
+CANTALAPIEDRA,CL-605,Pontón,Boveda,4000
+OLMEDO,CL-602,Puente,Convencional vigas,26500
+BARCEO,SA-314,Pontón,Marco / Cajón / Pórtico,8000
+VILLAMOR DE LOS ESCUDEROS,CL-605,Pontón,Boveda,6000
+GAVILANES,CL-501,Puente,Boveda,17700
+BARCEO,SA-314,Pontón,Marco / Cajón / Pórtico,5750
+VILLAMOR DE LOS ESCUDEROS,ZA-602,Pontón,Marco / Cajón / Pórtico,8400
+TUDELA DE DUERO,CL-600,Puente,Convencional losa/cajón,71100
+POZOS DE HINOJO,SA-315,Pontón,Marco / Cajón / Pórtico,5300
+TRUCHAS,LE-126,Pontón,Boveda,5050
+PEÑARANDA DE BRACAMONTE,CL-610,Puente,Convencional losa/cajón,77800
+VILLAVIEJA DE YELTES,SA-325,Pontón,Tubo,5350
+PEÑARANDA DE DUERO,BU-923,Pontón,Boveda,5000
+PEÑARANDA DE BRACAMONTE,SA-801,Puente,Convencional losa/cajón,77800
+ALDEASECA DE LA FRONTERA,SA-801,Pontón,Tubo,4000
+VILLAMBROZ,P-235,Pontón,Boveda,9800
+PUENTE VILLARENTE,CL-624,Puente,Convencional losa/cajón,70000
+VILLOLDO,SC-P-12,Pontón,Convencional vigas,6850
+MAHIDE,ZA-912,Pontón,Boveda,5100
+VILLAQUIRÁN DE LOS INFANTES,BU-400,Puente,Convencional losa/cajón,70000
+VILLAFRANCA,SG-205,Pontón,Marco / Cajón / Pórtico,9100
+VILLANUEVA DE LA SIERRA,ZA-102,Pontón,Boveda,5000
+LA BAÑEZA,LE-114,Puente,Convencional losa/cajón,61000
+NIEVA,SG-342,Pontón,Boveda,5000
+TRIGUEROS DEL VALLE,VA-900,Pontón,Boveda,5900
+ASTORGA,LE-133,Puente,Convencional losa/cajón,61000
+MAZAGATOS,SG-945,Pontón,Boveda,7000
+GAJATES,SA-113,Pontón,Boveda,4950
+SANCHIDRIAN,SG-322,Puente,Convencional losa/cajón,62000
+MATAMALA DE ALMAZÁN,SO-110,Pontón,Tubo,10000
+CEREZAL DE GUZPEÃ‘A,CL-626,Pontón,Tubo,5400
+ÁVILA,AV-110,Puente,Convencional losa/cajón,64000
+VALORIA LA BUENA,VA-103,Pontón,Marco / Cajón / Pórtico,9050
+SANTIBÁÑEZ DE VIDRIALES,ZA-110,Pontón,Boveda,7300
+LA LASTRILLA,A-601,Puente,Convencional vigas,12000
+CASTRILLO TEJERIEGO,VA-104,Pontón,Convencional losa/cajón,4800
+AREVALILLO,AV-105,Pontón,Marco / Cajón / Pórtico,5400
+HOYOS DEL ESPINO,AV-931,Puente,Boveda,17520
+VILLAGARCIA DE CAMPOS,VA-505,Pontón,Boveda,4000
+CEBREROS,AV-512,Pontón,Boveda,5650
+SAN ESTEBAN DEL VALLE,AV-922,Puente,Convencional losa/cajón,14500
+CASTRONUÑO,VA-610,Pontón,Convencional losa/cajón,6000
+MIJARES,AV-901,Pontón,Boveda,4011
+GRAJAL DE CAMPOS,CL-613-a,Puente,Convencional vigas,32200
+TIEDRA,VA-705,Pontón,Tubo,5500
+PEDRO BERNARDO,AV-922,Pontón,Boveda,4120
+OSORNO,A-231,Puente,Convencional vigas,14050
+CERVILLEGO DE LA CRUZ,VA-801,Pontón,Boveda,6600
+PAMPLIEGA,BU-101,Pontón,Boveda,5650
+OSORNO,A-231,Puente,Convencional losa/cajón,28500
+CASTREJON DE TRABANCOS,VA-801,Pontón,Boveda,4000
+VILLALBILLA DE GUMIEL,BU-920,Pontón,Convencional vigas,4000
+SANCHIDRIÁN,CL-507,Puente,Convencional losa/cajón,34300
+ALAEJOS,VA-801,Pontón,Boveda,7000
+CALAHORRA DE BOEDO,P-231,Pontón,Tubo,4750
+BRAÑUELAS,SC-LE-8,Puente,Convencional vigas,14000
+VILLALON DE CAMPOS,VA-924,Pontón,Boveda,9100
+LA GRANJA,CL-601,Pontón,Boveda,5200
+SAN MAMÉS DE CAMPOS,A-231,Puente,Convencional vigas,14000
+PALACIOS DE SANABRIA,ZA-125,Pontón,Tubo,4300
+ALMÁNTIGA,CL-101,Pontón,Boveda,6000
+PAREDES DE NAVA,CL-613,Puente,Marco / Cajón / Pórtico,10150
+ASTURIANOS,ZA-125,Pontón,Tubo,5000
+BURGO DE OSMA,CL-116,Pontón,Boveda,5000
+PAREDES DE NAVA,CL-613,Puente,Marco / Cajón / Pórtico,10100
+PEÑAUSENDE,ZA-302,Pontón,Boveda,4700
+COVALEDA,CL-117,Pontón,Boveda,8500
+BARROMAN,CL-605,Puente,Boveda,17000
+PEÑAUSENDE,ZA-302,Pontón,Marco / Cajón / Pórtico,4100
+CUBO DE DON SANCHO,SA-315,Pontón,Boveda,4000
+VALDEFUENTES DEL PARAMO,CL-622,Puente,Convencional vigas,22000
+FRESNO DE SAYAGO,ZA-302,Pontón,Marco / Cajón / Pórtico,4200
+VILLAR DE BUEY,CL-527,Pontón,Convencional losa/cajón,6000
+PAREDES DE NAVA,CL-613,Puente,Marco / Cajón / Pórtico,10000
+FRESNO DE SAYAGO,ZA-302,Pontón,Boveda,5350
+ALDEASECA DE LA FRONTERA,SA-801,Pontón,Tubo,4000
+SAHAGUN,A-231,Puente,Convencional vigas,15100
+PEÑAUSENDE,ZA-305,Pontón,Marco / Cajón / Pórtico,4200
+PALENCIA,P-900,Pontón,Boveda,7000
+PALENCIA,A-610,Puente,Marco / Cajón / Pórtico,10000
+FIGUERUELA DE SAYAGO,ZA-306,Pontón,Marco / Cajón / Pórtico,8600
+VINUESA,SO-820,Pontón,Boveda,5000
+PALENCIA,A-610,Puente,Marco / Cajón / Pórtico,10000
+PERERUELA,ZA-320,Pontón,Marco / Cajón / Pórtico,8000
+CASTELLANOS DE VILLIQUERA,SA-300,Pontón,Marco / Cajón / Pórtico,5500
+POZOANTIGUO,ZA-713,Puente,Convencional vigas,12800
+FUENTES DE ROPEL,ZA-510,Pontón,Boveda,4800
+SAN FÉLIX DE ARCE,CL-626,Pontón,Convencional losa/cajón,4600
+CASTILLEJO DE MARTÍN VIEJO,SA-324,Puente,Boveda,11040
+MOLACILLOS,ZA-711,Pontón,Boveda,5400
+FUENTELMONGE,SO-340,Pontón,Marco / Cajón / Pórtico,4400
+TÁBARA,ZA-902,Puente,Boveda,12800
+MOLACILLOS,ZA-711,Pontón,Boveda,6850
+SAN MIGUEL DE VALERO,SA-205,Pontón,Tubo,4100
+SARDÓN DE LOS FRAILES,SA-302,Puente,Convencional losa/cajón,12400
+TAPIOLES,ZA-715,Pontón,Marco / Cajón / Pórtico,5000
+BLASCOSANCHO,CL-507,Pontón,Boveda,4000
+FRESNO DE SAYAGO,ZA-320,Puente,Boveda,10400
+FERRERUELA DE TÁBARA,ZA-902,Pontón,Boveda,7000
+LA VELLÉS,SA-605,Pontón,Boveda,7000
+ALFARAZ DE SAYAGO,ZA-306,Puente,Boveda,12000
+ALCAÑICES,ZA-912,Pontón,Boveda,6900
+LAS MURIAS,CL-626,Pontón,Boveda,4050
+OTERO DE BOEDO,P-223,Puente,Convencional vigas,27900
+LEDIGOS,A-231,Pontón,Boveda,8200
+AYLLON,SG-145,Pontón,Marco / Cajón / Pórtico,5500
+FUENTE ENCALADA,ZA-110,Pontón,Marco / Cajón / Pórtico,5700
+SANDO,SA-305,Pontón,Tubo,5000
+MOLINOS DE DUERO,CL-117,Puente,Boveda,120000
+HORNILLAYUSO,BU-562,Pontón,Boveda,8500
+MORATINOS,A-231,Pontón,Boveda,6000
+MONTEJO DE CEBAS,BU-520,Puente,Arco,95500
+SAN PEDRO DEL ARROYO,AV-114,Pontón,Boveda,5000
+GRADEFES,LE-213,Pontón,Boveda,6000
+AGREDA,CL-101,Pontón,Boveda,9500
+VILLASARRACINO,P-236,Pontón,Boveda,4600
+CUBO DE DON SANCHO,SA-315,Puente,Boveda,54550
+HINOJAR DE CERVERA,BU-910,Pontón,Tubo,5000
+RÍONEGRO DEL PUENTE,ZA-111,Pontón,Marco / Cajón / Pórtico,4800
+GRIJOTA,P-954,Puente,Convencional vigas,18000
+MOZONCILLO,SG-211,Pontón,Marco / Cajón / Pórtico,7400
+SANTA CRUZ DE LA SALCEDA,BU-930,Pontón,Boveda,9540
+AHIGAL DE VILLARINO,SA-315,Puente,Boveda,11950
+SALAS DE LOS INFANTES,CL-117,Pontón,Boveda,7200
+MONTEJOS DEL CAMINO,LE-441,Pontón,Convencional vigas,5000
+ALMEIDA DE SAYAGO,ZA-311,Puente,Marco / Cajón / Pórtico,17800
+VILLANUEVA DE ODRA,BU-610,Pontón,Convencional losa/cajón,5000
+VILLASARRACINO,P-236,Pontón,Marco / Cajón / Pórtico,4600
+BERMILLO DE SAYAGO,ZA-311,Puente,Marco / Cajón / Pórtico,20900
+VIDRIEROS,P-216,Pontón,Boveda,8550
+PELABRAVO,CL-510,Pontón,Tubo,5200
+BAÑOBÁREZ,SA-324,Puente,Convencional vigas,47150
+POYALES DEL HOYO,CL-501,Pontón,Marco / Cajón / Pórtico,4000
+BAHILLO,P-242,Pontón,Boveda,6500
+LEDESMA,SA-311,Puente,Boveda,18900
+DEZA,SO-350,Pontón,Tubo,4900
+VILLAVICENCIO DE LOS CABALLEROS,VA-504,Pontón,Convencional vigas,4000
+PEÑAUSENDE,ZA-302,Puente,Boveda,12000
+VALORIA LA BUENA,VA-103,Pontón,Boveda,5000
+RIOFRIO DE RIAZA,SG-112,Pontón,Boveda,5000
+PEÑAUSENDE,ZA-305,Puente,Boveda,10200
+SANTA MARINA DEL REY,LE-443,Pontón,Convencional vigas,9500
+RIOFRIO DE RIAZA,SG-112,Pontón,Boveda,5300
+SANCHÓN DE LA RIBERA,SA-315,Puente,Boveda,20750
+LEON,CL-623,Pontón,Marco / Cajón / Pórtico,9600
+SANTIBAÑEZ DE AYLLON,SG-145,Pontón,Boveda,6500
+PERERUELA,CL-527,Puente,Boveda,50000
+LEON,LE-441,Pontón,Marco / Cajón / Pórtico,6800
+MOZONCILLO,SG-211,Pontón,Boveda,8000
+BARCEO,SA-315,Puente,Boveda,20200
+VALLADOLID,VA-140,Pontón,Boveda,5650
+VEGAS DE MATUTE,SG-722,Pontón,Boveda,6000
+SAN JUAN DE LA NAVA,AV-905,Puente,Boveda,18000
+SANTA MARIA DEL PARAMO,CL-622,Pontón,Convencional losa/cajón,4200
+VALDEPRADOS,SG-723,Pontón,Tubo,4300
+CEBRONES DEL RÍO,SC-LE-1,Puente,Boveda,61700
+BENAVIDES DE ORBIGO,LE-420,Pontón,Convencional losa/cajón,5000
+VALDEPRADOS,SG-723,Pontón,Tubo,4200
+MIRANDA DE EBRO,BU-740,Puente,Boveda,12000
+SEGOVIA,SG-724,Pontón,Convencional losa/cajón,6000
+LANGUILLA,SG-945,Pontón,Boveda,5000
+MIRANDA DE EBRO,BU-740,Puente,Boveda,12050
+TREMOR DE ARRIBA,LE-460,Pontón,Boveda,6000
+ALDEALENGUA,SG-945,Pontón,Boveda,6000
+VILLABLINO,LE-493,Puente,Convencional vigas,80000
+SAN JUAN DEL OLMO,AV-120,Pontón,Marco / Cajón / Pórtico,4000
+ALDEALENGUA,SG-945,Pontón,Boveda,5300
+VILLABLINO,LE-493,Puente,Convencional vigas,78000
+BUENAVISTA DE VALDAVIA,P-225,Pontón,Boveda,9600
+ALDEALENGUA DE SANTA MARIA,SG-945,Pontón,Boveda,5000
+SEGOVIA,C-605,Puente,Tubo,9000
+MOTA DEL MARQUES,SC-VA-14,Pontón,Boveda,5000
+ASTORGA,LE-451,Pontón,Marco / Cajón / Pórtico,5000
+CEBREROS,AV-562,Pontón,Convencional vigas,9300
+CASTRONUEVO DE LOS ARCOS,ZA-702,Pontón,Boveda,6900
+LEDIGOS,A-231,Viaducto,Convencional vigas,100600
+BECEDAS,AV-100,Pontón,Boveda,8000
+CASTRONUEVO DE LOS ARCOS,ZA-714,Pontón,Marco / Cajón / Pórtico,4600
+LEDIGOS,A-231,Viaducto,Convencional vigas,118000
+RIELLO,LE-493,Pontón,Boveda,8000
+BOGAJO,SA-325,Pontón,Tubo,4200
+ENCINEDO,LE-126,Viaducto,Convencional vigas,120000
+CERRATÓN DE JUARROS,BU-701,Pontón,Boveda,5000
+BERNUY-SALINERO,AV-500,Pontón,Marco / Cajón / Pórtico,7000
+SAN BARTOLOME DE BEJAR,AV-100,Viaducto,Convencional vigas,142700
+ÁVILA,CL-505,Pontón,Marco / Cajón / Pórtico,7400
+BARCONES,SO-152,Pontón,Convencional losa/cajón,6550
+VILLANUEVA DEL CONDE,SA-220,Viaducto,Convencional losa/cajón,116500
+QUINTANAR DE LA SIERRA,CL-117,Pontón,Boveda,4870
+FUENTECANTOS,SO-615,Pontón,Convencional losa/cajón,7670
+CALZADA DE LOS MOLINOS,A-231,Viaducto,Convencional vigas,151500
+ACEBEDO,CL-635,Pontón,Boveda,5800
+YANGUAS,SO-615,Pontón,Boveda,6000
+RODA DE ERESMA,A-601,Viaducto,Convencional vigas,197500
+SEGOVIA,SC-SG-21,Pontón,Boveda,9800
+ALDEALCARDO,SO-630,Pontón,Boveda,4000
+POBLADURA DE LUNA,CL-626,Viaducto,Convencional vigas,194000
+BERLANGA DE DUERO,SO-100,Pontón,Boveda,6000
+LA CUESTA.,SO-630,Pontón,Boveda,4200
+RABANAL DE LOS CABALLEROS,CL-627,Viaducto,Boveda,163000
+HORTEZUELA,SO-152,Pontón,Boveda,6000
+MAGAÑA,SO-630,Pontón,Tubo,4700
+MUÑANA,AV-933,Viaducto,Convencional vigas,110000
+LA RIBA DE ESCALOTE,SO-152,Pontón,Boveda,5000
+TAÑINE,SO-630,Pontón,Boveda,4000
+OLMEDO,CL-602,Viaducto,Convencional vigas,110400
+BARCONES,SO-152,Pontón,Boveda,4000
+BURGO DE OSMA,SO-920,Pontón,Boveda,8000
+PUENTE NUEVO,AV-502,Viaducto,Boveda,104200
+VILLOVELA DE ESGUEVA,CL-619,Pontón,Convencional vigas,8500
+FUENTENEBRO,BU-202,Pontón,Convencional vigas,9000
+TARDAJOS,A-231,Viaducto,Convencional vigas,443000
+COBOS DE CERRATO,P-143,Pontón,Marco / Cajón / Pórtico,8900
+MORADILLO DE ROA,CL-603,Pontón,Boveda,8700
+BURGOS,BU-600,Viaducto,Convencional vigas,105000
+SOTRESGUDO,BU-627,Pontón,Marco / Cajón / Pórtico,6700
+SAN JUAN DE LA NAVA,AV-905,Pontón,Boveda,9000
+CARRION DE LOS CAONDES,A-231,Viaducto,Convencional celosía,160700
+LOMA DE MONTIJA,BU-542,Pontón,Boveda,6000
+CASAVIEJA,SC-AV-1,Pontón,Boveda,4080
+SALDAÑA,CL-615,Viaducto,Boveda,280000
+SEDANO,BU-514,Pontón,Boveda,8350
+SANTOYO,P-431,Pontón,Boveda,9200
+GUARDO,CL-626,Viaducto,Boveda,28700
+CALERUEGA,BU-910,Pontón,Boveda,4000
+VILLAR DE CORNEJA,AV-102,Pontón,Boveda,8800
+MONZÓN DE CAMPOS,P-990,Viaducto,Boveda,159600
+MIÑANA,SO-350,Pontón,Marco / Cajón / Pórtico,9000
+SAN ESTEBAN DEL VALLE,AV-915,Pontón,Boveda,5980
+SEPULVEDA,SG-232,Viaducto,Convencional losa/cajón,100000
+OLLEROS DE SABERO,CL-626,Pontón,Boveda,4000
+LA SEQUERA DE HAZA,BU-202,Pontón,Marco / Cajón / Pórtico,4400
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Viaducto,Convencional vigas,105000
+QUINTANAS DE VALDELUCIO,BU-621,Pontón,Boveda,7070
+TENEBRÓN,SA-220,Pontón,Boveda,6900
+TORO,CL-602,Viaducto,Convencional celosía,171800
+NARROS DE CUELLAR,SG-342,Pontón,Boveda,9000
+SANTIAGO DEL ARROYO,A-601,Pontón,Marco / Cajón / Pórtico,6150
+GORMAZ,S/C,Viaducto,Boveda,136000
+ALBA DE YELTES,SA-213,Pontón,Boveda,6000
+PEDRO BERNARDO,CL-501,Pontón,Boveda,4540
+QUINTANILLA DE ONESIMO,VA-104,Viaducto,Boveda,116000
+CANDELEDA,CL-501,Pontón,Marco / Cajón / Pórtico,8600
+ACEBEDO,CL-635,Pontón,Boveda,5000
+VEGA DE INFANZONES,A-231,Viaducto,Convencional vigas,347300
+NEILA,BU-822,Pontón,Boveda,5250
+BÓVEDA DE TORO,ZA-605,Pontón,Boveda,5000
+VEGA DE INFANZONES,A-231,Viaducto,Convencional vigas,356000
+RIELLO,LE-493,Pontón,Boveda,8000
+MAZUECOS DE VALDEGINATE,P-970,Pontón,Boveda,4000
+VALENCIA DE DON JUAN,CL-621,Viaducto,Arco,138500
+SAN MILLÁN DE SAN ZADORNIL,BU-555,Pontón,Convencional vigas,6200
+HOYOCASERO,AV-905,Pontón,Boveda,4000
+TORAL DE LOS GUZMANES,LE-511,Viaducto,Convencional vigas,319000
+PALACIOS DE SIL,CL-631,Pontón,Marco / Cajón / Pórtico,7500
+BURGO RANERO,A-231,Pontón,Boveda,5900
+VILLAFER,LE-524,Viaducto,Convencional celosía,167700
+MOMBELTRAN,AV-922,Pontón,Convencional losa/cajón,9430
+PEDRALBA DE LA PRADERÍA,ZA-925,Pontón,Boveda,7200
+MORERUELA DE TÁBARA,ZA-123,Viaducto,Boveda,117500
+REQUEJO DE SANABRIA,SC-ZA-5,Pontón,Boveda,6150
+RUBI DE BRACAMONTE,CL-610,Pontón,Boveda,4750
+VILLANUEVA DE ARGAÑO,A-231,Viaducto,Convencional losa/cajón,551500
+BELORADO,BU-710,Pontón,Boveda,8200
+LOMA DE MONTIJA,BU-542,Pontón,Boveda,4000
+LA GARANDILLA,LE-451,Viaducto,Convencional vigas,125000
+BÉJAR,SA-220,Pontón,Boveda,7000
+VALORIA LA BUENA,VA-102,Pontón,Boveda,5500
+LA GARANDILLA,LE-451,Viaducto,Convencional vigas,196000
+SACRAMENIA,SG-241,Pontón,Boveda,4200
+NAVALMORAL,AV-905,Pontón,Tubo,5600
+LA GARANDILLA,LE-451,Viaducto,Convencional vigas,101000
+SACRAMENIA,SG-241,Pontón,Marco / Cajón / Pórtico,4000
+ALMEIDA DE SAYAGO,ZA-311,Pontón,Marco / Cajón / Pórtico,4600
+SANTA MARINA DEL PARAMO,LE-443,Viaducto,Boveda,140000
+CASTROBARTO,BU-552,Pontón,Boveda,4000
+RIOCAVADO DE LA SIERRA,BU-820,Pontón,Boveda,4100
+CEBRONES DEL RÍO,SC-LE-1,Viaducto,Boveda,115700
+VILLABLINO,CL-626,Pontón,Boveda,9000
+TORNADIZOS DE AVILA,AV-503,Pontón,Boveda,5000
+MELGAR DE FERNAMENTAL,A-231,Viaducto,Arco,153200
+BENUZA,LE-164,Pontón,Convencional vigas,6900
+VILLALPANDO,CL-612,Pontón,Boveda,6500
+VILLODRE,P-405,Viaducto,Convencional vigas,110000
+PUEBLA DE LILLO,LE-331,Pontón,Boveda,7700
+TAMAME,ZA-306,Pontón,Marco / Cajón / Pórtico,8800
+CORDOVILLA LA REAL,P-413,Viaducto,Boveda,226700
+SOLLE,LE-331,Pontón,Boveda,7500
+FUENTES DE ROPEL,ZA-513,Pontón,Convencional losa/cajón,6250
+ALBA DE TORMES,CL-510,Viaducto,Boveda,276000
+ARENILLAS,SO-132,Pontón,Boveda,8000
+ALAEJOS,VA-602,Pontón,Boveda,4400
+LEDESMA,SA-305,Viaducto,Arco,110000
+VILLASAYAS,CL-101,Pontón,Boveda,7000
+QUINTANILLA DEL COCO,BU-900,Pontón,Boveda,4100
+NAVA DE LA ASUNCION,SG-343,Viaducto,Convencional vigas,121000
+TREMOR DE ARRIBA,LE-460,Pontón,Convencional vigas,7000
+ALDEANUEVA DE FIGUEROA,SA-605,Pontón,Tubo,4650
+OSORNO,A-231,Viaducto,Convencional losa/cajón,107500
+NAVALPERAL DE PINARES,AV-501,Pontón,Boveda,7200
+BALTANAS,P-130,Pontón,Boveda,7520
+OSORNO,A-231,Viaducto,Convencional losa/cajón,105000
+MURITA,BU-552,Pontón,Boveda,5850
+BALTANÁS,P-141,Pontón,Marco / Cajón / Pórtico,4000
+OSORNO,A-231,Viaducto,Convencional losa/cajón,105000
+VEGA DE VALCARCE,SC-LE-3,Pontón,Boveda,6000
+LA VELLÉS,SA-601,Pontón,Tubo,4000
+ITERO DEL CASTILLO,BU-403,Viaducto,Boveda,142500
+SAN GREGORIO,SO-620,Pontón,Convencional losa/cajón,5000
+COVARRUBIAS,BU-904,Pontón,Convencional vigas,6000
+VALVERDE DEL MAJANO,CL-605,Pontón,Marco / Cajón / Pórtico,8000
+SAN PEDRO MANRIQUE,SO-630,Pontón,Boveda,4000
+AVIÑANTE,CL-626,Pontón,Marco / Cajón / Pórtico,5600
+BURGANES DE VALVERDE,ZA-100,Pontón,Boveda,6350
+GIJANO DE MENA,CL-629,Pontón,Boveda,4500
+EL HERRADON,AV-503,Pontón,Boveda,7200
+TORENO,LE-463,Pontón,Convencional vigas,5300
+VALLE DE CERRATO,P-131,Pontón,Marco / Cajón / Pórtico,4400
+MIÑO DE MEDINACELI,SO-132,Pontón,Boveda,26000
+TERRADILLOS,CL-510,Pontón,Marco / Cajón / Pórtico,4000
+CASAVIEJA,SC-AV-1,Pontón,Boveda,5080
+MAYORGA,CL-621,Pontón,Marco / Cajón / Pórtico,8400
+MONZÓN DE CAMPOS,P-984,Pontón,Convencional vigas,6580
+VILLANUÑO DE VALDAVIA,P-236,Pontón,Convencional vigas,4000
+LA ALISEDA DE TORMES,AV-941,Pontón,Marco / Cajón / Pórtico,6000
+PALAZUELO DE TORIO,LE-311,Pontón,Boveda,5300
+SANTA MARIA DEL TIETAR,CL-501,Pontón,Boveda,5000
+SANTAS MARTAS,A-231,Pontón,Boveda,6000
+MOMBELTRAN,AV-922,Pontón,Convencional losa/cajón,9500
+VALENCIA DE DON JUAN,LE-510,Pontón,Boveda,5600
+SERRANLLOS,AV-913,Pontón,Boveda,6400
+VALENCIA DE DON JUAN,LE-512,Pontón,Boveda,6640
+CARRION DE LOS CONDES,A-231,Pontón,Marco / Cajón / Pórtico,6200
+URONES DE CASTROPONCE,VA-541,Pontón,Marco / Cajón / Pórtico,8000
+BARROMAN,CL-605,Pontón,Boveda,6100
+FRESNEDILLA,AV-915,Pontón,Boveda,4520
+VILLARDONDIEGO,ZA-713,Pontón,Boveda,4900
+ENTRAMBASAGUAS,CL-629,Pontón,Boveda,4500
+BELVER DE LOS MONTES,ZA-714,Pontón,Tubo,5800
+SAN MARTIN DEL PIMPOLLAR,AV-941,Pontón,Tubo,4200
+PERERUELA,CL-527,Pontón,Boveda,4050
+RUEDA DE PISUERGA,CL-626,Pontón,Boveda,7900
+VALDECARROS,SA-113,Pontón,Boveda,6250
+TEJEDA,SA-212,Pontón,Tubo,6750
+SARDÓN DE LOS FRAILES,SA-302,Pontón,Boveda,5000
+PADILLA DE ARRIBA,BU-601,Pontón,Boveda,4300
+POLLOS,VA-610,Pontón,Boveda,5750
+PRADO DE GUZPEÑA,CL-626,Pontón,Tubo,4400
+EL CAMPO DE PEÑARANDA,SA-801,Pontón,Tubo,7300
+LA RIBA DE ESCALOTE,SO-152,Pontón,Boveda,6870
+CANTALPINO,SA-801,Pontón,Tubo,5100
+OTERO DE LAS DUEÑAS,CL-626,Pontón,Tubo,9150
+MORALEJA DE SAYAGO,ZA-306,Pontón,Marco / Cajón / Pórtico,5200
+MONTEJO DE TIERMES,SO-135,Pontón,Convencional vigas,8000
+SAN EMILIANO,LE-481,Pontón,Boveda,6000
+VIÑUELA DE SAYAGO,ZA-306,Pontón,Marco / Cajón / Pórtico,5600
+MORALEJA DE SAYAGO,ZA-306,Pontón,Marco / Cajón / Pórtico,9500
+PUENTE DE DOMINGO FLÓREZ,LE-164,Pontón,Convencional vigas,5000
+PORTO,ZA-102,Pontón,Boveda,7000
+CASTRONUÑO,CL-602,Pontón,Boveda,5000
+TRUCHAS,LE-126,Pontón,Boveda,7400
+CASAVIEJA,AV-901,Pontón,Boveda,5000
+FRESNO DE SAYAGO,ZA-302,Pontón,Marco / Cajón / Pórtico,5350
+CASAVIEJA,CL-501,Pontón,Marco / Cajón / Pórtico,4020
+PEÑAUSENDE,ZA-305,Pontón,Marco / Cajón / Pórtico,5000
+VILVIESTRE DE LOS NABOS,SO-820,Pontón,Marco / Cajón / Pórtico,5000
+BERMILLO DE SAYAGO,CL-527,Pontón,Boveda,4800
+OTERO DE BOEDO,P-223,Pontón,Convencional vigas,4850
+COVARRUBIAS,BU-905,Pontón,Boveda,6000
+NAVALMORAL,AV-905,Pontón,Boveda,7800
+SOTILLO DE LA ADRADA,CL-501,Pontón,Boveda,4100
+PEDRALBA DE LA PRADERÍA,ZA-925,Pontón,Boveda,6000
+SAN PANTALEÓN DE LOSA,BU-550,Pontón,Boveda,4000
+ALDEANUEVA DE FIGUEROA,SA-605,Pontón,Tubo,4650
+VILLAVES,BU-561,Pontón,Boveda,4000
+ROPERUELOS DEL PARAMO,LE-412,Pontón,Boveda,8700
+SANTA ELENA DE JAMUZ,LE-114,Pontón,Boveda,8750
+ROPERUELOS DEL PARAMO,LE-413,Pontón,Convencional losa/cajón,4000
+SANTA MARIA LA REAL DE NIEVA,CL-605,Puente,Boveda,16200
+NIEVA,SG-342,Puente,Boveda,14750
+ALAEJOS,VA-801,Pontón,Boveda,9500
+VILLAFRECHOS,VA-524,Puente,Convencional vigas,40000
+VALENCIA DE DON JUAN,LE-512,Pontón,Boveda,4550
+VECINOS,CL-512,Puente,Convencional vigas,10600
+ESCALADA,BU-643,Pontón,Boveda,4080
+GEMA,CL-605,Puente,Boveda,14400
+SAN PEDRO DE BERCIANOS,CL-622,Pontón,Convencional vigas,6000
+RAMACASTAÑAS,CL-501,Puente,Convencional vigas,19350
+URUEÑAS,SG-241,Pontón,Tubo,5000
+TURCIA,LE-420,Puente,Convencional vigas,34500
+TRUCHAS,LE-126,Pontón,Marco / Cajón / Pórtico,6400
+LA MILLA DEL RIO,LE-420,Puente,Convencional vigas,17000
+BRIVIESCA,CL-632,Pontón,Boveda,6100
+CERVERA DE PISUERGA,CL-626,Puente,Tubo,15200
+DUEÑAS,P-903,Pontón,Marco / Cajón / Pórtico,7000
+FUENTESAÚCO,ZA-602,Puente,Convencional vigas,10650
+LA VALCUEVA,CL-626,Pontón,Convencional vigas,5000
+ASTUDILLO,P-431,Puente,Boveda,10500
+ALAEJOS,VA-602,Pontón,Boveda,4000
+BOADILLA DE CAMPOS,P-934,Puente,Boveda,14400
+TAMAMES,SA-201,Pontón,Tubo,4300
+NARROS DE MATALAYEGUA,SA-210,Puente,Boveda,23800
+TAMAMES,SA-201,Pontón,Tubo,4320
+EL CABACO,SA-220,Puente,Boveda,13500
+QUINTANALUENGOS,CL-626,Pontón,Boveda,6000
+HERNANSANCHO,CL-507,Puente,Boveda,19000
+VILLALOBÓN,P-405,Pontón,Marco / Cajón / Pórtico,4800
+FARAMONTANOS DE TÁBARA,ZA-123,Puente,Convencional losa/cajón,17100
+FRECHILLA,P-924,Pontón,Convencional losa/cajón,4800
+MONTEAGUDO DE LAS VICARIAS,SO-340,Puente,Boveda,36000
+SASAMÓN,BU-610,Pontón,Convencional vigas,4900
+NAVACEPEDA DE TORMES,AV-941,Puente,Boveda,38300
+ROA DE DUERO,BU-130,Pontón,Marco / Cajón / Pórtico,5000
+ESPINOSA DE LA RIBERA,LE-420,Puente,Convencional vigas,11000
+REDIPUERTAS,LE-321,Pontón,Boveda,6000
+SAN PEDRO DE BERCIANOS,CL-622,Puente,Convencional vigas,10500
+NAVARREDONDILLA,AV-905,Pontón,Boveda,7250
+CRISTÓBAL,SA-214,Puente,Boveda,14150
+CASTRILLO TEJERIEGO,VA-104,Pontón,Marco / Cajón / Pórtico,5600
+LA CERCA,BU-551,Puente,Convencional vigas,25000
+CANDELEDA,AV-910,Pontón,Boveda,4000
+CAMPONARAYA,LE-713,Puente,Convencional vigas,23000
+CIUDAD RODRIGO,SA-220,Pontón,Convencional losa/cajón,5300
+GOLPEJAS,CL-517,Puente,Boveda,17300
+VILLADIEGO,BU-601,Pontón,Boveda,6800
+CALZADA DE MOLINOS,A-231,Puente,Convencional vigas,46700
+MORAL DE LA REINA,VA-905,Pontón,Boveda,9000
+TOLIBIA DE ABAJO,LE-321,Puente,Boveda,15400
+DURUELO DE LA SIERRA,CL-117,Pontón,Boveda,4500
+BUBEROS,CL-101,Puente,Boveda,12500
+NARROS DE CUELLAR,SG-342,Pontón,Boveda,7000
+LANGAYO,VA-210,Puente,Boveda,12500
+BABILAFUENTE,SA-810,Pontón,Convencional losa/cajón,6500
+FUENTELAPEÑA,ZA-602,Puente,Boveda,14400
+VILLALON DE CAMPOS,VA-924,Pontón,Convencional vigas,9000
+SAN FELICES DE LOS GALLEGOS,SA-324,Puente,Boveda,19500
+SERRANILLOS,AV-913,Pontón,Boveda,5000
+ROPERUELOS,LE-412,Puente,Boveda,13400
+PEDRO BERNARDO,CL-501,Pontón,Boveda,6300
+VILLAFÁFILA,ZA-715,Puente,Convencional losa/cajón,10500
+MOLINASECA,LE-142,Pontón,Boveda,4000
+VILLASANA DE MENA,CL-629,Puente,Convencional vigas,26300
+BUENAVISTA DE VALDAVIA,P-225,Pontón,Marco / Cajón / Pórtico,4350
+NAVALUENGA,AV-902,Puente,Convencional vigas,50000
+LOS BARRIOS DE LUNA,CL-626,Pontón,Boveda,6000
+VECINOS,SA-210,Puente,Boveda,33000
+SAN BARTOLOMÉ DE BEJAR,AV-100,Pontón,Marco / Cajón / Pórtico,4000
+GALLEGOS DE SOBRINOS,AV-110,Puente,Boveda,19200
+EL CUBO DE TIERRA DEL VINO,ZA-302,Pontón,Marco / Cajón / Pórtico,5000
+BOÑAR,CL-626,Pontón,Boveda,5500
+CEBREROS,AV-512,Puente,Convencional vigas,24500
+SEPULCRO-HILARIO,SA-213,Pontón,Boveda,4040
+TAMAMES,SA-210,Puente,Boveda,17100
+CUBILLAS DE CERRATO,P-101,Pontón,Boveda,4600
+VILLANUEVA DEL CAMPO,ZA-512,Puente,Boveda,12800
+ADRADA DE HAZA,BU-200,Pontón,Boveda,4000
+GOLPEJAS,CL-517,Puente,Boveda,36200
+RIOFRIO,AV-900,Pontón,Marco / Cajón / Pórtico,5400
+ROMANILLOS DE MEDINACELI,SO-132,Puente,Boveda,8800
+CUBILLO DE OJEDA,P-227,Pontón,Tubo,4400
+CASTROBOL,VA-542,Puente,Convencional vigas,16000
+HOYO DE PINARES,AV-502,Pontón,Boveda,4070
+VILLAFÁFILA,ZA-715,Puente,Convencional losa/cajón,10500
+NARROS DE MATALAYEGUA,SA-210,Pontón,Tubo,4400
+ALIJA DEL INFANTADO,LE-114,Puente,Convencional losa/cajón,15250
+PUENTE DEL CONGOSO,SA-104,Pontón,Marco / Cajón / Pórtico,5650
+VILLAMAÑAN,LE-411,Puente,Convencional celosía,11000
+AMBASAGUAS DE CURUEÑO,CL-624,Pontón,Marco / Cajón / Pórtico,4000
+FUENTELAPEÑA,ZA-604,Puente,Convencional losa/cajón,12600
+GRADEFES,LE-213,Pontón,Boveda,6000
+MORASVERDES,SA-220,Puente,Boveda,10800
+VILLARES D E LA REINA,SA-605,Pontón,Convencional vigas,7000
+VILLAVIUDAS,CL-619,Puente,Boveda,4600
+EL BODÓN,CL-526,Pontón,Boveda,7200
+VILLAR DE MAZARIFE,LE-413,Puente,Marco / Cajón / Pórtico,13600
+VEGA DE INFANZONES,A-231,Pontón,Marco / Cajón / Pórtico,5000
+VALENCIA DE DON JUAN,LE-512,Puente,Marco / Cajón / Pórtico,10650
+LAS QUINTANILLAS,A-231,Pontón,Marco / Cajón / Pórtico,8900
+BERCIANOS DEL CAMINO,A-231,Puente,Tubo,11000
+LAS QUINTANILLAS,A-231,Pontón,Marco / Cajón / Pórtico,8400
+MATUECA DE TORIO,LE-311,Puente,Marco / Cajón / Pórtico,13000
+LAS QUINTANILLAS,A-231,Pontón,Boveda,8500
+NOGAREJAS,LE-125,Puente,Boveda,10200
+SAN MAMÉS DE CAMPOS,A-231,Pontón,Marco / Cajón / Pórtico,8000
+CHAÑE,SG-333,Puente,Boveda,10600
+SAN MAMES DE CAMPOS,A-231,Pontón,Boveda,6100
+MIRANTES DE LUNA,CL-626,Puente,Boveda,12000
+ENCINILLAS,A-601,Pontón,Marco / Cajón / Pórtico,6000
+ALBA DE TORMES,CL-510,Puente,Convencional vigas,11650
+LA LASTRILLA,A-601,Pontón,Marco / Cajón / Pórtico,6000
+FUENSALDAÑA,VA-900,Puente,Boveda,10600
+SANTIAGO DEL ARROYO,A-601,Pontón,Marco / Cajón / Pórtico,6000
+HUERGAS DE BABIA,CL-626,Puente,Convencional vigas,10000
+SAN MIGUEL DEL ARROYO,A-601,Pontón,Marco / Cajón / Pórtico,7000
+VALENCIA DE DON JUAN,LE-512,Puente,Boveda,23200
+VILORIA,A-601,Pontón,Marco / Cajón / Pórtico,4000
+VILLANUEVA DE LAS MANZANAS,A-231,Puente,Convencional vigas,37300
+AVILA,AV-503,Pontón,Convencional vigas,6000
+FUENSALDAÑA,VA-900,Puente,Boveda,10500
+VENTA DE ARMENTIA,BU-750,Pontón,Boveda,4250
+VILLAR DE MAZARIFE,LE-413,Puente,Marco / Cajón / Pórtico,13400
+OLVEGA,CL-101,Pontón,Marco / Cajón / Pórtico,6000
+VILLANUEVA DEL CARRIZO,LE-441,Puente,Convencional vigas,16000
+BUBEROS,CL-101,Pontón,Convencional vigas,12000
+RÍONEGRO DEL PUENTE,ZA-111,Puente,Marco / Cajón / Pórtico,10300
+VENTA DE ALBAINA,CL-127,Pontón,Boveda,4050
+ABUSEJO,SA-215,Puente,Boveda,10000
+RAMACASTAÑAS,CL-501,Pontón,Marco / Cajón / Pórtico,6000
+CUBO DE BENAVENTE,ZA-111,Puente,Convencional losa/cajón,10700
+CANDELEDA,CL-501,Pontón,Marco / Cajón / Pórtico,7000
+LA VELILLA,LE-451,Puente,Convencional vigas,18000
+CISNEROS,CL-613,Pontón,Marco / Cajón / Pórtico,5000
+NAVALES,CL-510,Puente,Convencional losa/cajón,15800
+CAMPOHERMOSO,CL-626,Pontón,Marco / Cajón / Pórtico,4000
+SANTA EUFEMIA DEL ARROYO,CL-612,Puente,Boveda,11200
+CISTIERNA,CL-626,Pontón,Marco / Cajón / Pórtico,6000
+PUEBLICA DE VALVERDE,ZA-100,Puente,Boveda,17260
+UNGO,CL-629,Pontón,Marco / Cajón / Pórtico,4500
+PUEBLICA DE VALVERDE,ZA-100,Puente,Boveda,10900
+GIJANO,CL-629,Pontón,Marco / Cajón / Pórtico,4500
+CEBREROS,AV-503,Puente,Boveda,14300
+LANTADILLA,P-434,Pontón,Boveda,4900
+VEGA DE CABALLEROS,CL-626,Puente,Boveda,20000
+VILLADA,P-905,Pontón,Marco / Cajón / Pórtico,4000
+CAMASOBRES,CL-627,Puente,Boveda,14000
+MONLEÓN,SA-212,Pontón,Marco / Cajón / Pórtico,4000
+LINARES DE RIOFRÍO,SA-205,Puente,Boveda,14750
+TEJEDA,SA-212,Pontón,Tubo,4500
+MONLEÓN,SA-212,Puente,Boveda,16800
+CASTILLEJO DE MARTÍN VIEJO,SA-324,Pontón,Marco / Cajón / Pórtico,4000
+LINARES DE RIOFRÍO,SA-212,Puente,Boveda,13750
+PERORRUBIO,SG-205,Pontón,Boveda,9100
+CASTROCONTRIGO DE LA VALDERÍA,LE-126,Puente,Boveda,10000
+ALDEONSANCHO,SG-205,Pontón,Marco / Cajón / Pórtico,6000
+BUENAMADRE,SA-305,Puente,Boveda,13600
+ALCUBILLA DE AVELLANEDA,SO-934,Pontón,Marco / Cajón / Pórtico,6000
+CERVERA DE PISUERGA,CL-626,Puente,Boveda,18400
+CUELLAR,A-601,Pontón,Boveda,8000
+TORENO,LE-463,Puente,Convencional vigas,19000
+MATANZA DE LOS OTEROS,CL-621,Pontón,Marco / Cajón / Pórtico,8000
+EL CUBO DE LA TIERRA DEL VINO,ZA-602,Puente,Convencional losa/cajón,12800
+VILLAESCUSA,CL-605,Pontón,Boveda,7600
+CUELGAMURES,ZA-611,Puente,Boveda,14700
+VEGAS DEL CONDADO,CL-624,Pontón,Convencional losa/cajón,5600
+HERRERA DE DUERO,A-601,Puente,Boveda,10500
+PALENCIA,SC-P-3,Pontón,Boveda,5800
+BERCIANOS DEL CAMINO,A-231,Puente,Convencional vigas,21600
+VILLANUEVA DE LOS NABOS,CL-615,Pontón,Convencional losa/cajón,4530
+BERCIANOS DEL CAMINO,A-231,Puente,Convencional vigas,18400
+MATARROSA DE SIL,CL-631,Pontón,Convencional vigas,6600
+CARRIÓN DE LOS CONDES,A-231,Puente,Convencional vigas,13900
+NAVIANOS DE VALVERDE,ZA-100,Pontón,Convencional vigas,6000
+SAN MIGUEL DE BERNUY,CL-603,Puente,Boveda,14200
+CARRIÓN DE LOS CONDES,CL-615,Pontón,Tubo,6100
+EL PEGO,ZA-610,Puente,Convencional vigas,11100
+TORO,ZA-611,Pontón,Marco / Cajón / Pórtico,4500
+ALMAZÁN,SC-SO-4,Puente,Convencional vigas,12000
+TORO,CL-602,Pontón,Marco / Cajón / Pórtico,5400
+CUENCA DE CAMPOS,VA-905,Puente,Boveda,11100
+FRESNEDO,LE-715,Pontón,Marco / Cajón / Pórtico,5000
+SAN NICOLÁS DEL REAL CAMINO,A-231,Puente,Convencional vigas,11000
+VILLANUEVA DE ARGAÑO,A-231,Pontón,Marco / Cajón / Pórtico,6000
+SAN NICOLÁS DEL REAL CAMINO,A-231,Puente,Convencional vigas,11000
+VILLOTILLA,A-231,Pontón,Marco / Cajón / Pórtico,6170
+VALDERAS,LE-524,Puente,Convencional celosía,17000
+MUÑANA,AV-120,Pontón,Convencional losa/cajón,5600
+VILLANUEVA DE LAS MANZANAS,A-231,Puente,Convencional vigas,27500
+CASTROJERIZ,BU-400,Pontón,Marco / Cajón / Pórtico,5000
+SANTAS MARTAS,A-231,Puente,Convencional vigas,15636
+QUINTANADUEÑAS,BU-622,Pontón,Marco / Cajón / Pórtico,6000
+POVEDA DE LAS CINTAS,SA-810,Puente,Convencional vigas,12400
+HINOJAR DE CERVERA,BU-910,Pontón,Boveda,8900
+LAGUNA DE DUERO,A-601,Puente,Convencional vigas,13000
+POYALES DEL HOYO,CL-501,Pontón,Marco / Cajón / Pórtico,5000
+GRIJOTA,CL-613,Puente,Convencional vigas,10000
+POYALES DEL HOYO,CL-501,Pontón,Marco / Cajón / Pórtico,8400
+BOÑAR,CL-626,Puente,Convencional losa/cajón,44000
+ALDEATEJADA,CL-512,Pontón,Marco / Cajón / Pórtico,6000
+SANTAS MARTAS,A-231,Puente,Convencional losa/cajón,67900
+ZAFRÓN,CL-517,Pontón,Boveda,6650
+CUELLAR,A-601,Puente,Convencional vigas,39100
+VILLASECO DE LOS GAMITOS,CL-517,Pontón,Boveda,5900
+VILLOTILLA,A-231,Puente,Marco / Cajón / Pórtico,10650
+GUADRAMIRO,CL-517,Pontón,Marco / Cajón / Pórtico,6900
+RETORTILLO,BU-143,Puente,Boveda,11600
+HINOJOSA DE DUERO,CL-517,Pontón,Boveda,4000
+ALBA DE TORMES,CL-510,Puente,Marco / Cajón / Pórtico,10150
+LA ENCINA,CL-526,Pontón,Boveda,7150
+TORO,CL-602,Puente,Boveda,10600
+EL BODÓN,CL-526,Pontón,Boveda,7200
+MOLACILLOS,CL-612,Puente,Boveda,10100
+LA GRANJA,CL-601,Pontón,Boveda,7100
+VILLASECA DE LACIANA,CL-626,Puente,Boveda,17650
+POZAL DE GALLINAS,CL-602,Pontón,Tubo,4000
+VILLASECA LACIANA,CL-626,Puente,Convencional vigas,34000
+TEJARES,CL-603,Pontón,Boveda,5000
+ALIJA DEL INFANTADO,LE-114,Puente,Convencional losa/cajón,20400
+MORQUERA,CL-605,Pontón,Boveda,7000
+LA MATA DE CURUEÑO,LE-321,Puente,Convencional losa/cajón,13100
+MONFARRACINOS,CL-612,Pontón,Marco / Cajón / Pórtico,4350
+SOPEÑA DE CARNERO,LE-451,Puente,Convencional vigas,11000
+CARRIÓN DE LOS CONDES,CL-615,Pontón,Boveda,5000
+VALDERAS,LE-512,Puente,Boveda,39000
+SALDAÑA,CL-615,Pontón,Boveda,9600
+VILLAQUEJIDA,LE-524,Puente,Boveda,11000
+VILLAMAÑÁN,CL-621,Pontón,Tubo,4350
+CACABELOS,LE-713,Puente,Convencional vigas,14000
+LA BAÃ‘EZA,CL-622,Pontón,Convencional losa/cajón,9800
+ALDEHUELA DE YELTES,SA-213,Puente,Boveda,10000
+LA BAÑEZA,CL-622,Pontón,Convencional losa/cajón,9800
+SAELICES DE MAYORGA,VA-932,Puente,Boveda,17500
+ROBLES DE VALCUEVA,CL-626,Pontón,Marco / Cajón / Pórtico,6000
+FARAMONTANOS DE TÁBARA,ZA-123,Puente,Convencional losa/cajón,16200
+POBLADURA DE LUNA,CL-626,Pontón,Boveda,5000
+MOLACILLOS,ZA-711,Puente,Boveda,17500
+VALDENOCEDA,CL-629,Pontón,Boveda,4500
+MOLACILLOS,ZA-711,Puente,Tubo,12200
+CASTROCALBÓN,LE-110,Pontón,Convencional vigas,5000
+PEDRALBA DE LA PRADERÍA,ZA-925,Puente,Boveda,13250
+NOGAREJAS,LE-125,Pontón,Convencional vigas,8900
+ISCAR,VA-333,Puente,Boveda,27600
+TRUCHAS,LE-126,Pontón,Boveda,8550
+VILLALMONDAR,BU-703,Puente,Boveda,11000
+SANTA COLOMA DE CURUEÑO,LE-321,Pontón,Convencional losa/cajón,4200
+BURGO RANERO,A-231,Puente,Convencional vigas,31300
+LA MATA DEL PARAMO,LE-413,Pontón,Marco / Cajón / Pórtico,4000
+GALLEGUILLOS DE CAMPOS,LE-941,Puente,Convencional vigas,13000
+TURCIA,LE-420,Pontón,Convencional vigas,7000
+FRECHILLA,P-944,Puente,Convencional vigas,15200
+TRASCASTRO,LE-451,Pontón,Marco / Cajón / Pórtico,4000
+ARANDA DE DUERO,BU-950,Puente,Convencional vigas,10000
+TRASCASTRO,LE-451,Pontón,Marco / Cajón / Pórtico,4000
+LANTADILLA,P-434,Puente,Boveda,32900
+CANALES,LE-493,Pontón,Boveda,5000
+ALAR DEL REY,P-610,Puente,Boveda,14200
+VEGA DE ESPINAREDA,LE-716,Pontón,Boveda,4000
+GRIJOTA,P-954,Puente,Boveda,20200
+BECERRIL DE CAMPOS,P-953,Puente,Boveda,12000
+VIDUERNA DE LA PEÑA,P-214,Pontón,Marco / Cajón / Pórtico,7900
+QUINTANA MARTÍN GALÍNDEZ,BU-520,Puente,Convencional vigas,10000
+CARDAÑO DE ARRIBA,P-217,Pontón,Boveda,5000
+VALENCIA DE DON JUAN,CL-621,Puente,Convencional vigas,11900
+QUINTANILLA DE ONSOÑA,P-240,Pontón,Boveda,4450
+MATALOBOS DEL PARAMO,CL-621,Puente,Convencional losa/cajón,11000
+BAHILLO,P-240,Pontón,Boveda,5250
+URRACA-MIGUEL,AV-500,Puente,Convencional vigas,32000
+LA SERNA,P-241,Pontón,Boveda,5620
+MONZÓN DE CAMPOS,P-984,Puente,Convencional vigas,10900
+FRECHILLA,P-924,Pontón,Convencional losa/cajón,4800
+BURGO DE OSMA,S/C,Puente,Boveda,40000
+AMUSCO,P-983,Pontón,Boveda,6000
+ANIAGO,CL-610,Puente,Convencional vigas,77300
+AMUSCO,P-983,Pontón,Boveda,7600
+SANTIBAÑEZ DE AYLLON,SG-145,Puente,Boveda,11400
+MONZÓN DE CAMPOS,P-990,Pontón,Marco / Cajón / Pórtico,7000
+SAN ESTEBAN DE LA SIERRA,SA-205,Puente,Boveda,46050
+SORIHUELA,SA-102,Pontón,Boveda,4500
+SOTOSERRANO,SA-225,Puente,Boveda,65000
+CESPEDOSA DE TORMES,SA-104,Pontón,Marco / Cajón / Pórtico,5950
+SAN MARTÍN DEL PIMPOLLAR,AV-905,Puente,Boveda,32000
+CESPEDOSA DE TORMES,SA-104,Pontón,Boveda,7600
+LA MAYA,SC-SA-3,Puente,Boveda,29260
+SANTIAGO DE LA PUEBLA,SA-105,Pontón,Marco / Cajón / Pórtico,5300
+MUÑICO,AV-110,Puente,Boveda,15700
+VALDECARROS,SA-113,Pontón,Boveda,6250
+NAVA DE SOTROBAL,SA-114,Puente,Convencional vigas,37500
+SAN ESTEBAN DE LA SIERRA,SA-205,Pontón,Boveda,7300
+ANDALUZ,SO-100,Puente,Tubo,52300
+NARROS DE MATALAYEGUA,SA-210,Pontón,Marco / Cajón / Pórtico,5250
+PEÑARANDA DE DUERO,BU-923,Puente,Boveda,51900
+CRISTÓBAL,SA-214,Pontón,Marco / Cajón / Pórtico,6700
+PEÑARANDA DE DUERO,BU-934,Puente,Boveda,17400
+CERECEDA DE LA SIERRA,SA-215,Pontón,Marco / Cajón / Pórtico,5600
+CANDELEDA,AV-910,Puente,Convencional vigas,42000
+MIRANDA DEL CASTAÑAR,SA-220,Pontón,Boveda,4100
+SAN LEONARDO DE YAGÜE,SO-920,Puente,Boveda,10500
+SAN MIGUEL DEL ROBLEDO,SA-220,Pontón,Marco / Cajón / Pórtico,4300
+COVARRUBIAS,BU-901,Puente,Boveda,81000
+LEDESMA,SA-300,Pontón,Boveda,4000
+COVARRUBIAS,BU-905,Puente,Boveda,62300
+CASTELLANOS DE VILLIQUERA,SA-300,Pontón,Tubo,4100
+PAMPLIEGA,BU-101,Puente,Boveda,79700
+ALMENDRA,SA-302,Pontón,Boveda,5050
+ARANDA DE DUERO,BU-950,Puente,Convencional vigas,30000
+LEDESMA,SA-305,Pontón,Boveda,4000
+LA ALBERCA,SA-201,Puente,Boveda,12300
+BUENAMADRE,SA-305,Pontón,Tubo,4500
+HOYO DE PINARES,AV-502,Puente,Boveda,12000
+VALSALABROSO,SA-314,Pontón,Marco / Cajón / Pórtico,8250
+LA ROBLA,CL-626,Puente,Boveda,40300
+LA PEÑA,SA-314,Pontón,Marco / Cajón / Pórtico,5540
+LA POLA DE GORDÓN,LE-473,Puente,Boveda,22350
+ALDEADÁVILA DE LA RIBERA,SA-314,Pontón,Marco / Cajón / Pórtico,5400
+LA POLA DE GORDÓN,SC-LE-13,Puente,Boveda,20000
+BARCEO,SA-314,Pontón,Marco / Cajón / Pórtico,5900
+SOTOBAÑADO Y PRIORATO,P-230,Puente,Convencional vigas,58200
+CANTALPINO,SA-801,Pontón,Tubo,5000
+SOTOBAÑADO Y PRIORATO,SC-P-8,Puente,Boveda,21000
+ALDEASECA DE LA FRONTERA,SA-801,Pontón,Tubo,4000
+TORRE DEL BIERZO,LE-106,Puente,Boveda,29500
+ALDEASECA DE LA FRONTERA,SA-801,Pontón,Boveda,4000
+PONFERRADA,LE-142,Puente,Convencional vigas,43600
+CANTALPINO,SA-804,Pontón,Tubo,5000
+SASAMÓN,BU-610,Puente,Convencional vigas,10800
+VILLAFLORES,SA-810,Pontón,Convencional losa/cajón,5750
+VILLADIEGO,BU-627,Puente,Boveda,37330
+SALDAÑA DE BURGOS,SC-BU-17,Pontón,Marco / Cajón / Pórtico,8800
+HERRERA DE PISUERGA,P-230,Puente,Boveda,29600
+ABIÓN,SO-340,Pontón,Convencional losa/cajón,6500
+VILLALPANDO,ZA-512,Puente,Convencional vigas,12500
+SAN PEDRO MANRIQUE,SO-630,Pontón,Boveda,4000
+SANTA EUFEMIA DEL ARROYO,CL-612,Puente,Convencional vigas,44500
+PEDRAJA DE PORTILLO,VA-303,Pontón,Tubo,4050
+VILLALPANDO,CL-612,Puente,Convencional vigas,14300
+CASTRONUÑO,VA-610,Pontón,Boveda,4000
+EL BERRON,CL-629,Puente,Boveda,24000
+CASTREJON DE TRABANCOS,VA-801,Pontón,Boveda,6000
+VILLASANA DE MENA,CL-629,Puente,Convencional vigas,33800
+VILLALÓN DE CAMPOS,VA-932,Pontón,Boveda,4000
+LUMBRALES,CL-517,Puente,Boveda,25100
+FARAMONTANOS DE TÁBARA,ZA-123,Pontón,Boveda,9500
+PALENCIA,CL-615,Puente,Convencional vigas,91500
+JUSTEL,ZA-125,Pontón,Boveda,5000
+MÓZAR,ZA-100,Puente,Convencional vigas,18800
+ESPADAÑEDO,ZA-125,Pontón,Tubo,5100
+VILLAVEZA DE VALVERDE,ZA-100,Puente,Convencional vigas,39500
+FRESNO DE SAYAGO,ZA-302,Pontón,Marco / Cajón / Pórtico,5450
+SAHAGUN,CL-613,Puente,Convencional vigas,96000
+FRESNO DE SAYAGO,ZA-302,Pontón,Marco / Cajón / Pórtico,4100
+PUENTE ALMUHEY,LE-232,Puente,Convencional vigas,24300
+FIGUERUELA DE SAYAGO,ZA-306,Pontón,Marco / Cajón / Pórtico,7050
+PRIORO,LE-234,Puente,Boveda,19500
+LA TUDA,ZA-306,Pontón,Marco / Cajón / Pórtico,5600
+VALDERAS,LE-524,Puente,Convencional celosía,37500
+LA TUDA,ZA-306,Pontón,Marco / Cajón / Pórtico,4000
+CUELLAR,A-601,Puente,Convencional vigas,88000
+BERMILLO DE SAYAGO,ZA-311,Pontón,Tubo,4000
+VEGANZONES,CL-603,Puente,Boveda,55500
+FRESNO DE SAYAGO,ZA-320,Pontón,Marco / Cajón / Pórtico,9000
+BERCEDO,BU-526,Puente,Boveda,34700
+PERERUELA,ZA-320,Pontón,Marco / Cajón / Pórtico,5400
+BERCEDO,CL-629,Puente,Convencional vigas,32500
+MORALINA,ZA-321,Pontón,Boveda,5800
+PAMPLIEGA,BU-101,Puente,Convencional vigas,17300
+CASTROVERDE DE CAMPOS,ZA-524,Pontón,Tubo,4000
+VILLAR DE CORNEJA,AV-102,Puente,Convencional vigas,46000
+FUENTELAPEÑA,ZA-604,Pontón,Convencional losa/cajón,6000
+SAN BARTOLOME DE CORNEJA,AV-104,Puente,Boveda,22000
+TORO,ZA-611,Pontón,Marco / Cajón / Pórtico,4300
+PIEDRAHITA,CL-510,Puente,Convencional vigas,21000
+MAHIDE,ZA-912,Pontón,Boveda,4800
+CACABELOS,LE-713,Puente,Boveda,80000
+SANTIBÁÑEZ DE VIDRIALES,ZA-110,Pontón,Boveda,6000
+VILLAHOZ,BU-101,Puente,Boveda,17600
+CABAÑAS RARAS,LE-711,Pontón,Marco / Cajón / Pórtico,5750
+VILLAFOLFO,CL-615,Puente,Convencional vigas,39700
+SANTA MARÍA DE LAS HOYAS,SO-934,Pontón,Boveda,7400
+TERRADILLOS DE LOS TEMPLARIOS,P-235,Puente,Boveda,10150
+SANTA CRUZ DE RÍO URBIÓN,BU-813,Pontón,Boveda,4000
+LEDIGOS,P-970,Puente,Convencional vigas,13040
+SANTA MARÍA DE LAS HOYAS,SO-934,Pontón,Boveda,4000
+RAMACASTAÑAS,CL-501,Puente,Convencional vigas,56900
+SAN MIGUEL DEL ARROYO,SC-VA-6,Pontón,Boveda,7000
+RIHONOR DE CASTILLA,ZA-921,Puente,Convencional vigas,14900
+TORME,BU-562,Pontón,Boveda,4000
+DESTRIANA DE VALDUERNA,LE-133,Puente,Convencional vigas,75500
+HERRERA DE PISUERGA,P-230,Pontón,Boveda,7200
+PUENTE DUERO,SC-VA-2,Puente,Boveda,70300
+BALTANAS,P-131,Pontón,Boveda,6770
+OTERUELOS,SO-800,Puente,Convencional vigas,93600
+ALPARRACHE,CL-101,Pontón,Convencional losa/cajón,6000
+DURUELO,SG-205,Puente,Boveda,10000
+BARCENAS,BU-570,Pontón,Boveda,7450
+SEPULVEDA,SG-232,Puente,Boveda,46500
+VALDENOCEDA,CL-629,Pontón,Boveda,5500
+SEGOVIA,SC-SG-10,Puente,Boveda,24000
+VILLATE,BU-551,Pontón,Marco / Cajón / Pórtico,4350
+NAVAS DE ORO,SG-342,Puente,Convencional vigas,62000
+VILLALBA,CL-116,Pontón,Boveda,5000
+CASTROCALBÓN,LE-110,Puente,Convencional vigas,98500
+FRIAS,BU-504,Pontón,Convencional vigas,8500
+NOGAREJAS,LE-111,Puente,Convencional vigas,65200
+VILLAORNATE,LE-510,Pontón,Convencional vigas,8500
+CASTROCONTRIGO DE LA VALDERÍA,LE-126,Puente,Convencional vigas,22000
+CAMPAZAS,LE-510,Pontón,Convencional losa/cajón,4400
+RELLO,SO-132,Puente,Convencional vigas,18000
+VILLAFAÑE,LE-213,Pontón,Convencional vigas,5900
+CABAÑES DE ESGUEVA,BU-130,Puente,Boveda,40200
+VALENCIA DE DON JUAN,LE-521,Pontón,Marco / Cajón / Pórtico,4400
+GRADEFES,LE-213,Puente,Boveda,64000
+VILLAMAÑÁN,CL-621,Pontón,Convencional losa/cajón,6200
+BOCA DE HUERGANO,LE-215,Puente,Convencional vigas,73000
+CELADILLA DEL PARAMO,LE-443,Pontón,Convencional vigas,6800
+MIRANDA DEL CASTAÑAR,SA-225,Puente,Convencional vigas,44500
+ITERO DE LA VEGA,P-403,Pontón,Convencional losa/cajón,4560
+CABEZAS DEL VILLAR,AV-105,Puente,Boveda,20126
+RIOSECO DE TAPIA,LE-460,Pontón,Boveda,4500
+GAJATES,SA-113,Puente,Boveda,49200
+ROPERUELOS DEL PARAMO,LE-413,Pontón,Convencional losa/cajón,4000
+CIUDAD RODRIGO,SA-213,Puente,Boveda,26300
+VILLANUEVA DEL CARRIZO,LE-441,Pontón,Boveda,5000
+ARENILLAS DE VILLADIEGO,BU-601,Puente,Boveda,18700
+VILLALACO,P-412,Pontón,Boveda,7200
+PARADORES,CL-629,Puente,Convencional vigas,18650
+CASTROBOL,VA-542,Pontón,Convencional vigas,8000
+CASTRODEZA,VA-514,Puente,Boveda,4100
+MAGAÑA,SO-630,Pontón,Tubo,6800
+VEGA DE VALDETRONCO,SC-VA-13,Puente,Boveda,27000
+MONTE ALEGRE DE CAMPOS,CL-612,Pontón,Convencional losa/cajón,4550
+TORRELOBATÓN,VA-515,Puente,Boveda,15900
+ARALLA DE LA LUNA,CL-626,Pontón,Tubo,7000
+QUINTANA REDONDA,SO-100,Puente,Tubo,10000
+SAN LEONARDO DE YAGÜE,SO-934,Pontón,Convencional vigas,7700
+MATAMALA DE ALMAZÁN,SO-110,Puente,Boveda,15100
+CALERUEGA,BU-923,Pontón,Convencional losa/cajón,7600
+MEDINACELI,SO-411,Puente,Convencional vigas,20000
+BAYUBAS DE ABAJO,CL-116,Pontón,Boveda,5350
+JIMÉNEZ DE JAMUZ,LE-110,Puente,Convencional vigas,46400
+BURGOS,BU-800,Pontón,Tubo,7200
+SAN PANTALEÓN DE LOSA,BU-550,Puente,Boveda,41000
+TORENO,CL-631,Pontón,Boveda,9600
+QUINCOCES DE YUSO,BU-552,Puente,Boveda,20400
+SANTA OLALLA DE BUREBA,BU-702,Pontón,Boveda,7000
+ASTORGA,LE-133,Puente,Boveda,10300
+CARDAÑO DE ABAJO,P-210,Pontón,Marco / Cajón / Pórtico,4000
+VALSALABROSO,SC-SA-7,Puente,Marco / Cajón / Pórtico,27000
+NOGAREJAS,LE-125,Pontón,Boveda,8700
+SANTA MARÍA DE LAS HOYAS,SO-934,Puente,Boveda,25000
+PÍAS,ZA-102,Pontón,Boveda,4900
+NAVALMANZANO,SC-SG-23,Puente,Boveda,13400
+ISOBA,LE-331,Pontón,Boveda,5000
+CARRASCOSA DE ARRIBA,SO-135,Puente,Convencional vigas,14000
+PEÑAPARDA,CL-526,Pontón,Convencional vigas,9500
+QUINTANILLA DEL COCO,BU-900,Puente,Convencional vigas,16600
+COVALEDA,CL-117,Pontón,Boveda,7500
+SAN VITERO,ZA-912,Puente,Convencional vigas,15000
+NAVALMORAL,AV-905,Pontón,Boveda,9000
+VALVERDE DEL MAJANO,CL-605,Puente,Convencional vigas,29000
+NAVAFRÍA,SG-612,Pontón,Boveda,6100
+ALDEHUELA DE CALATAÑAZOR,SO-910,Puente,Boveda,13000
+SANDOVAL DE LA REINA,BU-627,Pontón,Boveda,4000
+PEÃ‘ARANDA DE BRACAMONTE,CL-610,Puente,Boveda,13400
+CUEVAS DE SAN CLEMENTE,BU-901,Pontón,Boveda,4000
+TOBERA,BU-504,Puente,Convencional vigas,20000
+TAPIOLES,ZA-715,Pontón,Convencional vigas,5000
+ALBA DE YELTES,SA-213,Puente,Convencional losa/cajón,37550
+SAN GREGORIO,SO-620,Pontón,Convencional losa/cajón,5000
+ALMAZÁN,CL-116,Puente,Convencional vigas,10000
+TRUCHAS,LE-126,Pontón,Boveda,6500
+TEZA DE LOSA,BU-552,Puente,Boveda,17000
+CORNEJO,BU-562,Pontón,Boveda,6000
+LOS BARRIOS DE BUREBA,CL-632,Puente,Convencional vigas,21500
+CALTOJAR,SO-152,Pontón,Boveda,5000
+BRIVIESCA,SC-BU-5,Puente,Convencional vigas,20000
+LA ALBERCA,SA-201,Pontón,Boveda,6050
+SANDOVAL DE LA REINA,BU-627,Puente,Boveda,35000
+RETORTILLO,BU-143,Pontón,Boveda,5700
+VILLASANDINO,A-231,Puente,Convencional vigas,72800
+SOTRESGUDO,BU-627,Pontón,Marco / Cajón / Pórtico,6450
+VILLASANDINO,A-231,Puente,Convencional vigas,74800
+LA VENTOSILLA,CL-619,Pontón,Boveda,4950
+LA GARANDILLA,LE-460,Puente,Convencional vigas,34500
+ALMAZUL,SO-350,Pontón,Boveda,9200
+VALVERDE DE MIRANDA,BU-730,Puente,Boveda,20350
+OLLEROS DE SABERO,CL-626,Pontón,Boveda,7800
+LA MAGDALENA,LE-420,Puente,Boveda,18000
+HUERTA DEL REY,BU-921,Pontón,Boveda,5000
+CUEVAS DE AYLLÓN,SC-SO-9,Puente,Convencional losa/cajón,10500
+POZO DE URAMA,P-972,Pontón,Boveda,6100
+BARBADILLO DE LOS HERREROS,BU-825,Puente,Boveda,12700
+TREVIÑO,CL-127,Pontón,Boveda,6900
+CARBONERO EL MAYOR,A-601,Puente,Convencional vigas,41450
+SAN EMILIANO,LE-481,Pontón,Boveda,6000
+MOZONCILLO,SG-211,Puente,Convencional vigas,35000
+YANGUAS,SO-615,Pontón,Boveda,4000
+CERVERA DE PISUERGA,CL-626,Puente,Boveda,62730
+SANTO DOMINGO DE SILOS,BU-910,Pontón,Boveda,6000
+DUEÑAS,P-102,Puente,Convencional losa/cajón,86500
+MONTENEGRO DE CAMEROS,SO-830,Pontón,Boveda,8000
+VALDECASTILLO,LE-331,Puente,Convencional vigas,43000
+VILLAFLORES,SA-810,Pontón,Convencional losa/cajón,5750
+COFIÑAL,LE-333,Puente,Boveda,21000
+FRIAS,BU-520,Pontón,Boveda,9000
+MORQUERA,CL-605,Puente,Convencional vigas,21350
+ALBA DE YELTES,SA-213,Pontón,Marco / Cajón / Pórtico,4100
+VALDEAVELLANO DE TERA,SO-820,Puente,Boveda,12500
+ALMAZÁN,CL-101,Pontón,Convencional vigas,9500
+SOTILLO DEL RINCÓN,SO-820,Puente,Convencional vigas,42000
+SERÓN DE NÁGIMA,SO-340,Pontón,Convencional losa/cajón,8250
+RAGAMA,CL-610,Puente,Boveda,15000
+GALLEGOS DE SOBRINOS,AV-110,Pontón,Boveda,5000
+BECERRIL DE CAMPOS,P-953,Puente,Convencional losa/cajón,18300
+RIELLO,LE-493,Pontón,Boveda,6000
+BECERRIL DE CAMPOS,P-953,Puente,Convencional vigas,24000
+QUISICEDO,BU-526,Pontón,Boveda,5000
+BERLANGAS DE ROA,BU-120,Puente,Boveda,54500
+PIEDRAHITA,CL-510,Pontón,Marco / Cajón / Pórtico,5000
+CERVERA DE PISUERGA,CL-626,Puente,Boveda,21400
+GUMIEL DE HIZÁN,SC-BU-20,Pontón,Boveda,5550
+NESTAR,P-220,Puente,Boveda,19300
+SOTRESGUDO,BU-627,Pontón,Marco / Cajón / Pórtico,4300
+ISAR,BU-406,Puente,Boveda,6750
+ARGOTE DE TREVIÑO,CL-127,Pontón,Boveda,5950
+MOLACILLOS,CL-612,Puente,Boveda,22000
+BUSTILLO DEL PÄRAMO,A-231,Pontón,Marco / Cajón / Pórtico,6000
+VALDEFUENTES DE SANGUSIN,SA-220,Puente,Boveda,42000
+BUSTILLO DEL PÄRAMO,A-231,Pontón,Marco / Cajón / Pórtico,6000
+LAS MACHORRAS,BU-570,Puente,Convencional vigas,12000
+LODARES DE OSMA,CL-116,Pontón,Convencional vigas,5000
+BOADILLA  DE RIOSECO,P-934,Puente,Convencional vigas,17250
+CASTILLEJO DE MESLEON,SG-234,Pontón,Tubo,7200
+MEDINA DE RIOSECO,VA-913,Puente,Convencional vigas,31000
+EL HOYO DE PINARES,AV-561,Pontón,Convencional losa/cajón,5000
+EL OLMO,SG-234,Puente,Boveda,19000
+CEBREROS,AV-562,Pontón,Convencional vigas,7000
+MATARROSA DE SIL,CL-631,Puente,Convencional vigas,76000
+VEGACERVERA,LE-315,Pontón,Boveda,7700
+CABRILLANES,LE-491,Puente,Boveda,15500
+NARROS DEL PUERTO,AV-933,Pontón,Boveda,5000
+VILLABLINO,LE-493,Puente,Boveda,19000
+SANTA CRUZ DEL VALLE URBIÓN,BU-813,Pontón,Boveda,5000
+CABRILLANES,LE-495,Puente,Boveda,18800
+RIELLO,LE-493,Pontón,Marco / Cajón / Pórtico,5000
+PUEBLA DE LILLO,LE-331,Puente,Tubo,13000
+BARBADILLO DE LOS HERREROS,BU-825,Pontón,Boveda,6040
+CORBÓN DE SIL,CL-631,Puente,Convencional vigas,48000
+VENTOSA DE SAN PEDRO,SO-650,Pontón,Boveda,9000
+PUEBLA DE SANABRIA,SC-ZA-10,Puente,Boveda,86500
+VILLADA,P-905,Pontón,Marco / Cajón / Pórtico,4410
+TERA,SO-820,Puente,Convencional vigas,42000
+VILORIA,A-601,Pontón,Marco / Cajón / Pórtico,8000
+RIBADELAGO,ZA-104,Puente,Convencional vigas,39200
+NAREDO DE FENAR,CL-626,Pontón,Boveda,4000
+SOTILLO DE LA ADRADA,AV-915,Puente,Boveda,10300
+AGREDA,SO-382,Pontón,Boveda,17000
+PEDRO BERNARDO,AV-922,Puente,Convencional losa/cajón,68980
+ESCURIAL DE LA SIERRA,SA-212,Pontón,Tubo,5700
+ROBLES DE VALCUEVA,CL-626,Puente,Convencional vigas,33200
+ORBANEJA DEL CASTILLO,BU-643,Pontón,Boveda,4100
+ALMUZARA,LE-315,Puente,Boveda,26500
+VILLACOMPARADA DE RUEDA,BU-562,Pontón,Boveda,6000
+VEGACERVERA,LE-315,Puente,Boveda,20000
+CASAVIEJA,CL-501,Pontón,Marco / Cajón / Pórtico,4010
+VEGACERVERA,LE-315,Puente,Boveda,20000
+NAVATALGORDO,AV-905,Pontón,Boveda,6800
+OTERO DE LAS DUEÑAS,CL-626,Puente,Convencional vigas,21000
+LA ANGOSTURA,AV-941,Pontón,Boveda,7200
+TORME,BU-562,Puente,Boveda,15850
+SERRANILLOS,AV-913,Pontón,Boveda,5020
+CEREZAL DE TREMOR,LE-460,Puente,Convencional vigas,26000
+SOTILLO DE LA ADRADA,CL-501,Pontón,Marco / Cajón / Pórtico,4800
+SOPEÑA DE CARNERO,LE-451,Puente,Convencional vigas,49000
+GUMIEL DE HIZÁN,BU-920,Pontón,Boveda,9100
+ASTORGA,LE-133,Puente,Convencional vigas,40000
+POZA DE LA SAL,CL-633,Pontón,Boveda,4100
+ALFOZ DE QUINTANADUEÑAS,BU-622,Puente,Boveda,30200
+VILLAMOR DE LOS ESCUDEROS,CL-605,Pontón,Marco / Cajón / Pórtico,6850
+UBIERNA,SC-BU-10,Puente,Convencional vigas,15000
+CAMPO DE PEÑARANDA,SA-801,Pontón,Tubo,5200
+GOZON DE UCIEZA,P-240,Puente,Boveda,25000
+GOLPEJAS,CL-517,Pontón,Boveda,5000
+BAHILLO,P-242,Puente,Boveda,26400
+ENCINAS DE ARRIBA,SA-114,Pontón,Boveda,5000
+VILLALCAZAR DE SIRGA,P-981,Puente,Boveda,21200
+TRABANCA,SA-315,Pontón,Tubo,7500
+TARDAJOS,A-231,Puente,Convencional vigas,59960
+VITIGUDINO,SA-315,Pontón,Marco / Cajón / Pórtico,5350
+NUEZ DE ARRIBA,BU-601,Puente,Convencional vigas,25000
+SIETEIGLESIAS DE TORMES,SA-114,Pontón,Convencional losa/cajón,5600
+VILLAELES DE VALDAVIA,P-230,Puente,Boveda,65200
+EL CAMPO DE PEÑARANDA,SA-801,Pontón,Boveda,6950
+CISNEROS,CL-613,Puente,Convencional vigas,18400
+BENAFARCES,VA-705,Pontón,Boveda,4000
+SAN ROMÁN DE LA CUBA,P-972,Puente,Convencional losa/cajón,23100
+PUENTE ALMUHEY,CL-626,Pontón,Convencional vigas,8550
+SAHAGUN,A-231,Puente,Convencional vigas,51000
+BERMILLO DE SAYAGO,ZA-311,Pontón,Boveda,9100
+GRAJAL DE CAMPOS,CL-613,Puente,Convencional vigas,24000
+ROBLES DE VALCUEVA,CL-626,Pontón,Boveda,4000
+CABEZON DE VALDERADUEY,VA-932,Puente,Boveda,19000
+SANTIBAÑEZ DE LA PEÑA,CL-626,Pontón,Marco / Cajón / Pórtico,4510
+CASTROVERDE DE CAMPOS,ZA-524,Puente,Convencional vigas,37000
+CAMPONARAYA,LE-713,Pontón,Marco / Cajón / Pórtico,4200
+CABRILLAS,SA-215,Puente,Boveda,19780
+VILLASANDINO,BU-404,Pontón,Boveda,5700
+VILLAHERREROS,A-231,Puente,Marco / Cajón / Pórtico,44500
+HUMADA,BU-621,Pontón,Boveda,6100
+DESTRIANA DE VALDUERNA,LE-133,Puente,Convencional vigas,38000
+ORBANEJA DEL CASTILLO,BU-643,Pontón,Boveda,4000
+SORIHUELA,SA-102,Puente,Boveda,15300
+PALACIOS DE LA SIERRA,CL-117,Pontón,Boveda,8660
+NAVALPERAL DE PINARES,AV-501,Puente,Boveda,21200
+PALACIOS DE LA SIERRA,CL-117,Pontón,Marco / Cajón / Pórtico,8400
+BARROMAN,CL-605,Puente,Boveda,18000
+PALACIOS DE LA SIERRA,CL-117,Pontón,Boveda,8500
+TARDAJOS,A-231,Puente,Convencional losa/cajón,32300
+SOTO DE CERRATO,P-121,Pontón,Tubo,4640
+VALDELALOBA,CL-631,Puente,Convencional vigas,15000
+CUENCA DE CAMPOS,VA-905,Pontón,Boveda,5700
+RODA DE ERESMA,A-601,Puente,Marco / Cajón / Pórtico,12000
+VILLABLINO,CL-626,Puente,Convencional vigas,10000
+SANTAS MARTAS,A-231,Puente,Convencional losa/cajón,96300
+MONTEJOS DEL CAMINO,LE-441,Puente,Convencional losa/cajón,59000
+VILLAQUIRAN DE LOS INFANTES,BU-101,Puente,Convencional vigas,50800
+ALAEJOS,CL-602,Puente,Marco / Cajón / Pórtico,20600
+LAGUNA DE DUERO,A-601,Puente,Convencional vigas,18500
+NAVALMANZANO,SC-SG-23,Puente,Tubo,12300
+FUENTELCÉSPED,BU-932,Puente,Boveda,13850
+EL LOSAR DEL BARCO (NAVAMORISCA),AV-100,Puente,Convencional vigas,19300
+SANCHIDRIAN,CL-507,Puente,Boveda,11000
+VEGACERVERA,LE-315,Puente,Boveda,17500
+MAGAZ,CL-619,Puente,Convencional vigas,17600
+BAMBA,ZA-610,Puente,Marco / Cajón / Pórtico,11500
+ARANDA DE DUERO,CL-619,Puente,Boveda,14500
+ALDEANUEVA DEL CODONAL,CL-605,Puente,Boveda,15000
+HOSPITAL DE ORBIGO,CL-621,Puente,Convencional vigas,18000
+NAVALUENGA,AV-902,Puente,Boveda,14200
+PRADO DE GUZPEÑA,CL-626,Puente,Convencional vigas,14000
+EL CABACO,SA-201,Puente,Boveda,10000
+MATARROSA DE SIL,CL-631,Puente,Convencional vigas,14000
+TÁBARA,ZA-100,Puente,Boveda,11000
+BRIVIESCA,CL-632,Puente,Convencional vigas,12000
+MONTEAGUDO DE LAS VICARIAS,CL-116,Puente,Convencional vigas,15300
+ZAMORA,ZA-325,Puente,Convencional vigas,13600
+VILLOVELA DE ESGUEVA,CL-619,Puente,Convencional vigas,18000
+PEDRALBA DE LA PRADERIÁ,ZA-925,Puente,Convencional vigas,10750
+MOLEZUELAS DE LA CARBALLEDA,ZA-111,Puente,Convencional losa/cajón,10200
+LA ROBLA,CL-626,Puente,Convencional vigas,26000
+OSONA,SO-100,Puente,Boveda,13400
+CAMPOHERMOSO,CL-626,Puente,Convencional vigas,16000
+VILLOTILLA,A-231,Puente,Marco / Cajón / Pórtico,19000
+LA ROBLA,CL-626,Puente,Convencional vigas,18200
+GUARRETE,ZA-605,Puente,Boveda,17600
+VEGUELLINA DE ORBIGO,LE-420,Puente,Convencional vigas,50200
+VILLAR DEL YERMO,CL-621,Puente,Convencional vigas,13000
+COSCURITA,CL-116,Puente,Convencional vigas,22000
+CASTRONUÑO,CL-602,Puente,Marco / Cajón / Pórtico,20700
+NAVALPERAL DE PINARES,CL-505,Puente,Convencional vigas,10600
+VILLATE,BU-551,Puente,Convencional vigas,20200
+AVELLANOSA DE MUÑO,BU-114,Puente,Boveda,11500
+ALAEJOS,CL-602,Puente,Marco / Cajón / Pórtico,20500
+ORÓN,BU-730,Puente,Convencional vigas,18200
+CAMPONARAYA,LE-713,Puente,Convencional vigas,23000
+VILLAVERDE DE MEDINA,CL-602,Puente,Convencional vigas,33600
+CALZADA DE MOLINOS,A-231,Puente,Convencional vigas,46000
+OLMEDO,CL-602,Puente,Convencional vigas,42000
+LARRODRIGO,SA-113,Puente,Convencional losa/cajón,21900
+QUINTANA REDONDA,SO-100,Puente,Convencional vigas,29000
+EL CUBO DE LA TIERRA DEL VINO,ZA-602,Puente,Convencional losa/cajón,12800
+PUEBLA DE SANABRIA,ZA-104,Puente,Convencional losa/cajón,70000
+SALDAÑA DE BURGOS,SC-BU-17,Puente,Boveda,12100
+CIUDAD RODRIGO,CL-526,Puente,Convencional losa/cajón,67500
+VILLARDECIERVOS,ZA-912,Puente,Convencional vigas,15000
+CIUDAD RODRIGO,SA-213,Puente,Convencional losa/cajón,57000
+FRECHILLA,P-924,Puente,Marco / Cajón / Pórtico,11600
+VALLADOLID,VA-900,Puente,Convencional vigas,52500
+REVELLINOS,ZA-715,Puente,Convencional losa/cajón,11000
+EL CUBO DE LA TIERRA DEL VINO,ZA-602,Puente,Convencional losa/cajón,68000
+CASTRONUEVO DE LOS ARCOS,CL-612,Puente,Boveda,10500
+ARÉVALO,CL-605,Puente,Convencional vigas,47000
+MEDINACELI,SO-411,Puente,Boveda,11750
+BEMBIBRE,LE-463,Puente,Convencional vigas,45000
+RIOSECO DE TAPIA,LE-420,Puente,Convencional vigas,16800
+ATAQUINES,VA-801,Puente,Convencional vigas,46000
+CASTRONUÑO,CL-602,Puente,Boveda,17450
+BURGOS,BU-622,Puente,Convencional losa/cajón,34200
+CASTRONUÑO,CL-602,Puente,Convencional vigas,31400
+SAHAGUN,A-231,Puente,Convencional vigas,23200
+MAHIDE,ZA-912,Puente,Boveda,11000
+PUENTE DUERO,CL-610,Puente,Convencional vigas,89000
+VECINOS,SA-210,Puente,Boveda,23800
+LA LASTRILLA,A-601,Puente,Convencional vigas,12000
+OSONILLA,SO-100,Puente,Boveda,13400
+CARRION DE LOS CONDES,A-231,Puente,Convencional vigas,14100
+VILLASANA DE MENA,BU-554,Puente,Convencional vigas,26500
+CARRION DE LOS CONDES,A-231,Puente,Convencional vigas,17000
+FARAMONTANOS DE TÁBARA,ZA-123,Puente,Convencional vigas,27000
+CARRIÓN DE LOS CONDES,A-231,Puente,Convencional vigas,14000
+TÁBARA,ZA-902,Puente,Boveda,17000
+CANDELEDA,CL-501,Puente,Arco,39000
+TARDOBISPO,ZA-330,Puente,Boveda,19000
+SAN ESTEBAN DEL VALLE,AV-922,Puente,Convencional losa/cajón,19140
+GÓMARA,CL-101,Puente,Boveda,10000
+LANZAHITA,CL-501,Puente,Boveda,10000
+FUENTES DE CARBAJALS,LE-512,Puente,Boveda,12850
+MIJARES,AV-901,Puente,Boveda,14150
+MONTORIO,SC-BU-13,Puente,Boveda,4000
+BURGOHONDO,AV-901,Puente,Boveda,36300
+LAGUNA DE NEGRILLOS,LE-411,Puente,Convencional vigas,12900
+PALANQUINOS,LE-512,Puente,Convencional vigas,67500
+ZAMORA,ZA-330,Puente,Boveda,10600
+CARRION DE LOS CONDES,P-241,Puente,Convencional vigas,21300
+LARIO,CL-635,Puente,Boveda,14000
+ALMENAR DE SORIA,CL-101,Puente,Convencional vigas,50000
+PEÃÑALBA DE AVILA,AV-804,Puente,Convencional vigas,24700
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Puente,Convencional vigas,14000
+ZARZOSO,SA-201,Puente,Convencional vigas,20300
+SAN MAMES DE CAMPOS,A-231,Puente,Convencional vigas,14000
+TAMAMES,SA-210,Puente,Boveda,24000
+GOMARA,CL-101,Puente,Convencional vigas,15000
+OLLEROS DE ALBA,CL-626,Puente,Convencional vigas,96000
+PUENTE DUERO,CL-610,Puente,Marco / Cajón / Pórtico,10000
+POVEDA DE LAS CINTAS,SA-810,Puente,Boveda,17600
+TARDAJOS,A-231,Puente,Convencional losa/cajón,33000
+SAN FELICES DE LOS GALLEGOS,SA-324,Puente,Boveda,10200
+TARDAJOS,A-231,Puente,Convencional losa/cajón,33000
+SANTAS MARTAS,SC-LE-7,Puente,Convencional vigas,16100
+SAHAGUN,A-231,Puente,Convencional vigas,16500
+CANDELEDA,CL-501,Puente,Marco / Cajón / Pórtico,10240
+LUMBRALES,CL-517,Puente,Boveda,39700
+FUENTES DE CARBAJAL,LE-512,Puente,Boveda,12850
+LUMBRALES,SA-324,Puente,Boveda,25800
+BELORADO,BU-710,Puente,Convencional losa/cajón,10200
+LEDESMA,SA-311,Puente,Boveda,15400
+VILLADALVIN,CL-615,Puente,Boveda,13100
+SARDÓN DE LOS FRAILES,SA-302,Puente,Convencional losa/cajón,11000
+VALDECARROS,SA-113,Puente,Boveda,10500
+SIETEIGLESIAS DE TORMES,SA-114,Puente,Boveda,10900
+NAVARREDONDILLA,AV-905,Puente,Convencional vigas,15900
+ANAYA DE ALBA,CL-510,Puente,Marco / Cajón / Pórtico,13000
+SAN JUAN DE MOLINILLO,AV-905,Puente,Boveda,17000
+GRAJAL DE RIBERA,LE-412,Puente,Convencional vigas,29800
+NAVATALGORDO,AV-905,Puente,Convencional vigas,17600
+VILLOLDO,SC-P-12,Puente,Boveda,63300
+SAELICES EL CHICO,SA-324,Puente,Boveda,29250
+MORASVERDES,SA-220,Puente,Marco / Cajón / Pórtico,70000
+RABANAL DE ABAJO,CL-631,Puente,Convencional vigas,31500
+LEDESMA,SA-305,Puente,Boveda,23500
+SAN EMILIANO,LE-481,Puente,Boveda,29000
+LEDESMA,SA-311,Puente,Boveda,40000
+VILLASECO DE LOS REYES,SA-302,Puente,Marco / Cajón / Pórtico,12200
+FADON,CL-527,Puente,Boveda,65700
+DURUELO DE LA SIERRA,CL-117,Puente,Boveda,10800
+SAN FELICES DE LOS GALLEGOS,SA-324,Puente,Boveda,27000
+MONLEÓN,SA-212,Puente,Boveda,13200
+BERMILLO DE SAYAGO,ZA-311,Puente,Marco / Cajón / Pórtico,15400
+VILLARRÍN DE CAMPOS,ZA-702,Puente,Marco / Cajón / Pórtico,11250
+SANCHÓN DE LA RIBERA,SA-315,Puente,Boveda,20800
+ANDALUZ,SO-100,Puente,Boveda,14200
+LEDESMA,SA-311,Puente,Boveda,18700
+VENIALBO,ZA-610,Puente,Boveda,22650
+TAMAME,ZA-306,Puente,Boveda,15100
+OLMEDO,CL-602,Puente,Convencional vigas,30000
+VILLASECO DE LOS GAMITOS,CL-517,Puente,Boveda,34700
+ALMANZA,LE-232,Puente,Marco / Cajón / Pórtico,16300
+LEDESMA,SA-302,Puente,Boveda,24000
+NAVALUENGA,AV-902,Puente,Boveda,12700
+QUINTANA ENTREPEÑAS,BU-550,Puente,Convencional vigas,11200
+ENCINEDO,LE-126,Puente,Boveda,14000
+DIEGO ÁLVARO,AV-105,Puente,Convencional vigas,15300
+BURGOS,S/C,Puente,Tubo,14200
+VALENCIA DE DON JUAN,CL-621,Puente,Boveda,37200
+LAS QUINTANILLAS,A-231,Puente,Convencional vigas,11700
+VALENCIA DE DON JUAN,CL-621,Puente,Boveda,94200
+BERCIANOS DEL CAMINO,A-231,Puente,Boveda,10000
+VALENCIA DE DON JUAN,CL-621,Puente,Boveda,37200
+CARRIÓN DE LOS CONDES,A-231,Puente,Convencional vigas,13200
+ALMAZAN,CL-116,Puente,Convencional vigas,12000
+SEGOVIA,C-605,Puente,Convencional vigas,4000
+UNGO,CL-629,Puente,Marco / Cajón / Pórtico,45000
+SANTA MARIA DEL PARAMO,LE-413,Puente,Boveda,13500
+SAHECHORES,LE-231,Puente,Convencional vigas,12400
+LEDIGOS,A-231,Viaducto,Convencional vigas,100600
+BOADILLA DE RIOSECO,P-905,Puente,Convencional vigas,12000
+LEDIGOS,A-231,Viaducto,Convencional vigas,117350
+MURIAS DE PONJOS,LE-460,Puente,Convencional losa/cajón,13800
+CALZADA DE LOS MOLINOS,A-231,Viaducto,Convencional vigas,151500
+SANTAS MARTAS,A-231,Puente,Convencional vigas,15600
+CESPEDOSA DE TORMES,SA-104,Viaducto,Arco,267000
+AMBASAGUAS DE CURUEÃ‘O,CL-624,Puente,Convencional vigas,15100
+VILLASUR DE HERREROS,BU-820,Viaducto,Convencional vigas,104000
+MELGAR DE FERNAMENTAL,A-231,Puente,Convencional vigas,15000
+HERNANSANCHO,CL-507,Viaducto,Boveda,106800
+OLMILLOS DE SASAMÓN,A-231,Puente,Convencional vigas,12000
+OLMEDO,VA-410,Viaducto,Convencional vigas,127000
+VILLANUEVA DE LAS MANZANAS,A-231,Puente,Convencional vigas,15300
+LA FREGUENEDA,CL-517,Viaducto,Convencional celosía,140000
+PADILLA DE ABAJO,A-231,Puente,Convencional vigas,16000
+EL TIEMBLO,AV-512,Viaducto,Convencional vigas,110800
+PADILLA DE ABAJO,A-231,Puente,Convencional vigas,16000
+PALACIOS DE LA SIERRA,CL-117,Viaducto,Convencional vigas,276000
+TARDAJOS,A-231,Puente,Convencional vigas,20000
+TARDAJOS,A-231,Viaducto,Convencional vigas,443000
+TARDAJOS,A-231,Puente,Convencional vigas,20000
+EL BODÓN,CL-526,Viaducto,Convencional vigas,127500
+SANTAS MARTAS,A-231,Puente,Convencional losa/cajón,66000
+CARRIÓN DE LOS CONDES,A-231,Viaducto,Convencional celosía,160000
+SANTAS MARTAS,A-231,Puente,Convencional losa/cajón,54200
+CARRION DE LOS CONDES,SC-P-2,Viaducto,Boveda,122000
+CUELLAR,A-601,Puente,Convencional vigas,59100
+VILLAMURIEL DE CERRATO,SC-P-6,Viaducto,Boveda,149850
+TABANERA LA LUENGA,A-601,Puente,Marco / Cajón / Pórtico,12000
+ALMANZA,LE-232,Viaducto,Boveda,128000
+NAVALMANZANO,A-601,Puente,Convencional vigas,21300
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Viaducto,Convencional vigas,105000
+VALVERDE DEL MAJANO,CL-605,Puente,Convencional vigas,26400
+MASUECO,SA-314,Viaducto,Convencional vigas,174100
+SAN MIGUEL DEL ARROYO,A-601,Puente,Marco / Cajón / Pórtico,10550
+VALSALABROSO,SA-314,Viaducto,Convencional vigas,101500
+CARRIÓN DE LOS CONDES,A-231,Puente,Convencional vigas,21600
+GORMAZ,SO-160,Viaducto,Convencional vigas,180000
+PAMPLIEGA,BU-101,Puente,Boveda,20400
+PINO DEL ORO,ZA-321,Viaducto,Arco,186600
+VILLALPANDO,CL-612,Puente,Boveda,53600
+TORO,ZA-633,Viaducto,Convencional losa/cajón,154200
+RABANAL DE ABAJO,CL-631,Puente,Convencional vigas,12000
+FRIAS,BU-504,Viaducto,Boveda,129700
+RABANAL DE ABAJO,CL-631,Puente,Convencional vigas,16000
+PEDRAJAS DE SAN ESTEBAN,CL-602,Viaducto,Convencional vigas,128000
+ALIJA DEL INFANTADO,LE-114,Puente,Convencional losa/cajón,15000
+CISTIERNA,CL-626,Viaducto,Convencional vigas,155500
+ALIJA DEL INFANTADO,LE-114,Puente,Boveda,31000
+CISTIERNA,CL-626,Viaducto,Convencional vigas,140000
+VALENCIA DE DON JUAN,LE-512,Puente,Boveda,11000
+VILLANUEVA DE CARRIZO,LE-420,Viaducto,Convencional vigas,240000
+VALDERAS,LE-512,Puente,Boveda,20400
+SIMANCAS,CL-600,Viaducto,Convencional losa/cajón,157700
+VILLAQUEJIDA,LE-524,Puente,Convencional losa/cajón,28600
+SOTO DE CERRATO,P-121,Viaducto,Arco,103100
+ITERO DE LA VEGA,P-403,Puente,Boveda,23800
+TORQUEMADA,P-130,Viaducto,Boveda,301100
+ITERO DE LA VEGA,P-403,Puente,Boveda,12500
+HERRERA DE PISUERGA,P-627,Viaducto,Boveda,148000
+VALORIA LA BUENA,VA-103,Puente,Convencional vigas,14000
+CABEZÓN DE PISUERGA,VA-113,Viaducto,Boveda,154100
+VALORIA LA BUENA,VA-103,Puente,Convencional vigas,10900
+PUENTE DEL CONGOSTO,SA-102,Viaducto,Boveda,182000
+TAMARIZ DE CAMPOS,VA-920,Puente,Convencional vigas,18000
+SAN MAMÉS DE CAMPOS,A-231,Viaducto,Convencional vigas,219000
+FARAMONTANOS DE TÁBARA,ZA-123,Puente,Marco / Cajón / Pórtico,16200
+MONLERAS,SA-302,Viaducto,Convencional vigas,184000
+CASTROVERDE DE CAMPOS,ZA-524,Puente,Boveda,31000
+PONFERRADA,LE-711,Viaducto,Convencional losa/cajón,120000
+MOLACILLOS,ZA-711,Puente,Boveda,17500
+HORTEZUELA,CL-116,Puente,Boveda,165000
+QUINTANADIEZ DE LA VEGA,P-235,Puente,Boveda,16900
+REINOSA DE CERRATO,CL-619,Viaducto,Convencional vigas,135800
+CARDAÑO DE ABAJO,P-210,Puente,Convencional vigas,12150
+FROMISTA,P-430,Puente,Boveda,10200
+MATAMALA DE ALMAZÁN,SO-110,Puente,Tubo,12300
+CASTRONUÑO,CL-602,Puente,Convencional losa/cajón,16800
+LORENZANA,CL-623,Puente,Marco / Cajón / Pórtico,19200
+VILLEGAS,BU-640,Puente,Boveda,10600
+QUINTANABALDO,BU-561,Puente,Boveda,16500
+NOVIERCAS,CL-101,Puente,Convencional vigas,10000
+BURGO RANERO,A-231,Puente,Convencional vigas,32600
+ZORITA DE LA LOMA,VA-931,Puente,Convencional vigas,11350
+ARANDA DE DUERO,BU-950,Puente,Convencional vigas,10000
+OSORNO,A-231,Puente,Arco,76000
+OSORNO,A-231,Puente,Arco,76000
+EL JUNQUERAL,CL-615,Puente,Convencional vigas,30000
+HERRERA DE PISUERGA,P-627,Puente,Boveda,27000
+PALENCIA,P-901,Puente,Convencional vigas,37600
+CAPILLAS,P-922,Puente,Boveda,10000
+PAREDES DE NAVA,P-924,Puente,Boveda,10000
+FRECHILLA,P-924,Puente,Boveda,13200
+ABARCA DE CAMPOS,P-941,Puente,Boveda,11000
+FUENTES DE NAVA,P-953,Puente,Boveda,10700
+FUENTES DE CARBAJAL,LE-512,Puente,Convencional vigas,10800
+MELGAR DE FERNAMENTAL,A-231,Puente,Convencional vigas,12800
+HINOJAR DE CERVERA,BU-910,Puente,Convencional vigas,17200
+ARIJA,BU-642,Puente,Boveda,63000
+OSORNO,A-231,Puente,Convencional vigas,64600
+TARILONTE DE LA PEÃ‘A,CL-626,Puente,Convencional vigas,27500
+ARÉVALO,SC-AV-3,Puente,Convencional vigas,18200
+CISNEROS,P-970,Puente,Convencional vigas,23000
+MATAPOZUELOS,VA-404,Puente,Convencional vigas,79000
+SANTIBÁÑEZ DE LA SIERRA,SA-220,Puente,Boveda,40000
+SOTOSERRANO,SA-225,Puente,Boveda,89300
+BURGOHONDO,AV-901,Puente,Boveda,28960
+BURGOHONDO,AV-913,Puente,Boveda,35040
+BELMONTE DE CAMPOS,P-913,Puente,Convencional vigas,17100
+HUERTA DEL REY,BU-925,Puente,Boveda,15000
+HONTORIA DE VALDEARADOS,BU-923,Puente,Boveda,15800
+POYALES DEL HOYO,CL-501,Puente,Convencional vigas,31200
+SAN PEDRO DEL ARROYO,AV-114,Puente,Convencional vigas,13700
+AREVALO,S/C,Puente,Boveda,59700
+RETORTILLO,BU-143,Puente,Convencional celosía,34300
+COVARRUBIAS,BU-905,Puente,Boveda,76000
+VILLASUR DE HERREROS,BU-820,Puente,Boveda,36000
+PINEDA DE LA SIERRA,BU-820,Puente,Boveda,10800
+ARLANZÓN,BU-820,Puente,Boveda,58400
+PALENZUELA,P-131,Puente,Convencional vigas,34600
+OTERO DE GUARDO,P-210,Puente,Boveda,34300
+ARMENTIA,BU-750,Puente,Boveda,16950
+VENTAS DE ALBAINA,CL-127,Puente,Boveda,10000
+PALACIOS DE LA SIERRA,CL-117,Puente,Boveda,11400
+HOYOS DEL ESPINO,AV-931,Puente,Boveda,23000
+LA ALBERCA,SA-201,Puente,Boveda,12600
+CALAHORRA DE BOEDO,P-231,Puente,Boveda,28400
+YELO,SO-132,Puente,Boveda,10500
+ENCINEDO,LE-126,Puente,Convencional losa/cajón,46000
+SERÓN DE NÁGIMA,SO-340,Puente,Convencional losa/cajón,20600
+PALENCIA,CL-615 V.S.I.,Puente,Boveda,60000
+VILLOLDO,CL-615,Puente,Convencional vigas,91200
+CARRIÓN DE LOS CONDES,CL-615,Puente,Boveda,65500
+TRIOLLO,P-210,Puente,Convencional vigas,81100
+VELILLA DEL RIO CARRION,P-210,Puente,Arco,28400
+PALENCIA,P-900,Puente,Boveda,41000
+VILLAMURIEL DE CERRATO,P-900,Puente,Convencional vigas,89650
+HUSILLOS,P-991,Puente,Boveda,50000
+HUSILLOS,P-991,Puente,Convencional vigas,37700
+TANARRO,SG-205,Puente,Boveda,21000
+PUEBLA DE SANABRIA,SC-ZA-1,Puente,Convencional losa/cajón,87300
+SAHAGUN,A-231,Puente,Convencional vigas,63200
+CASTROBOL,VA-542,Puente,Boveda,12600
+CUELLAR,A-601,Puente,Convencional vigas,88000
+CUELLAR,A-601,Puente,Convencional vigas,88000
+VIANA DE CEGA,CL-600,Puente,Convencional vigas,41400
+MATA DE CUELLAR,CL-602,Puente,Convencional vigas,53000
+VIANA DE CEGA,SC-VA-3,Puente,Boveda,20000
+CUELLAR,SG-342,Puente,Convencional vigas,43000
+MOJADOS,VA-301,Puente,Boveda,86500
+VILLAR DEL RÍO,SO-615,Puente,Boveda,54000
+SAN BARTOLOME DE CORNEJA,AV-104,Puente,Boveda,44000
+AMBASAGUAS DE CURUEÑO,CL-624,Puente,Convencional vigas,74800
+LA VECILLA,CL-626,Puente,Convencional vigas,53000
+TOLIBIA DE ABAJO,LE-321,Puente,Boveda,16500
+LUGUEROS,LE-321,Puente,Boveda,27450
+LEDIGOS,P-970,Puente,Convencional vigas,13070
+SUEROS DE CEPEDA,LE-451,Puente,Convencional vigas,21000
+HERRERA DE DUERO,A-601,Puente,Convencional vigas,91000
+HERRERA DE DUERO,A-601,Puente,Convencional vigas,98000
+SAN MARTÍN DE RUBIALES,BU-131,Puente,Boveda,127500
+DURUELO DE LA SIERRA,CL-117,Puente,Boveda,26800
+OTERUELOS,SO-800,Puente,Boveda,44000
+ROA DE DUERO,SC-BU-25,Puente,Boveda,82000
+SAN MIGUEL DE BERNUY,CL-603,Puente,Boveda,30000
+VILLANUEVA SOPORTILLA,BU-525,Puente,Convencional losa/cajón,93600
+VILLAFUERTE,VA-101,Puente,Boveda,15000
+SABERO,CL-626,Puente,Convencional vigas,95000
+MIRANDA DEL CASTAÑAR,SA-225,Puente,Boveda,18300
+GARCIHERNANDEZ,SA-114,Puente,Convencional vigas,48300
+CANDELEDA,AV-924,Puente,Convencional vigas,80415
+HORCAJO MEDIANERO,CL-510,Puente,Boveda,18000
+TORO,CL-602,Puente,Convencional vigas,34500
+VALLESA DE GUAREÑA,CL-605,Puente,Convencional vigas,41400
+LA BÓVEDA DE TORO,ZA-610,Puente,Boveda,45100
+COCULINA,BU-601,Puente,Marco / Cajón / Pórtico,14000
+CAÑIZAR DE ARGAÑO,BU-627,Puente,Convencional losa/cajón,10000
+VEGA DE VALDETRONCO,SC-VA-13,Puente,Boveda,11800
+BERROCAL DE HUEBRA,SA-210,Puente,Boveda,20050
+TRUCHAS,LE-126,Puente,Convencional vigas,40800
+QUINTANA Y CONGOSTO,LE-125,Puente,Convencional vigas,16250
+PALAZUELOS DE CUESTAURRIA,BU-530,Puente,Boveda,33000
+PEDROSA DE TOBALINA,BU-532,Puente,Boveda,37620
+ASTORGA,LE-142,Puente,Convencional vigas,11000
+LAS VEGAS,BU-570,Puente,Boveda,10660
+VALSALABROSO,SC-SA-7,Puente,Boveda,32600
+CANALES,LE-493,Puente,Boveda,51000
+SANTIBAÑEZ DE ORDAS,LE-460,Puente,Convencional vigas,87000
+MACOTERA,SA-113,Puente,Boveda,41800
+COCA DE ALBA,SA-114,Puente,Boveda,25700
+MAZORES VIEJO,CL-605,Puente,Convencional vigas,11550
+NAVALCABALLO,SO-100,Puente,Convencional vigas,19000
+ANAYA,CL-605,Puente,Convencional vigas,72000
+VEGAS DE MATUTE,SG-722,Puente,Boveda,18200
+SAN LLORENTE,BU-550,Puente,Boveda,20200
+VILLACOMPARADA DE RUEDA,BU-562,Puente,Boveda,21500
+BOCO,CL-629,Puente,Boveda,80000
+BRIVIESCA,CL-632,Puente,Convencional vigas,18000
+CORNUDILLA,CL-633,Puente,Convencional vigas,17700
+CASTROJERIZ,BU-400,Puente,Convencional vigas,56000
+VILLAMAYOR DE TREVIÑO,BU-601,Puente,Boveda,50000
+TRASCASTRO,LE-451,Puente,Convencional vigas,48000
+LA BAÑEZA,CL-622,Puente,Convencional vigas,92000
+ORON,BU-730,Puente,Boveda,29900
+CARBONERO EL MAYOR,A-601,Puente,Boveda,41250
+ISCAR,CL-602,Puente,Convencional vigas,33800
+VILLOVELA DE PIRON,CL-603,Puente,Convencional vigas,14000
+CERVERA DE PISUERGA,CL-627,Puente,Boveda,52700
+VALORIA LA BUENA,VA-103,Puente,Boveda,80000
+BOÑAR,CL-626,Puente,Convencional vigas,67000
+CAMPOSOLILLO,LE-331,Puente,Convencional vigas,17400
+BOÑAR,LE-331,Puente,Convencional vigas,69000
+RAMACASTAÑAS,CL-501,Puente,Convencional vigas,53560
+VINUESA,SO-820,Puente,Boveda,22000
+VINUESA,SO-820,Puente,Convencional vigas,27050
+VILLASRRUBIAS,CL-526,Puente,Boveda,30800
+SAN FELIZ DE TORIO,LE-311,Puente,Boveda,16400
+GÓMARA,SO-340,Puente,Convencional vigas,14300
+CONSUEGRA DE MUERA,SG-232,Puente,Boveda,29000
+SEDANO,BU-514,Puente,Boveda,13200
+VILLADA,CL-613,Puente,Convencional vigas,26270
+VILLADA,P-905,Puente,Convencional losa/cajón,32000
+LA OLMEDA,SO-160,Puente,Boveda,14000
+TORDEHUMOS,VA-524,Puente,Convencional vigas,37100
+BELVER DE LOS MONTES,ZA-714,Puente,Convencional vigas,37600
+RABANAL DE ABAJO,CL-631,Puente,Convencional vigas,97500
+VILLABLINO,CL-631,Puente,Convencional vigas,78000
+GALANDE,ZA-103,Puente,Arco,39300
+EL PUENTE DE SANABRIA,ZA-104,Puente,Boveda,30200
+CANDELEDA,AV-910,Puente,Boveda,76300
+BELORADO,BU-710,Puente,Boveda,81000
+VILLAGALIJO,BU-811,Puente,Convencional vigas,20800
+SERRILLA,LE-315,Puente,Convencional vigas,40000
+VEGACERVERA,LE-315,Puente,Boveda,14750
+TRABANCA,SA-316,Puente,Boveda,85700
+ALAEJOS,CL-602,Puente,Convencional vigas,40000
+MADRIGAL DE LAS ALTAS TORRES,CL-605,Puente,Convencional vigas,46550
+ALMAGARINOS,LE-460,Puente,Convencional vigas,9700
+POBLADURAS DE LAS REGUERAS,LE-460,Puente,Convencional vigas,20000
+TREMOR DE ABAJO,LE-460,Puente,Convencional vigas,14000
+DURUELO DE LA SIERRA,CL-117,Puente,Boveda,40200
+ESPINOSA DE LOS MONTEROS,BU-526,Puente,Boveda,32430
+LAS MACHORRAS,BU-570,Puente,Boveda,33200
+LAS MACHORRAS,BU-572,Puente,Boveda,11500
+VILLABLINO,LE-497,Puente,Boveda,10000
+SOTOPALACIOS,CL-629,Puente,Boveda,12800
+BURGO DE OSMA,SO-160,Puente,Boveda,13400
+UCERO,SO-920,Puente,Boveda,35000
+POBLACIÓN DE CAMPOS,P-980,Puente,Boveda,50000
+AMUSCO,P-983,Puente,Boveda,34500
+MONZÓN DE CAMPOS,P-984,Puente,Convencional vigas,32200
+MELGAR DE FERNAMENTAL,A-231,Puente,Convencional vigas,95200
+CASTRILLO DE VILLAVEGA,P-236,Puente,Boveda,40300
+VILLAVEGA,P-236,Puente,Convencional vigas,56100
+FRECHILLA,P-924,Puente,Boveda,29600
+MAZARIEGOS,P-940,Puente,Convencional losa/cajón,19100
+AUTILLO DE CAMPOS,P-953,Puente,Boveda,26100
+GRADEFES,LE-213,Puente,Boveda,53000
+CORBÓN DE SIL,CL-631,Puente,Boveda,11000
+MOLACILLOS,ZA-711,Puente,Convencional vigas,31500
+LANTADILLA,P-434,Puente,Convencional vigas,12960
+SANTIBAÑEZ DE BEJAR,SA-102,Puente,Boveda,14600
+OLMOS DE ATAPUERCA,BU-701,Puente,Convencional losa/cajón,12300
+OLMOS DE ATAPUERCA,BU-701,Puente,Boveda,11000
+VILLARMERIEL,LE-451,Puente,Boveda,10000
+MONTERRUBIO,SG-322,Puente,Boveda,14500
+PEROMINGO,SG-322,Puente,Boveda,34000
+VILLARES DE YELTES,SA-325,Puente,Arco,77250
+MIRANDA DE EBRO,BU-740,Puente,Boveda,65240
+ATAQUINES,VA-801,Puente,Boveda,10470
+CARBONERO EL MAYOR,A-601,Puente,Marco / Cajón / Pórtico,12000
+TORENO,CL-631,Puente,Convencional vigas,14000
+SOTO DE CERRATO,P-121,Puente,Convencional vigas,35400
+ALDEALENGUA,SA-804,Puente,Convencional vigas,14000
+BERCEDO,BU-526,Puente,Convencional vigas,15200
+LA PUEBLA DE ARGANZÓN,CL-127,Puente,Convencional vigas,14200
+PALENCIA,CL-615,Puente,Convencional losa/cajón,33300
+SALINAS DE PISUERGA,CL-626,Puente,Convencional vigas,31000
+UNGO,CL-629,Puente,Convencional vigas,34300
+GUIJANO DE MENA,CL-629,Puente,Convencional vigas,24100
+VILLADANGOS DEL PARAMO,LE-413,Puente,Convencional losa/cajón,10000
+SANTA CRUZ DE BOEDO,P-232,Puente,Convencional vigas,34320
+GUIJUELO,SA-212,Puente,Convencional vigas,30000
+LA PINILLA,SG-115,Puente,Convencional vigas,34500
+ATAQUINES,VA-410,Puente,Convencional vigas,63400
+PARDAVE,LE-311,Puente,Convencional vigas,13000
+PARDAVE,LE-311,Puente,Convencional vigas,24000
+CARNEROS,LE-451,Puente,Convencional vigas,51000
+MEDINACELI,SO-411,Puente,Convencional vigas,25000
+VIANA DE CEGA,CL-600,Puente,Convencional vigas,57000
+CISTIERNA,CL-626,Puente,Convencional vigas,20600
+MORQUERA,CL-605,Puente,Convencional vigas,32000
+NAVA DEL REY,CL-602,Puente,Convencional vigas,20200
+GRAJAL DE CAMPOS,CL-613,Puente,Convencional vigas,18450
+TORRE DEL BIERZO,LE-106,Puente,Convencional vigas,26000
+CIUDAD RODRIGO,SA-213,Puente,Convencional vigas,28750
+SAN PEDRO DE ARROYO,CL-507,Puente,Convencional losa/cajón,83000
+CIUDAD RODRIGO,SA-220,Paso Inferior,Convencional losa/cajón,63300
+VILLAMAYOR,SA-300,Puente,Convencional losa/cajón,42900
+AGUILAREJO,VA-113,Puente,Convencional vigas,71100
+POZUELO DEL PÁRAMO,LE-114,Puente,Convencional losa/cajón,61000
+ASTORGA,LE-142,Puente,Convencional losa/cajón,61000
+HOSPITAL DE ÓRBIGO,LE-420,Puente,Convencional losa/cajón,70300
+BURGOS,BU-622,Puente,Convencional losa/cajón,33000
+CARRION DE LOS CONDES,A-231,Puente,Convencional vigas,14100
+CANDELEDA,CL-501,Puente,Convencional vigas,41500
+LA ADRADA,CL-501,Puente,Boveda,12800
+PIEDRALAVES,CL-501,Puente,Boveda,22640
+OSORNO,A-231,Puente,Convencional vigas,14050
+OSORNO,A-231,Puente,Convencional vigas,10000
+BLASCOSANCHO,CL-507,Puente,Convencional losa/cajón,49000
+OSORNO,A-231,Puente,Convencional losa/cajón,29000
+TERRADILLOS DE LOS TEMPLARIOS,A-231,Puente,Convencional vigas,14000
+GOMARA,CL-101,Puente,Convencional vigas,15000
+AGREDA,CL-101,Puente,Convencional vigas,16000
+SAHAGUN,A-231,Puente,Convencional vigas,14800
+PALENCIA,A-610,Puente,Marco / Cajón / Pórtico,9750
+BARCEO,SA-314,Puente,Boveda,13800
+MONLERAS,SC-SA-6,Puente,Convencional losa/cajón,16400
+SAN PEDRO DE ROZADOS,CL-512,Puente,Boveda,10550
+PALENZUELA,P-131,Puente,Boveda,13300
+VILLALUMBROSO,CL-613,Puente,Convencional losa/cajón,16550
+BASCONES DE OJEDA,P-223,Puente,Convencional vigas,28500
+VELILLA DEL RIO CARRION,P-215,Puente,Boveda,47000
+COBOS DE CERRATO,P-143,Puente,Boveda,10200
+BOADILLA DE RIOSECO,SC-P-1,Puente,Boveda,33000
+TENEBRÓN,SA-220,Puente,Boveda,35000
+PUEBLA DE AZABA,SA-200,Puente,Boveda,18000
+BERMILLO DE SAYAGO,CL-527,Puente,Boveda,14700
+VILLASECO DE LOS REYES,SA-302,Puente,Boveda,34000
+PERERUELA,CL-527,Puente,Convencional vigas,22500
+COVARRUBIAS,BU-901,Puente,Boveda,18500
+VALENCIA DE DON JUAN,CL-621,Puente,Boveda,56000
+VILLABLINO,LE-493,Puente,Convencional vigas,52600
+VILLABLINO,LE-493,Puente,Convencional vigas,20000
+VILLASECA DE LACIANA,CL-626,Puente,Boveda,38400
+SEGOVIA,C-605,Puente,Boveda,25000
+RODA DE ERESMA,A-601,Viaducto,Convencional vigas,197480
+ARÉVALO,CL-605,Viaducto,Convencional vigas,250000
+AREVALO,SG-413,Viaducto,Convencional vigas,131200
+VILLALBA DE ADAJA,VA-405,Viaducto,Convencional vigas,103400
+ROBLEDA,CL-526,Viaducto,Convencional losa/cajón,367300
+LOSACINO,ZA-902,Viaducto,Convencional vigas,114300
+AREVALO,CL-605,Viaducto,Convencional losa/cajón,195500
+PALENZUELA,P-131,Viaducto,Boveda,101600
+VALDERAS,LE-512,Viaducto,Convencional vigas,140200
+HORTEZUELA,CL-116,Viaducto,Convencional vigas,125000
+PUENTE DUERO,CL-610,Viaducto,Convencional vigas,119000
+ANDALUZ,SO-100,Viaducto,Convencional vigas,110000
+PEÑAFIEL,VA-101,Viaducto,Arco,122000
+GRADEFES,LE-213,Viaducto,Boveda,170750
+VILLAFER,LE-524,Viaducto,Convencional celosía,168000
+BRETÓ,ZA-100,Viaducto,Convencional vigas,447100
+CANDELEDA,CL-501,Viaducto,Convencional vigas,210000
+VILLANUEVA DE ARGAÑO,A-231,Viaducto,Convencional losa/cajón,551500
+CERRALBO - ENCINASOLA DE LOS COMENDADORES,CL-517,Viaducto,Convencional vigas,296000
+MELGAR DE FERNAMENTAL,A-231,Viaducto,Arco,153900
+SOTO DE CERRATO,P-121,Viaducto,Convencional vigas,107600
+LANTADILLA,P-434,Viaducto,Boveda,154500
+REINOSO DE CERRATO,SC-P-10,Viaducto,Convencional vigas,291000
+SIMANCAS,SC-VA-1,Viaducto,Boveda,233000
+PALAZUELO DE BOÑAR,CL-624,Viaducto,Arco,179070
+CAMARZANA DE TERA,ZA-105,Viaducto,Convencional vigas,126100
+LA BAÑEZA,LE-420,Viaducto,Convencional vigas,172850
+SAN MAMÉS DE CAMPOS,A-231,Viaducto,Convencional vigas,212000
+CIBANAL,CL-527,Viaducto,Convencional vigas,173800
+CUBILLAS DE SANTA MARTA,VA-103,Viaducto,Convencional losa/cajón,144000
+OSORNO,A-231,Viaducto,Convencional losa/cajón,105000
+BURGOS,BU-622,Viaducto,Convencional vigas,103200
